@@ -1,0 +1,751 @@
+prediction	target	average probability	entropy	edit_distance	uncertainty_value
+n i e o s i w i o n e m u	n i e o s i w i o n e m u	0.1960950493812561	tensor(0.3195)	-2	0.3194693922996521
+n i e m i ę d z y g r o m a d z k o ś c i a c h	n i e m i ę d z y g r o m a d z k o ś c i a c h	0.1953970193862915	tensor(0.3190)	-2	0.31902897357940674
+p r z e s i ą k r a c h	p r z e s i ą k r a c h	0.19135316610336303	tensor(0.3164)	-2	0.31642821431159973
+n i e k a r n a w a ł o w a n i e	n i e k a r n a w a ł o w a n i e	0.19596898555755615	tensor(0.3194)	-2	0.31939002871513367
+n i e n a r o j e n i e m   s i ę	n i e n a r o j e n i e m   s i ę	0.19663434028625487	tensor(0.3198)	-2	0.3198079466819763
+n i e p o m r o c z e n i a	n i e p o m r o c z e n i a	0.18944686651229858	tensor(0.3152)	-2	0.31517264246940613
+z a ł a t w i e n i u	z a ł a t w i e n i u	0.19511871337890624	tensor(0.3189)	-2	0.3188526928424835
+s p r ó ż n o w a l i ś c i e   s i ę	s p r ó ż n o w a l i ś c i e   s i ę	0.19603739976882933	tensor(0.3194)	-2	0.3194330930709839
+g o r d i n g ó w	g o r d i n g ó w	0.19355131387710572	tensor(0.3179)	-2	0.3178524076938629
+b ę d z i e   r o z s i e r d z a ć	b ę d z i e   r o z s i e r d z a ć	0.19620413780212403	tensor(0.3195)	-2	0.3195379972457886
+n i e p r z e p l e n i e n i a	n i e p r z e p l e n i e n i a	0.19305171966552734	tensor(0.3175)	-2	0.31753093004226685
+n i e p o p r z e g l ą d a n i o m   s i ę	n i e p o p r z e g l ą d a n i o m   s i ę	0.19564275741577147	tensor(0.3192)	-2	0.3191843032836914
+e s o w a j ą c ą	e s u j ą c ą	0.19551875591278076	tensor(0.3191)	1	0.31910595297813416
+l n i a n o w ł o s o ś c i	l n i a n o w ł o s o ś c i	0.19358503818511963	tensor(0.3179)	-2	0.3178740441799164
+b a r b e c u	b a r b e c u e	0.09898149967193604	tensor(0.3808)	-1	0.3808414936065674
+n i e w i o n e j	n i e w i t e j	0.19580992460250854	tensor(0.3193)	0	0.31928980350494385
+n i e s k o p i o n y m	n i e s k o p i o n y m	0.19511696100234985	tensor(0.3189)	-2	0.3188515901565552
+k o z a k o w a n i e	k o z a k o w a n i e	0.19632258415222167	tensor(0.3196)	-2	0.31961241364479065
+n i e p r z e c h ł a d z a j ą c y m   s i ę	n i e p r z e c h ł a d z a j ą c y m   s i ę	0.19440630674362183	tensor(0.3184)	-2	0.3183996081352234
+s a m c z y k o w i	s a m c z y k o w i	0.1911430239677429	tensor(0.3163)	-2	0.3162907361984253
+p o k r w a w i e n i a	p o k r w a w i e n i a	0.19482327699661256	tensor(0.3187)	-2	0.31866511702537537
+n i e ł o w i e c k i e j	n i e ł o w i e c k i e j	0.19655836820602418	tensor(0.3198)	-2	0.31976035237312317
+o b s r y w a j ą c y m   s i ę	o b s r y w a j ą c y m   s i ę	0.18718658685684203	tensor(0.3137)	-2	0.31365910172462463
+n i e k l e p a r s k o ś c i a c h	n i e k l e p a r s k o ś c i a c h	0.19569064378738404	tensor(0.3192)	-2	0.3192145526409149
+a n i e l ą	a n i e l ą	0.19342728853225707	tensor(0.3178)	-2	0.3177727162837982
+t a b l e t k u j e	t a b l e t k u j e	0.19476172924041749	tensor(0.3186)	-2	0.3186259865760803
+d o j i e	d o j u	0.07876160740852356	tensor(0.2002)	0	0.2001592069864273
+n i e s i e k n i ę t y c h	n i e s i e k n i ę t y c h	0.19598145484924318	tensor(0.3194)	-2	0.319397896528244
+z a w ł ó c z y ł y b y   s i ę	z a w ł ó c z y ł y b y   s i ę	0.1965441584587097	tensor(0.3198)	-2	0.31975141167640686
+s z o ł o m i ą c e j	s z o ł o m i ą c e j	0.19237934350967406	tensor(0.3171)	-2	0.31709620356559753
+k a c e r s k u	k a c e r s k u	0.1949656128883362	tensor(0.3188)	-2	0.31875553727149963
+n i e o k u l e n i u	n i e o k u l e n i u	0.19444159269332886	tensor(0.3184)	-2	0.3184221088886261
+n i e o ś m n a s t o l e t n i ą	n i e o ś m n a s t o l e t n i ą	0.19601967334747314	tensor(0.3194)	-2	0.3194219470024109
+n i e u z i e m i o n e	n i e u z i e m i o n e	0.1952232837677002	tensor(0.3189)	-2	0.31891897320747375
+n i e u g ł a d z e n i a   s i ę	n i e u g ł a d z e n i a   s i ę	0.1867948055267334	tensor(0.3134)	-2	0.3133939802646637
+n i e o t r z e ź w i a ł y	n i e o t r z e ź w i a ł y	0.19163485765457153	tensor(0.3166)	-2	0.3166121244430542
+w y c z y s z c z a j ą c	w y c z y s z c z a j ą c	0.19364992380142212	tensor(0.3179)	-2	0.3179157078266144
+p r o c e n t o w n i	p r o c e n t o w n i	0.1915749192237854	tensor(0.3166)	-2	0.31657302379608154
+n i e z e s z ł o t y g o d n i o w o ś c i ą	n i e z e s z ł o t y g o d n i o w o ś c i ą	0.19726494550704957	tensor(0.3202)	-2	0.32020193338394165
+n i e p r z e g a l o p o w a n i a   s i ę	n i e p r z e g a l o p o w a n i a   s i ę	0.1871015429496765	tensor(0.3136)	-2	0.31360161304473877
+f u n d a m e n t o w o ś c i a c h	f u n d a m e n t o w o ś c i a c h	0.19655712842941284	tensor(0.3198)	-2	0.3197595477104187
+k a r i m a t a c h	k a r i m a t a c h	0.19344403743743896	tensor(0.3178)	-2	0.3177834749221802
+n i e l o m b a r d z k i e j	n i e l o m b a r d z k i e j	0.19540482759475708	tensor(0.3190)	-2	0.3190339207649231
+p ł a t n i c a m i	p ł a t n i c a m i	0.1933987021446228	tensor(0.3178)	-2	0.317754328250885
+n i e g u b e r n a t o r s k o ś c i a c h	n i e g u b e r n a t o r s k o ś c i a c h	0.19664127826690675	tensor(0.3198)	-2	0.3198122978210449
+z g r z e c z n i e n i u	z g r z e c z n i e n i u	0.1928663969039917	tensor(0.3174)	-2	0.317411333322525
+b ę d z i e c i e   p o d z w a n i a ł y	b ę d z i e c i e   p o d z w a n i a ł y	0.1963222861289978	tensor(0.3196)	-2	0.3196122348308563
+m a l e n i e c z k i	m a l e n i e c z k i	0.19555469751358032	tensor(0.3191)	-2	0.3191286623477936
+b ę d z i e m y   p o d ł a z i l i	b ę d z i e m y   p o d ł a z i l i	0.1858546495437622	tensor(0.3128)	-2	0.31275442242622375
+b ę d z i e c i e   a n g i e l s z c z y ł y	b ę d z i e c i e   a n g i e l s z c z y ł y	0.19676470756530762	tensor(0.3199)	-2	0.31988954544067383
+n i e l i l i o w o n i e b i e s k i e m u	n i e l i l i o w o n i e b i e s k i e m u	0.19388824701309204	tensor(0.3181)	-2	0.3180685043334961
+p o t r z ą c h a n i e	p o t r z ą c h a n i e	0.19632867574691773	tensor(0.3196)	-2	0.3196162283420563
+p o c h w y t ó w	p o c h w y t ó w	0.1926013469696045	tensor(0.3172)	-2	0.31723999977111816
+l i t e r n i c z k ą	l i t e r n i c z k ą	0.19210104942321776	tensor(0.3169)	-2	0.3169155716896057
+n i e z w i k ł a n i a c h   s i ę	n i e z w i k ł a n i a c h   s i ę	0.19575891494750977	tensor(0.3193)	-2	0.31925761699676514
+k w a l i f i k a c j i	k w a l i f i k a c j i	0.1781325101852417	tensor(0.3073)	-2	0.30731910467147827
+o d w d z i ę c z a j ą c e   s i ę	o d w d z i ę c z a j ą c e   s i ę	0.19429599046707152	tensor(0.3183)	-2	0.31832921504974365
+p o p r o s z e n i a	p o p r o s z e n i a	0.19376249313354493	tensor(0.3180)	-2	0.31798791885375977
+m a c i e ń k i e	m a c i e ń k i e	0.19614452123641968	tensor(0.3195)	-2	0.31950050592422485
+n i e b a s t o w a n i e	n i e b a s t o w a n i e	0.19546911716461182	tensor(0.3191)	-2	0.3190745711326599
+p r z e w ę d z i l i ś c i e   s i ę	p r z e w ę d z i l i ś c i e   s i ę	0.19648834466934204	tensor(0.3197)	-2	0.3197164535522461
+l e g o m i n i e	l e g o m i n i e	0.19381388425827026	tensor(0.3180)	-2	0.31802088022232056
+z ł o c ą c y   s i ę	z ł o c ą c y   s i ę	0.1946033716201782	tensor(0.3185)	-2	0.31852519512176514
+p r z y m n o ż y l i ś c i e	p r z y m n o ż y l i ś c i e	0.1933181643486023	tensor(0.3177)	-2	0.3177025318145752
+n a t r y s n i ę t e j	n a t r y ś n i ę t e j	0.19587318897247313	tensor(0.3193)	-1	0.3193296790122986
+n i e z a r y w a j ą c e   s i ę	n i e z a r y w a j ą c e   s i ę	0.19243742227554322	tensor(0.3171)	-2	0.3171338438987732
+z a t ł o c z m y	z a t ł o c z m y	0.18836393356323242	tensor(0.3145)	-2	0.31445086002349854
+o k r o j n i c ę	o k r o j n i c ę	0.192707359790802	tensor(0.3173)	-2	0.31730857491493225
+p r o s t a k o w i e	p r o s t a c y	0.18993520736694336	tensor(0.3155)	3	0.3154961168766022
+w i a n u j ę	w i a n u j ę	0.1960127592086792	tensor(0.3194)	-2	0.3194175958633423
+n i e p r z e s ą d z a n i e m	n i e p r z e s ą d z a n i e m	0.19512429237365722	tensor(0.3189)	-2	0.31885623931884766
+r o z m i o t u j ą c e	r o z m i o t y w a j ą c e	0.19601211547851563	tensor(0.3194)	1	0.31941717863082886
+n i e p o z a w i e s z a n e m u	n i e p o z a w i e s z a n e m u	0.19636563062667847	tensor(0.3196)	-2	0.3196394443511963
+n i e s i n i e n i a	n i e s i n i e n i a	0.1969267964363098	tensor(0.3200)	-2	0.31999093294143677
+p u s t y n i e l i b y ś c i e	p u s t y n n i e l i b y ś c i e	0.17005352973937987	tensor(0.3013)	-1	0.30127397179603577
+w y t l e w a j ą c e m u   s i ę	w y t l e w a j ą c e m u   s i ę	0.19453953504562377	tensor(0.3185)	-2	0.3184845447540283
+n i e z e s t y g n i ę t e	n i e z e s t y g n i ę t e	0.19439966678619386	tensor(0.3184)	-2	0.31839537620544434
+w y t r o p i e n i a   s i ę	w y t r o p i e n i a   s i ę	0.19607822895050048	tensor(0.3195)	-2	0.31945881247520447
+n i e w i e d ź m o w y c h	n i e w i e d ź m o w y c h	0.16144410371780396	tensor(0.2944)	-2	0.2944088578224182
+w ę ź l a s t a	w ę ź l a s t a	0.19127705097198486	tensor(0.3164)	-2	0.3163784444332123
+d r y g a n t a c h	d r y g a n t a c h	0.19345273971557617	tensor(0.3178)	-2	0.31778907775878906
+o p r z y r z ą d o w y w a n e g o	o p r z y r z ą d o w y w a n e g o	0.19416639804840088	tensor(0.3182)	-2	0.31824642419815063
+r o z p o r z ą d z o n y m i	r o z p o r z ą d z o n y m i	0.17823343276977538	tensor(0.3074)	-2	0.30739226937294006
+p o s ą d z a j ą c e m u	p o s ą d z a j ą c e m u	0.19560391902923585	tensor(0.3192)	-2	0.31915977597236633
+b ę d z i e s z   d o n o s i ł o   s i ę	b ę d z i e s z   d o n o s i ł o   s i ę	0.1922077178955078	tensor(0.3170)	-2	0.3169848620891571
+n i e t e r y g e n i c z n o ś c i a c h	n i e t e r y g e n i c z n o ś c i a c h	0.19574642181396484	tensor(0.3192)	-2	0.3192497193813324
+n i e z a n i e p r z y j a ź n i o ś c i ą	n i e z a n i e p r z y j a ź n i o n o ś c i ą	0.1889755368232727	tensor(0.3149)	0	0.3148592710494995
+o s w o j e c i e   s i ę	o s w o i c i e   s i ę	0.19105080366134644	tensor(0.3162)	0	0.31623032689094543
+p ó ł r o z w i ą z a ń	p ó ł r o z w i ą z a ń	0.1967008113861084	tensor(0.3198)	-2	0.31984958052635193
+s p a ź n i a ł a b y m   s i ę	s p a ź n i a ł a b y m   s i ę	0.19502038955688478	tensor(0.3188)	-2	0.3187903165817261
+n i e o d c i s n i ę t e	n i e o d c i ś n i ę t e	0.19479902982711791	tensor(0.3186)	-1	0.3186497092247009
+p ó ł t o r a r o c z n o ś c i	p ó ł t o r a r o c z n o ś c i	0.19582439661026002	tensor(0.3193)	-2	0.3192989230155945
+b ę d z i e c i e   z a l e c a ł y	b ę d z i e c i e   z a l e c a ł y	0.19534668922424317	tensor(0.3190)	-2	0.3189971148967743
+z w i t c e	z w i t c e	0.19283945560455323	tensor(0.3174)	-2	0.3173939287662506
+n i e p o d ź w i g a j ą c y   s i ę	n i e p o d ź w i g a j ą c y   s i ę	0.18573392629623414	tensor(0.3127)	-2	0.3126719295978546
+s z a t a n i a ł e m	s z a t a n i a ł e m	0.19470303058624266	tensor(0.3186)	-2	0.31858864426612854
+n i e z a ż a r t e m u	n i e z a ż a r t e m u	0.19683810472488403	tensor(0.3199)	-2	0.31993547081947327
+n i e z a m i e r z e n i a	n i e z a m i e r z e n i a	0.18414735794067383	tensor(0.3116)	-2	0.3115808367729187
+w i d y m a t ę	w i d y m a t ę	0.19409427642822266	tensor(0.3182)	-2	0.31820034980773926
+z l e w n i c ę	z l e w n i c ę	0.1910633325576782	tensor(0.3162)	-2	0.31623855233192444
+w y c i e ń c z y l i ś c i e	w y c i e ń c z y l i ś c i e	0.19188307523727416	tensor(0.3168)	-2	0.31677383184432983
+p o r o z u m n i e n i a	p o r o z u m n i e n i a	0.18758690357208252	tensor(0.3139)	-2	0.31392914056777954
+n i e p o r z ą d n i e j s z e j	n i e p o r z ą d n i e j s z e j	0.1955662488937378	tensor(0.3191)	-2	0.31913596391677856
+z a r y g l o w a n i a c h   s i ę	z a r y g l o w a n i a c h   s i ę	0.19381256103515626	tensor(0.3180)	-2	0.3180200159549713
+d o s y ł a n i e   s i ę	d o s y ł a n i e   s i ę	0.196963632106781	tensor(0.3200)	-2	0.32001394033432007
+u r z e c s i ę	u r z e c   s i ę	0.1347578525543213	tensor(0.2701)	-1	0.2700918912887573
+u r z ę d o m a n i e	u r z ę d o m a n i e	0.15725307464599608	tensor(0.2909)	-2	0.2909022569656372
+n i e e l a s t o r o w o ś c i	n i e e l a s t o r o w o ś c i	0.1957047700881958	tensor(0.3192)	-2	0.31922343373298645
+b ę d z i e c i e   s p o c z w a r z a l i   s i ę	b ę d z i e c i e   s p o c z w a r z a l i   s i ę	0.19600499868392945	tensor(0.3194)	-2	0.3194127082824707
+k r e c h a	k r e c h a	0.19335027933120727	tensor(0.3177)	-2	0.31772321462631226
+i n f o r m a t o r s k i e m u	i n f o r m a t o r s k i e m u	0.19495089054107667	tensor(0.3187)	-2	0.3187462091445923
+b ę d ę   p r z y g ł a s k i w a ł a	b ę d ę   p r z y g ł a s k i w a ł a	0.1968425989151001	tensor(0.3199)	-2	0.3199382722377777
+p o z i e w a s z	p o z i e w a s z	0.19359173774719238	tensor(0.3179)	-2	0.3178783655166626
+n i e o s e t y ń s k o ś c i a c h	n i e o s e t y ń s k o ś c i a c h	0.19614675045013427	tensor(0.3195)	-2	0.3195019066333771
+b ę d z i e c i e   o g n i ł y	b ę d z i e c i e   o g n i ł y	0.1968916654586792	tensor(0.3200)	-2	0.31996896862983704
+b ę d z i e c i e   r ż n ę ł y   s i ę	b ę d z i e c i e   r ż n ę ł y   s i ę	0.18908954858779908	tensor(0.3149)	-2	0.31493517756462097
+w ę g i e r c e	w ę g i e r c e	0.19522972106933595	tensor(0.3189)	-2	0.3189230263233185
+p r z y s u n i ę t ą	p r z y s u n i ę t ą	0.19483685493469238	tensor(0.3187)	-2	0.3186737298965454
+z i n s t y t u c j o n a l i b y ś   s i ę	z i n s t y t u c j o n a l i z o w a ł o b y ś   s i ę	0.14831010103225709	tensor(0.2830)	4	0.28304240107536316
+o c y k a m	o c y k a m	0.1913204789161682	tensor(0.3164)	-2	0.31640684604644775
+m a s w e r k o m	m a s w e r k o m	0.19616626501083373	tensor(0.3195)	-2	0.3195141851902008
+b ę d z i e c i e   p l a ż y ł y	b ę d z i e c i e   p l a ż y ł y	0.1964830994606018	tensor(0.3197)	-2	0.31971314549446106
+n i e t r z y r a m i e n n e	n i e t r z y r a m i e n n e	0.19388598203659058	tensor(0.3181)	-2	0.3180670440196991
+z a g ę s t w i a j ą c y c h   s i ę	z a g ę s t w i a j ą c y c h   s i ę	0.19673538208007812	tensor(0.3199)	-2	0.3198712170124054
+n i e k o c h a n i e ń k o ś ć	n i e k o c h a n i e ń k o ś ć	0.1958600878715515	tensor(0.3193)	-2	0.3193214237689972
+p o d ł o ż n i c y	p o d ł o ż n i c y	0.18767455816268921	tensor(0.3140)	-2	0.3139881491661072
+n i e u p r a w n i o n o ś c i	n i e u p r a w n i o n o ś c i	0.19715718030929566	tensor(0.3201)	-2	0.3201347589492798
+n i e m a l a b a r s k o ś c i a c h	n i e m a l a b a r s k o ś c i a c h	0.19647741317749023	tensor(0.3197)	-2	0.31970956921577454
+n i e g e n o m o d y f i k o w a n ą	n i e g e n o m o d y f i k o w a n ą	0.1969601631164551	tensor(0.3200)	-2	0.32001176476478577
+r e k u z ę	r e k u z ę	0.18907344341278076	tensor(0.3149)	-2	0.3149244487285614
+n i e w y c i e s a n i a   s i ę	n i e w y c i e s a n i a   s i ę	0.1904322862625122	tensor(0.3158)	-2	0.31582406163215637
+p r z y s t o s o w a n i o m	p r z y s t o s o w a n i o m	0.19423184394836426	tensor(0.3183)	-2	0.31828826665878296
+n i e t r ą b i e n i e	n i e t r ą b i e n i e	0.19542487859725952	tensor(0.3190)	-2	0.31904661655426025
+ś w i e ż a r k a	ś w i e ż a r k a	0.1920183539390564	tensor(0.3169)	-2	0.3168618679046631
+w m ó w i e ń	w m ó w i e ń	0.19441174268722533	tensor(0.3184)	-2	0.31840306520462036
+p o w y t r ą c a n i a	p o w y t r ą c a n i a	0.19668079614639283	tensor(0.3198)	-2	0.3198370337486267
+b ę d z i e s z   r w a ł o	b ę d z i e s z   r w a ł o	0.1879998803138733	tensor(0.3142)	-2	0.3142068088054657
+o p l ą t a ł y   s i ę	o p l ą t a ł y   s i ę	0.1976258397102356	tensor(0.3204)	-2	0.3204265534877777
+f a t a l i s t k a m i	f a t a l i s t k a m i	0.19632102251052858	tensor(0.3196)	-2	0.31961143016815186
+n i e z g u b i e n i a c h	n i e z g u b i e n i a c h	0.19520931243896483	tensor(0.3189)	-2	0.3189101219177246
+n i e p o p ł a t a n i a	n i e p o p ł a t a n i a	0.19534640312194823	tensor(0.3190)	-2	0.31899693608283997
+p r o b l e m a t	p r o b l e m a t	0.19584499597549437	tensor(0.3193)	-2	0.31931188702583313
+k r z y w i z n ę	k r z y w i z n ę	0.19217740297317504	tensor(0.3170)	-2	0.31696516275405884
+n i e r o z t r z a s n i ę t e	n i e r o z t r z a ś n i ę t e	0.19188920259475709	tensor(0.3168)	-1	0.3167778253555298
+n a j n i e w ą t p l i w s z e	n a j n i e w ą t p l i w s z e	0.19572949409484863	tensor(0.3192)	-2	0.3192390501499176
+o k r y w a j ą c ą   s i ę	o k r y w a j ą c ą   s i ę	0.19570250511169435	tensor(0.3192)	-2	0.31922200322151184
+n i e w i e l o w a r s t w o w y c h	n i e w i e l o w a r s t w o w y c h	0.19743547439575196	tensor(0.3203)	-2	0.3203081488609314
+m a j e r a n i e	m a j e r a n i e	0.1922936797142029	tensor(0.3170)	-2	0.3170406222343445
+n i e d y k t a t o r s k o ś c i a c h	n i e d y k t a t o r s k o ś c i a c h	0.19656152725219728	tensor(0.3198)	-2	0.31976231932640076
+n i e w ą p i e l s k i e m u	n i e w ą p i e l s k i e m u	0.19519991874694825	tensor(0.3189)	-2	0.31890416145324707
+n i e z a k r w a w i a j ą c y c h	n i e z a k r w a w i a j ą c y c h	0.19647499322891235	tensor(0.3197)	-2	0.31970807909965515
+n i e ł u p i ą c a	n i e ł u p i ą c a	0.19585299491882324	tensor(0.3193)	-2	0.31931692361831665
+s z r o n y	s z r o n y	0.1939434289932251	tensor(0.3181)	-2	0.3181038498878479
+n i e s p o w i e d n i c z o ś c i a c h	n i e s p o w i e d n i c z o ś c i a c h	0.19681546688079835	tensor(0.3199)	-2	0.3199213147163391
+n i e r o z g r a d z a j ą c y c h   s i ę	n i e r o z g r a d z a j ą c y c h   s i ę	0.19423997402191162	tensor(0.3183)	-2	0.3182934522628784
+n i e o d p r o w a d z o n ą	n i e o d p r o w a d z o n ą	0.1846991777420044	tensor(0.3120)	-2	0.3119618594646454
+p o o b r a c a n y c h	p o o b r a c a n y c h	0.19177814722061157	tensor(0.3167)	-2	0.31670552492141724
+z l e w k a	z l e w k a	0.19345660209655763	tensor(0.3178)	-2	0.31779158115386963
+h u c z n i e j s z y m	h u c z n i e j s z y m	0.1955747961997986	tensor(0.3191)	-2	0.3191413879394531
+n i e p o m a ź g a n ą	n i e p o m a ź g a n ą	0.18118047714233398	tensor(0.3095)	-2	0.3095036447048187
+o b k ą s a ł y b y ś m y   s i ę	o b k ą s a ł y b y ś m y   s i ę	0.19508930444717407	tensor(0.3188)	-2	0.3188340365886688
+k r w i o n o ś n e m u	k r w i o n o ś n e m u	0.1962024211883545	tensor(0.3195)	-2	0.3195369243621826
+w r o s n ę ł y b y	w r o s ł y b y	0.1917637825012207	tensor(0.3167)	0	0.3166961669921875
+n i e u p o ś l e d z a j ą c y   s i ę	n i e u p o ś l e d z a j ą c y   s i ę	0.19399839639663696	tensor(0.3181)	-2	0.3181390166282654
+n i e p o t o k n i ę t e	n i e p o t o k n i ę t e	0.19505689144134522	tensor(0.3188)	-2	0.3188134729862213
+o d h u k a j m y	o d h u k a j m y	0.1955905079841614	tensor(0.3192)	-2	0.31915128231048584
+n i e p r z e w r ó ż e n i a   s i ę	n i e p r z e w r ó ż e n i a   s i ę	0.19036517143249512	tensor(0.3158)	-2	0.31577983498573303
+o k i e ł z n ę ł y ś m y	o k i e ł z n ę ł y ś m y	0.19163095951080322	tensor(0.3166)	-2	0.31660956144332886
+p o o b j a d a l i ś c i e	p o o b j a d a l i ś c i e	0.19277626276016235	tensor(0.3174)	-2	0.31735309958457947
+l i c h w i ą c y m	l i c h w i ą c y m	0.19496022462844848	tensor(0.3188)	-2	0.31875211000442505
+n i e j a r z ę b i a t e m u	n i e j a r z ę b i a t e m u	0.1973644971847534	tensor(0.3203)	-2	0.32026398181915283
+b a l e t k a c h	b a l e t k a c h	0.19605730772018432	tensor(0.3194)	-2	0.3194456398487091
+n i e r o z p r z ę d z a n y m	n i e r o z p r z ę d z a n y m	0.19363421201705933	tensor(0.3179)	-2	0.31790563464164734
+n i e n a d s a d z a j ą c y   s i ę	n i e n a d s a d z a j ą c y   s i ę	0.19368335008621215	tensor(0.3179)	-2	0.3179371654987335
+n i e z a s a d z a n i u	n i e z a s a d z a n i u	0.19391872882843017	tensor(0.3181)	-2	0.31808802485466003
+u c z o n y m	u c z o n y m	0.19512253999710083	tensor(0.3189)	-2	0.3188551068305969
+b ę d z i e c i e   p o m i e s z k i w a l i	b ę d z i e c i e   p o m i e s z k i w a l i	0.19797117710113527	tensor(0.3206)	-2	0.32064080238342285
+b ę d z i e s z   s z w a r c o w a ł o   s i ę	b ę d z i e s z   s z w a r c o w a ł o   s i ę	0.19304108619689941	tensor(0.3175)	-2	0.3175240457057953
+n i e o d m ł a d z a j ą c y m	n i e o d m ł a d z a j ą c y m	0.1937038540840149	tensor(0.3180)	-2	0.3179503083229065
+c h ą s i e ń s k o ś c i	c h ą s i e ń s k o ś c i	0.19504040479660034	tensor(0.3188)	-2	0.31880301237106323
+h i s t e r y z o w a n o	h i s t e r y z o w a n o	0.1957761526107788	tensor(0.3193)	-2	0.31926846504211426
+a n a m n e z ę	a n a m n e z ę	0.18940783739089967	tensor(0.3151)	-2	0.3151467442512512
+s a m o s p r a w d z a j ą c y	s a m o s p r a w d z a j ą c y	0.19633384943008422	tensor(0.3196)	-2	0.31961947679519653
+p o t r z ą c h a n i a	p o t r z ą c h a n i a	0.19610921144485474	tensor(0.3195)	-2	0.319478303194046
+o d z b r o j o n y	o d z b r o j o n y	0.19479038715362548	tensor(0.3186)	-2	0.3186441957950592
+p r z e w r z e s z c z e l i ś c i e	p r z e w r z e s z c z e l i ś c i e	0.19479931592941285	tensor(0.3186)	-2	0.31864985823631287
+n i e p o n a s a d z a n i o m	n i e p o n a s a d z a n i o m	0.19330812692642213	tensor(0.3177)	-2	0.31769606471061707
+w l e w n i k o w i	w l e w n i k o w i	0.19202350378036498	tensor(0.3169)	-2	0.3168651759624481
+z a g a d z a m   s i ę	z a g a d z a m   s i ę	0.19625314474105834	tensor(0.3196)	-2	0.31956881284713745
+u n i e w y r a ź n i a ł o ś   s i ę	u n i e w y r a ź n i a ł o ś   s i ę	0.19046627283096312	tensor(0.3158)	-2	0.31584644317626953
+n i e z a m a l o w a n i a	n i e z a m a l o w a n i a	0.18611880540847778	tensor(0.3129)	-2	0.3129345774650574
+o d w d z i ę c z a j ą c y c h   s i ę	o d w d z i ę c z a j ą c y c h   s i ę	0.19536571502685546	tensor(0.3190)	-2	0.3190091550350189
+w s c h o w i a n k a	w s c h o w i a n k a	0.18674672842025758	tensor(0.3134)	-2	0.31336137652397156
+k a p i t a l i z a c j i	k a p i t a l i z a c y j	0.18854386806488038	tensor(0.3146)	0	0.31457123160362244
+l u b l i n i e c k i	l u b l i n i e c k i	0.19455153942108155	tensor(0.3185)	-2	0.31849217414855957
+k w a r a n t a n o w a ł y	k w a r a n t a n n o w a ł y	0.19577350616455078	tensor(0.3193)	-1	0.31926682591438293
+o b w i s n i ę c i u	o b w i ś n i ę c i u	0.1965962529182434	tensor(0.3198)	-1	0.3197840750217438
+n i e o k i e ł z a n i a	n i e o k i e ł z a n i a	0.18784292936325073	tensor(0.3141)	-2	0.3141013979911804
+l u s z n i ą	l u s z n i ą	0.19595677852630616	tensor(0.3194)	-2	0.31938233971595764
+w z g l ą d a ł o b y m	w z g l ą d a ł o b y m	0.19647672176361083	tensor(0.3197)	-2	0.3197091519832611
+n a o p i e p r z a n i a c h	n a o p i e p r z a n i a c h	0.19559068679809571	tensor(0.3192)	-2	0.3191514313220978
+n i e b i a l u t e ń k ą	n i e b i a l u t e ń k ą	0.19549245834350587	tensor(0.3191)	-2	0.3190893530845642
+u j a ś n i ł y b y ś c i e	u j a ś n i ł y b y ś c i e	0.1965059757232666	tensor(0.3197)	-2	0.31972751021385193
+w s p ó ł p ł a s z c z y z n o w o ś c i	w s p ó ł p ł a s z c z y z n o w o ś c i	0.1965627908706665	tensor(0.3198)	-2	0.3197631239891052
+u j u c z y ł o b y m	u j u c z y ł o b y m	0.1956151843070984	tensor(0.3192)	-2	0.319166898727417
+w y j a ś n i a j ą c y c h	w y j a ś n i a j ą c y c h	0.19508594274520874	tensor(0.3188)	-2	0.3188319206237793
+k o n t e r f e t u j e c i e	k o n t e r f e t u j e c i e	0.16054781675338745	tensor(0.2937)	-2	0.2936682105064392
+n i e r o z r z ą d z a j ą c a	n i e r o z r z ą d z a j ą c a	0.19107563495635987	tensor(0.3162)	-2	0.3162465989589691
+c h r o n i ą c y c h	c h r o n i ą c y c h	0.19208618402481079	tensor(0.3169)	-2	0.3169059157371521
+n i e p o u i s z c z a n i a c h	n i e p o u i s z c z a n i a c h	0.19501456022262573	tensor(0.3188)	-2	0.3187865912914276
+n i e z a b r u d z o n ą	n i e z a b r u d z o n ą	0.18702677488327027	tensor(0.3136)	-2	0.31355103850364685
+z a p ł o n i o n e	z a p ł o n i o n e	0.19609981775283813	tensor(0.3195)	-2	0.31947237253189087
+r o z l u ź n i j m y   s i ę	r o z l u ź n i j m y   s i ę	0.14506441354751587	tensor(0.2801)	-2	0.2800580859184265
+n i e k o m p o z y c y j n e m u	n i e k o m p o z y c y j n e m u	0.19625964164733886	tensor(0.3196)	-2	0.3195728659629822
+n i e w i e d z i e j ą c y m i	n i e w i e d z ą c y m i	0.1899859666824341	tensor(0.3155)	1	0.31552964448928833
+r o z p r z ę g n ę ł y b y ś m y   s i ę	r o z p r z ę g n ę ł y b y ś m y   s i ę	0.195889675617218	tensor(0.3193)	-2	0.3193400502204895
+m a k i j a ż o w i	m a k i j a ż o w i	0.19018280506134033	tensor(0.3157)	-2	0.31565961241722107
+p o d p a ł k i	p o d p a ł k i	0.19662196636199952	tensor(0.3198)	-2	0.3198001980781555
+n i e b o r k o w i c k i e m u	n i e b o r k o w i c k i e m u	0.19481687545776366	tensor(0.3187)	-2	0.31866103410720825
+w ś c i b i a m   s i ę	w ś c i b i a m   s i ę	0.19567874670028687	tensor(0.3192)	-2	0.31920701265335083
+m u n d u r z y n y	m u n d u r z y n y	0.1937964677810669	tensor(0.3180)	-2	0.31800970435142517
+b ę d z i e c i e   z l e w a ł y   s i ę	b ę d z i e c i e   z l e w a ł y   s i ę	0.19738751649856567	tensor(0.3203)	-2	0.3202782869338989
+p o z n a n i a n c e	p o z n a n i a n c e	0.18899396657943726	tensor(0.3149)	-2	0.31487151980400085
+n i e ż ó ł t o z i e l o n e	n i e ż ó ł t o z i e l o n e	0.1962971568107605	tensor(0.3196)	-2	0.31959643959999084
+n i e p r z e c e d z a j ą c e   s i ę	n i e p r z e c e d z a j ą c e   s i ę	0.1963060975074768	tensor(0.3196)	-2	0.31960204243659973
+u g a d z a n i a	u g a d z a n i a	0.19669811725616454	tensor(0.3198)	-2	0.31984788179397583
+p o c h o d o w i	p o c h o d o w i	0.1865055203437805	tensor(0.3132)	-2	0.31319767236709595
+b ę d ę   r o z m a g n e s o w y w a ł a	b ę d ę   r o z m a g n e s o w y w a ł a	0.1968408703804016	tensor(0.3199)	-2	0.31993719935417175
+d ł u g o r z ę s o ś c i	d ł u g o r z ę s o ś c i	0.19453718662261962	tensor(0.3185)	-2	0.31848305463790894
+n i e b ł y s k a n i e	n i e b ł y s k a n i e	0.19672555923461915	tensor(0.3199)	-2	0.31986504793167114
+b a n a l n i e j ą c y	b a n a l n i e j ą c y	0.1920934796333313	tensor(0.3169)	-2	0.31691065430641174
+d e m i m o n d k ę	d e m i m o n d k ę	0.19496701955795287	tensor(0.3188)	-2	0.31875643134117126
+n i e r o z h i s t e r y z o w y w a n i a m i   s i ę	n i e r o z h i s t e r y z o w y w a n i a m i   s i ę	0.19593396186828613	tensor(0.3194)	-2	0.3193679749965668
+p r z e t a ń c z y l i ś m y	p r z e t a ń c z y l i ś m y	0.19486212730407715	tensor(0.3187)	-2	0.3186897933483124
+n i e c i e n i o z n o ś n o ś ć	n i e c i e n i o z n o ś n o ś ć	0.19581706523895265	tensor(0.3193)	-2	0.319294273853302
+n i e o g a ł a c a n e m u	n i e o g a ł a c a n e m u	0.19585660696029664	tensor(0.3193)	-2	0.3193192183971405
+n i e p r z e p ę d z a n y m	n i e p r z e p ę d z a n y m	0.19502111673355102	tensor(0.3188)	-2	0.3187907636165619
+n i e u s z c z e l i n a w i a j ą c y   s i ę	n i e u s z c z e l i n a w i a j ą c y   s i ę	0.1949705958366394	tensor(0.3188)	-2	0.31875869631767273
+u s y n a w i a j ą c y c h   s i ę	u s y n a w i a j ą c y c h   s i ę	0.19693727493286134	tensor(0.3200)	-2	0.3199974596500397
+t e l e e l e k t r y k ą	t e l e e l e k t r y k ą	0.1916766047477722	tensor(0.3166)	-2	0.31663933396339417
+n i e j e m e ń s k i e m u	n i e j e m e ń s k i e m u	0.19480316638946532	tensor(0.3187)	-2	0.31865233182907104
+n i e u z w i ę ź l a j ą c y c h   s i ę	n i e u z w i ę ź l a j ą c y c h   s i ę	0.15400900840759277	tensor(0.2881)	-2	0.28811144828796387
+s z e l b i ą g ó w	s z e l b i ą g ó w	0.18725407123565674	tensor(0.3137)	-2	0.3137046694755554
+b ę d z i e s z   p a r t y z a n t o w a ł o	b ę d z i e s z   p a r t y z a n t o w a ł o	0.19042396545410156	tensor(0.3158)	-2	0.31581857800483704
+n i e o m i j a n e m u	n i e o m i j a n e m u	0.19651676416397096	tensor(0.3197)	-2	0.31973424553871155
+p o d c h a r a k t e r y z o w y w a n y m	p o d c h a r a k t e r y z o w y w a n y m	0.1947399139404297	tensor(0.3186)	-2	0.31861209869384766
+b ę d ę   p r o w i a n t o w a ć	b ę d ę   p r o w i a n t o w a ć	0.19551900625228882	tensor(0.3191)	-2	0.3191061019897461
+n a d e p n i ę t e	n a d e p n i ę t e	0.19596220254898072	tensor(0.3194)	-2	0.3193857669830322
+n i e z a r u n i e n i a c h	n i e z a r u n i e n i a c h	0.1949161171913147	tensor(0.3187)	-2	0.3187240958213806
+k o n d u i t a m i	k o n d u i t a m i	0.1954345703125	tensor(0.3191)	-2	0.31905272603034973
+z j ę d r n i e j ą	z j ę d r n i e j ą	0.19018096923828126	tensor(0.3157)	-2	0.31565842032432556
+z a t r ą b i ą	z a t r ą b i ą	0.18296411037445068	tensor(0.3108)	-2	0.31075820326805115
+r o z p ę t u j ą c y   s i ę	r o z p ę t y w a j ą c y   s i ę	0.1880887746810913	tensor(0.3143)	1	0.31426647305488586
+n i e e k r a n u j ą c y m	n i e e k r a n u j ą c y m	0.19427522420883178	tensor(0.3183)	-2	0.3183159828186035
+p r z y b i j a c z k a c h	p r z y b i j a c z k a c h	0.18989416360855102	tensor(0.3155)	-2	0.315468966960907
+z ł o t o k r z e w i e	z ł o t o k r z e w i u	0.19112858772277833	tensor(0.3163)	-1	0.3162812888622284
+n i e w y s ł o w i e n i u	n i e w y s ł o w i e n i u	0.19616293907165527	tensor(0.3195)	-2	0.31951209902763367
+n i e m e t e r n i c h o w s c y	n i e m e t t e r n i c h o w s c y	0.19651931524276733	tensor(0.3197)	-1	0.3197358548641205
+n i e o p a ź n i a j ą c y m i	n i e o p a ź n i a j ą c y m i	0.1924857974052429	tensor(0.3172)	-2	0.31716519594192505
+n i e z a c a p i e n i a c h	n i e z a c a p i e n i a c h	0.1935171365737915	tensor(0.3178)	-2	0.31783047318458557
+n i e p o z w i e d z a n y c h	n i e p o z w i e d z a n y c h	0.1951371431350708	tensor(0.3189)	-2	0.3188643753528595
+n i e s k a n t o w a n i a c h	n i e s k a n t o w a n i a c h	0.19447301626205443	tensor(0.3184)	-2	0.31844213604927063
+n i e z a b a w i a j ą c e	n i e z a b a w i a j ą c e	0.1964465618133545	tensor(0.3197)	-2	0.3196902573108673
+n i e k o r z e n i e ń s k i e j	n i e k o r z e n i e ń s k i e j	0.19698492288589478	tensor(0.3200)	-2	0.320027232170105
+p r z e ś w i t o w o ś c i a c h	p r z e ś w i t o w o ś c i a c h	0.19660372734069825	tensor(0.3198)	-2	0.31978875398635864
+n a c z e s a j m y	n a c z e s z m y	0.19583338499069214	tensor(0.3193)	0	0.31930458545684814
+n i e z r e j o n i z o w a n i a c h	n i e z r e j o n i z o w a n i a c h	0.19473885297775267	tensor(0.3186)	-2	0.3186114430427551
+p o m a r k o t n i e j m y	p o m a r k o t n i e j m y	0.13413854837417602	tensor(0.2695)	-2	0.2694685459136963
+n i e p r z y ł o j o n y c h	n i e p r z y ł o j o n y c h	0.19498095512390137	tensor(0.3188)	-2	0.318765252828598
+o r d y n a r n i e j s z y c h	o r d y n a r n i e j s z y c h	0.19502006769180297	tensor(0.3188)	-2	0.31879010796546936
+n i e d o g r y w a j ą c y c h	n i e d o g r y w a j ą c y c h	0.17777155637741088	tensor(0.3071)	-2	0.3070569634437561
+n i e o b r z y d n i ę c i a	n i e o b r z y d n i ę c i a	0.19501302242279053	tensor(0.3188)	-2	0.3187856376171112
+z a p a c h n i e j c i e	z a p a c h n i j c i e	0.1669640064239502	tensor(0.2989)	-1	0.2988617420196533
+n i e d o g r a d z a n i u	n i e d o g r a d z a n i u	0.19355350732803345	tensor(0.3179)	-2	0.31785380840301514
+n i e s a d z a j ą c y m i	n i e s a d z a j ą c y m i	0.19619219303131102	tensor(0.3195)	-2	0.3195304870605469
+o s z u k a n i	o s z u k a n i	0.19626753330230712	tensor(0.3196)	-2	0.31957781314849854
+n i e n a k ł ó c o n e	n i e n a k ł ó c o n e	0.1954309582710266	tensor(0.3191)	-2	0.31905046105384827
+o d ś w i e c o n y	o d ś w i e c o n y	0.19459937810897826	tensor(0.3185)	-2	0.3185226619243622
+r a n i u ś k i c h	r a n i u ś k i c h	0.19321756362915038	tensor(0.3176)	-2	0.3176378011703491
+n i e z a f a n t o w a n y c h	n i e z a f a n t o w a n y c h	0.19517439603805542	tensor(0.3189)	-2	0.31888797879219055
+k r z y ż y c z k o w i	k r z y ż y c z k o w i	0.19040756225585936	tensor(0.3158)	-2	0.3158077597618103
+p r z y s t o j n i a ł y ś c i e	p r z y s t o j n i a ł y ś c i e	0.1966789960861206	tensor(0.3198)	-2	0.319835901260376
+n i e u g a s n i ę c i a c h	n i e u g a ś n i ę c i a c h	0.1938269853591919	tensor(0.3180)	-1	0.3180292546749115
+z b l a d n ę ł o ś	z b l a d n ę ł o ś	0.19254162311553955	tensor(0.3172)	-2	0.3172013461589813
+c u d z o z i e m c z e j ą c y c h	c u d z o z i e m c z e j ą c y c h	0.19033488035202026	tensor(0.3158)	-2	0.31575989723205566
+s a r u s o f o n ó w	s a r u s o f o n ó w	0.18984317779541016	tensor(0.3154)	-2	0.3154352605342865
+d y w a n i a r s k i e m u	d y w a n i a r s k i e m u	0.19342553615570068	tensor(0.3178)	-2	0.3177715837955475
+p r z e c h ł o d z i l i b y	p r z e c h ł o d z i l i b y	0.1955026865005493	tensor(0.3191)	-2	0.31909579038619995
+o d r ę t w i a j ą c o ś c i a c h	o d r ę t w i a j ą c o ś c i a c h	0.19592318534851075	tensor(0.3194)	-2	0.3193611800670624
+c e r o g r a f i	c e r o g r a f i j	0.19476815462112426	tensor(0.3186)	-1	0.31863006949424744
+n a ś m i e c o n e	n a ś m i e c o n e	0.19487502574920654	tensor(0.3187)	-2	0.3186980187892914
+w y p u k l i n y	w y p u k l i n y	0.19459526538848876	tensor(0.3185)	-2	0.31852003931999207
+z a s ł u ż o n i e j s z y c h	z a s ł u ż e ń s z y c h	0.19478151798248292	tensor(0.3186)	2	0.31863856315612793
+r o z p i ź d z i ł y b y   s i ę	r o z p i ź d z i ł y b y   s i ę	0.14452605247497557	tensor(0.4307)	-2	0.4307406544685364
+n i e p a k u l e n i e   s i ę	n i e p a k u l e n i e   s i ę	0.1966822028160095	tensor(0.3198)	-2	0.31983792781829834
+e n d e c k i e m u	e n d e c k i e m u	0.19485613107681274	tensor(0.3187)	-2	0.31868600845336914
+n i e z a m a r t w i e n i a	n i e z a m a r t w i e n i a	0.18842082023620604	tensor(0.3145)	-2	0.3144889175891876
+p r z y z w y c z a j a j ą c e j	p r z y z w y c z a j a j ą c e j	0.19610848426818847	tensor(0.3195)	-2	0.3194778263568878
+k a n c l e r z y n ą	k a n c l e r z y n ą	0.19441994428634643	tensor(0.3184)	-2	0.3184083104133606
+r e d u t k a c h	r e d u t k a c h	0.1972306489944458	tensor(0.3202)	-2	0.3201805651187897
+n i e g ą s a w s k i e	n i e g ą s a w s k i e	0.19633846282958983	tensor(0.3196)	-2	0.31962236762046814
+m i r a c h	m i r r a c h	0.19561046361923218	tensor(0.3192)	-1	0.3191639184951782
+s i e r o c ą c y m	s i e r o c ą c y m	0.19447863101959229	tensor(0.3184)	-2	0.31844574213027954
+o c h r z a n i e n i a	o c h r z a n i e n i a	0.1947758674621582	tensor(0.3186)	-2	0.318634957075119
+n i e b e l m o p a ń s k o ś c i a c h	n i e b e l m o p a ń s k o ś c i a c h	0.196547794342041	tensor(0.3198)	-2	0.3197537064552307
+z a p r z y j a ź n i o n o ś ć	z a p r z y j a ź n i o n o ś ć	0.19264795780181884	tensor(0.3173)	-2	0.3172701597213745
+n a w i l g o c o n y	n a w i l g o c o n y	0.1963019847869873	tensor(0.3196)	-2	0.3195994794368744
+n i e o d w i d z a n a	n i e o d w i d z a n a	0.19424355030059814	tensor(0.3183)	-2	0.31829574704170227
+o d t ę s k n i e n i e m   s i ę	o d t ę s k n i e n i e m   s i ę	0.19642102718353271	tensor(0.3197)	-2	0.31967419385910034
+n i e l e k k o a t l e t y c z n o ś c i a m i	n i e l e k k o a t l e t y c z n o ś c i a m i	0.1882654309272766	tensor(0.3144)	-2	0.31438490748405457
+r o z e z n a n e	r o z e z n a n e	0.19659185409545898	tensor(0.3198)	-2	0.3197813332080841
+s p o r z ą d z a j ą c ą	s p o r z ą d z a j ą c ą	0.19376083612442016	tensor(0.3180)	-2	0.3179868757724762
+b l i z i u t e ń k i e m u	b l i z i u t e ń k i e m u	0.191946280002594	tensor(0.3168)	-2	0.31681495904922485
+n i e w ł o s z a k o w i c k o ś c i	n i e w ł o s z a k o w i c k o ś c i	0.195926296710968	tensor(0.3194)	-2	0.31936314702033997
+n i e r o z p l a t a j ą c e	n i e r o z p l a t a j ą c e	0.19238684177398682	tensor(0.3171)	-2	0.31710106134414673
+n i e z h u l t a j o n e g o	n i e z h u l t a j o n e g o	0.19543856382369995	tensor(0.3191)	-2	0.3190552592277527
+o b r z u c a j ą c   s i ę	o b r z u c a j ą c   s i ę	0.19655680656433105	tensor(0.3198)	-2	0.319759339094162
+n i e z a w i z o w a n i a c h	n i e z a a w i z o w a n i a c h	0.19352757930755615	tensor(0.3178)	-1	0.3178371787071228
+b e z o s o b n i k o w i	b e z o s o b n i k o w i	0.18468447923660278	tensor(0.3120)	-2	0.31195175647735596
+n i e p o w e t o w a n i a c h	n i e p o w e t o w a n i a c h	0.19474016427993773	tensor(0.3186)	-2	0.3186122477054596
+p a r a d n i e j s z e	p a r a d n i e j s z e	0.19370318651199342	tensor(0.3179)	-2	0.31794989109039307
+n i e k a l e n i e   s i ę	n i e k a l e n i e   s i ę	0.19668430089950562	tensor(0.3198)	-2	0.3198392391204834
+b ę d z i e s z   m l a s k a ł o	b ę d z i e s z   m l a s k a ł o	0.1915504217147827	tensor(0.3166)	-2	0.31655701994895935
+n i e o z n a j o m i e n i a c h	n i e o z n a j o m i e n i a c h	0.195063316822052	tensor(0.3188)	-2	0.3188175559043884
+b ę d z i e c i e   u n i e d o ł ę ż n i a l i   s i ę	b ę d z i e c i e   u n i e d o ł ę ż n i a l i   s i ę	0.19673527479171754	tensor(0.3199)	-2	0.3198711574077606
+z a ś n i e d z a j ą c y c h   s i ę	z a ś n i e d z a j ą c y c h   s i ę	0.19529446363449096	tensor(0.3190)	-2	0.31896406412124634
+w y w i e s z a m	w y w i e s z a m	0.1951673746109009	tensor(0.3189)	-2	0.3188835382461548
+n i e w y j ą k n i ę t y c h	n i e w y j ą k n i ę t y c h	0.19460678100585938	tensor(0.3185)	-2	0.31852737069129944
+s k a l b m i e r s k i e m u	s k a l b m i e r s k i e m u	0.19322167634963988	tensor(0.3176)	-2	0.31764042377471924
+n i e d o w i d z i a l n i	n i e d o w i d z i a l n i	0.19720829725265504	tensor(0.3202)	-2	0.3201666474342346
+m ż y ł e m	m ż y ł e m	0.19424785375595094	tensor(0.3183)	-2	0.31829848885536194
+n i e z g r y w a j ą c y	n i e z g r y w a j ą c y	0.19253435134887695	tensor(0.3172)	-2	0.31719663739204407
+p o b r y z g a j m y	p o b r y z g a j m y	0.19676378965377808	tensor(0.3199)	-2	0.31988897919654846
+c e n t r u j e	c e n t r u j e	0.1962372064590454	tensor(0.3196)	-2	0.3195587694644928
+r u d o z ł o t y	r u d o z ł o t y	0.19456541538238525	tensor(0.3185)	-2	0.3185010254383087
+n i e d o c e n i e n i a c h	n i e d o c e n i e n i a c h	0.19562919139862062	tensor(0.3192)	-2	0.31917575001716614
+s a m o z a g r z e w a j ą c y c h   s i ę	s a m o z a g r z e w a j ą c y c h   s i ę	0.1775761365890503	tensor(0.3069)	-2	0.3069147765636444
+b ę d z i e s z   w l e w a ł o	b ę d z i e s z   w l e w a ł o	0.18786394596099854	tensor(0.3141)	-2	0.3141155242919922
+o t u m a n i a m	o t u m a n i a m	0.19525432586669922	tensor(0.3189)	-2	0.31893861293792725
+n i e r o z t w o r z e n i a c h	n i e r o z t w o r z e n i a c h	0.19265823364257811	tensor(0.3173)	-2	0.31727680563926697
+p r o t e o l i t y c z n o ś c i a m i	p r o t e o l i t y c z n o ś c i a m i	0.1962292432785034	tensor(0.3196)	-2	0.31955376267433167
+n i e n a d s t y g n i ę t e g o	n i e n a d s t y g n i ę t e g o	0.19423600435256957	tensor(0.3183)	-2	0.31829091906547546
+n i e p r z y d ź w i ę k u j ą c e m u	n i e p r z y d ź w i ę k u j ą c e m u	0.19132713079452515	tensor(0.3164)	-2	0.31641119718551636
+n i e t r ó j r o g i e j	n i e t r ó j r o g i e j	0.19702624082565307	tensor(0.3201)	-2	0.3200530409812927
+i n d u k u j ę	i n d u k u j ę	0.19376206398010254	tensor(0.3180)	-2	0.3179876506328583
+w y c h a r c z e n i e m	w y c h a r c z e n i e m	0.1935070514678955	tensor(0.3178)	-2	0.31782397627830505
+m o d y f i k a t o r y	m o d y f i k a t o r y	0.1791080951690674	tensor(0.3080)	-2	0.30802398920059204
+n i e w p l a t a j ą c y m	n i e w p l a t a j ą c y m	0.19339193105697633	tensor(0.3177)	-2	0.3177499771118164
+d e n u n c j c i e   s i ę	d e n u n c j u j c i e   s i ę	0.11866908073425293	tensor(0.4328)	0	0.43284955620765686
+p r z e s ą d z o n y c h	p r z e s ą d z o n y c h	0.190854811668396	tensor(0.3161)	-2	0.3161018192768097
+f i k n i ę t e	f i k n i ę t e	0.18782899379730225	tensor(0.3141)	-2	0.3140920102596283
+g a p i o w a t e m u	g a p i o w a t e m u	0.19595986604690552	tensor(0.3194)	-2	0.31938427686691284
+n i e d o w a r z o n o ś c i	n i e d o w a r z o n o ś c i	0.19703396558761596	tensor(0.3201)	-2	0.32005786895751953
+p r z e c h o d z e ń   s i ę	p r z e c h o d z e ń   s i ę	0.19279170036315918	tensor(0.3174)	-2	0.31736308336257935
+n a j b e z w z g l ę d n i e j s z e	n a j b e z w z g l ę d n i e j s z e	0.1948862314224243	tensor(0.3187)	-2	0.31870511174201965
+p r o b o s z c z ó w k i	p r o b o s z c z ó w k i	0.19471471309661864	tensor(0.3186)	-2	0.3185960650444031
+a g l u t y n a n t o w i	a g l u t y n a n t o w i	0.18953813314437867	tensor(0.3152)	-2	0.3152332007884979
+ś c i g n i ę c i u	ś c i g n i ę c i u	0.19299283027648925	tensor(0.3175)	-2	0.3174929618835449
+n i e p o d g w i z d a n i a c h   s i ę	n i e p o d g w i z d a n i a c h   s i ę	0.19441579580307006	tensor(0.3184)	-2	0.3184056580066681
+z b i e l e n i a c h	z b i e l e n i a c h	0.19302029609680177	tensor(0.3175)	-2	0.3175106644630432
+z a f a k t u r u j e c i e	z a f a k t u r u j e c i e	0.1937317967414856	tensor(0.3180)	-2	0.3179682195186615
+l o d o w a c ą c e j	l o d o w a c ą c e j	0.1958714723587036	tensor(0.3193)	-2	0.3193286061286926
+o d r a d z e n i e m	o d r a d z e n i e m	0.19197217226028443	tensor(0.3168)	-2	0.3168317973613739
+s y l w e t k o w o ś c i a c h	s y l w e t k o w o ś c i a c h	0.19529784917831422	tensor(0.3190)	-2	0.31896620988845825
+w y t r ą b i a j ą c   s i ę	w y t r ą b i a j ą c   s i ę	0.19585989713668822	tensor(0.3193)	-2	0.31932130455970764
+p o c h ł e p t a ń	p o c h ł e p t a ń	0.19242528676986695	tensor(0.3171)	-2	0.31712597608566284
+o d p l e w i a j c i e   s i ę	o d p l e w i a j c i e   s i ę	0.19338089227676392	tensor(0.3177)	-2	0.31774288415908813
+b ę d z i e s z   l a s o w a ł o   s i ę	b ę d z i e s z   l a s o w a ł o   s i ę	0.19273580312728883	tensor(0.3173)	-2	0.31732696294784546
+n i e p i r o m e t r y c z n o ś c i a m i	n i e p i r o m e t r y c z n o ś c i a m i	0.19675536155700685	tensor(0.3199)	-2	0.3198837339878082
+p o m a r n i e n i	p o m a r n i e n i	0.19579561948776245	tensor(0.3193)	-2	0.3192807734012604
+n i e k e n t u m o w o ś c i a c h	n i e k e n t u m o w o ś c i a c h	0.19620726108551026	tensor(0.3195)	-2	0.31953996419906616
+b ę d ę   d u b i t o w a ł o	b ę d ę   d u b i t o w a ł o	0.19602785110473633	tensor(0.3194)	-2	0.31942710280418396
+n i e w r a d z a j ą c y m   s i ę	n i e w r a d z a j ą c y m   s i ę	0.19590966701507567	tensor(0.3194)	-2	0.3193526864051819
+l a k s a c j a c h	l a k s a c j a c h	0.19639601707458496	tensor(0.3197)	-2	0.3196585178375244
+n i e n a s t a w i a j ą c y c h	n i e n a s t a w i a j ą c y c h	0.1969795346260071	tensor(0.3200)	-2	0.32002389430999756
+r o z p l o t k u j e c i e	r o z p l o t k u j e c i e	0.1937886357307434	tensor(0.3180)	-2	0.31800466775894165
+g e n o w i	g e n o w i	0.19398679733276367	tensor(0.3181)	-2	0.31813159584999084
+n i e o b ł ó c z o n y c h	n i e o b ł ó c z o n y c h	0.1952054738998413	tensor(0.3189)	-2	0.3189076781272888
+r o z r z e d z i l i b y   s i ę	r o z r z e d z i l i b y   s i ę	0.19557721614837648	tensor(0.3191)	-2	0.3191429078578949
+n i e w ą s k o s ł o i s t e m u	n i e w ą s k o s ł o i s t e m u	0.1970722794532776	tensor(0.3201)	-2	0.32008180022239685
+n i e n a p e r f u m o w a n i a   s i ę	n i e n a p e r f u m o w a n i a   s i ę	0.19059131145477295	tensor(0.3159)	-2	0.31592869758605957
+s u p e r b o m b i e	s u p e r b o m b i e	0.19493272304534912	tensor(0.3187)	-2	0.31873464584350586
+n i e r o z s u n i ę t e	n i e r o z s u n i ę t e	0.19541176557540893	tensor(0.3190)	-2	0.3190383017063141
+b ę d z i e s z   w y k u k i w a ł o	b ę d z i e s z   w y k u k i w a ł o	0.19243226051330567	tensor(0.3171)	-2	0.3171304762363434
+n i e z o b i e k t y w i z o w a n i e m	n i e z o b i e k t y w i z o w a n i e m	0.19490249156951905	tensor(0.3187)	-2	0.3187154233455658
+o s k w a r z a m   s i ę	o s k w a r z a m   s i ę	0.1939813256263733	tensor(0.3181)	-2	0.3181280791759491
+k a r t e l i z a c j a m i	k a r t e l i z a c j a m i	0.19250905513763428	tensor(0.3172)	-2	0.31718024611473083
+c h a p s n i ę t e	c h a p s n i ę t e	0.19689360857009888	tensor(0.3200)	-2	0.31997019052505493
+b ę d z i e c i e   r o z k a s z l i w a ł y   s i ę	b ę d z i e c i e   r o z k a s z l i w a ł y   s i ę	0.19633474349975585	tensor(0.3196)	-2	0.3196200430393219
+n i e p o z a p r z e d a w a n i o m   s i ę	n i e p o z a p r z e d a w a n i o m   s i ę	0.19649579524993896	tensor(0.3197)	-2	0.3197211027145386
+z a w i z o w a n y c h	z a a w i z o w a n y c h	0.1953355312347412	tensor(0.3190)	-1	0.3189900517463684
+a n o r o g e n i c z n o ś c i	a n o r o g e n i c z n o ś c i	0.195986008644104	tensor(0.3194)	-2	0.31940075755119324
+n i e p r z e s ą d z a j ą c y m	n i e p r z e s ą d z a j ą c y m	0.1943148970603943	tensor(0.3183)	-2	0.31834128499031067
+n a t r z ą s a ł y b y ś m y   s i ę	n a t r z ą s a ł y b y ś m y   s i ę	0.19201431274414063	tensor(0.3169)	-2	0.3168591856956482
+s e r o w a r s k i e m u	s e r o w a r s k i e m u	0.19427729845046998	tensor(0.3183)	-2	0.3183172941207886
+n i e t r z y d z i e s t o l e t n i e	n i e t r z y d z i e s t o l e t n i e	0.19639344215393068	tensor(0.3197)	-2	0.3196568787097931
+n e g o c j a t o r s k i	n e g o c j a t o r s k i	0.1967471718788147	tensor(0.3199)	-2	0.31987857818603516
+b ę d z i e s z   p r z e s z e r e g o w y w a ł o	b ę d z i e s z   p r z e s z e r e g o w y w a ł o	0.19219427108764647	tensor(0.3170)	-2	0.3169761300086975
+r o z l u z o w y w a l i b y ś c i e	r o z l u z o w y w a l i b y ś c i e	0.19710832834243774	tensor(0.3201)	-2	0.32010430097579956
+n i e p r z y s z c z y p n i ę t e m u	n i e p r z y s z c z y p n i ę t e m u	0.194253408908844	tensor(0.3183)	-2	0.3183020353317261
+n i e c z t e r d z i e s t o d n i o w ą	n i e c z t e r d z i e s t o d n i o w ą	0.19699470996856688	tensor(0.3200)	-2	0.32003337144851685
+r o z u m i e j ą c e	r o z u m i e j ą c e	0.1876331925392151	tensor(0.3140)	-2	0.31396031379699707
+n i e z ż a r z e n i o m   s i ę	n i e z ż a r z e n i o m   s i ę	0.1936167597770691	tensor(0.3179)	-2	0.31789442896842957
+b ę d z i e m y   j u m a l i	b ę d z i e m y   j u m a l i	0.19610582590103148	tensor(0.3195)	-2	0.3194761574268341
+p o t ę p i o n a c h	p o t ę p i o n y c h	0.19373631477355957	tensor(0.3180)	-1	0.3179711401462555
+u l e w a	u l e w a	0.19439853429794313	tensor(0.3184)	-2	0.31839466094970703
+p ł a w b y	p ł a w b y	0.19435665607452393	tensor(0.3184)	-2	0.31836792826652527
+n i e s e n o ń s k i e m u	n i e s e n o ń s k i e m u	0.1947519898414612	tensor(0.3186)	-2	0.3186197876930237
+n i e z w ę d r o w a n i a	n i e z w ę d r o w a n i a	0.18740750551223756	tensor(0.3138)	-2	0.31380823254585266
+b ę d ę   g u w e r n a n t k o w a ć	b ę d ę   g u w e r n a n t k o w a ć	0.1959362030029297	tensor(0.3194)	-2	0.319369375705719
+b r e z y l i a m i	b r e z y l i a m i	0.19563006162643432	tensor(0.3192)	-2	0.3191762864589691
+n i e z a k r w a w i o n e m u	n i e z a k r w a w i o n e m u	0.19607932567596437	tensor(0.3195)	-2	0.3194594979286194
+m a r c ó w k i	m a r c ó w k i	0.1953778386116028	tensor(0.3190)	-2	0.31901681423187256
+o d s t ą p i l i ś m y	o d s t ą p i l i ś m y	0.18823685646057128	tensor(0.3144)	-2	0.31436577439308167
+o p ó ź n i a j ą c y m	o p ó ź n i a j ą c y m	0.19534673690795898	tensor(0.3190)	-2	0.3189971446990967
+d o m k n ę ł y b y   s i ę	d o m k n ę ł y b y   s i ę	0.19519490003585815	tensor(0.3189)	-2	0.3189009726047516
+k u c h a r s c y	k u c h a r s c y	0.19565421342849731	tensor(0.3192)	-2	0.3191915452480316
+u p o d l e n i o m	u p o d l e n i o m	0.19569915533065796	tensor(0.3192)	-2	0.3192199170589447
+r z ę s k o w a t y	r z ę s k o w a t y	0.19458768367767335	tensor(0.3185)	-2	0.31851521134376526
+n i e z a ś m i a r d n i ę c i o m	n i e z a ś m i a r d n i ę c i o m	0.19518424272537233	tensor(0.3189)	-2	0.31889423727989197
+p o d g l ą d a n y m	p o d g l ą d a n y m	0.1969815969467163	tensor(0.3200)	-2	0.32002514600753784
+n i e w z w y c z a j o n y c h	n i e w z w y c z a j o n y c h	0.1943821430206299	tensor(0.3184)	-2	0.31838420033454895
+g o m u ł k o w s k u	g o m u ł k o w s k u	0.193777596950531	tensor(0.3180)	-2	0.31799760460853577
+m a s k o t y	m a s k o t y	0.19668432474136352	tensor(0.3198)	-2	0.3198392689228058
+b ę d ę   n a r o w i ł o	b ę d ę   n a r o w i ł o	0.19471302032470703	tensor(0.3186)	-2	0.3185949921607971
+n i e t r ę t w i e n i e	n i e t r ę t w i e n i e	0.19549767971038817	tensor(0.3191)	-2	0.31909263134002686
+s t o p n i u j e	s t o p n i u j e	0.19545015096664428	tensor(0.3191)	-2	0.31906259059906006
+b ę d ę   w y w o ł y w a ł o   s i ę	b ę d ę   w y w o ł y w a ł o   s i ę	0.19551907777786254	tensor(0.3191)	-2	0.31910616159439087
+n i e o b g a r n i ę c i a	n i e o b g a r n i ę c i a	0.19446156024932862	tensor(0.3184)	-2	0.31843483448028564
+g o n t y n y	g o n t y n y	0.193867027759552	tensor(0.3181)	-2	0.3180549144744873
+n i e w c h a d z a n i u	n i e w c h a d z a n i u	0.1936490297317505	tensor(0.3179)	-2	0.317915141582489
+s u b r e t k a	s u b r e t k a	0.192903733253479	tensor(0.3174)	-2	0.31743544340133667
+p ó ł r o z w i ą z a ł y ś c i e   s i ę	p ó ł r o z w i ą z a ł y ś c i e   s i ę	0.19693868160247802	tensor(0.3200)	-2	0.3199983537197113
+w y ż u w a j ą c a	w y ż u w a j ą c a	0.19623953104019165	tensor(0.3196)	-2	0.3195602297782898
+n i e z a w a n s o w a n i a	n i e z a a w a n s o w a n i a	0.19558779001235962	tensor(0.3191)	-1	0.31914958357810974
+w k l u c z m y   s i ę	w k l u c z m y   s i ę	0.186850905418396	tensor(0.3134)	-2	0.313431978225708
+z a p a l n i c z k i	z a p a l n i c z k i	0.18619297742843627	tensor(0.3130)	-2	0.3129850924015045
+n i e w y n ę d z o n e j	n i e w y n ę d z o n e j	0.1784256339073181	tensor(0.3075)	-2	0.3075314462184906
+s t e r e o f o n i e	s t e r e o f o n i e	0.19456446170806885	tensor(0.3185)	-2	0.31850042939186096
+j a w o r y	j a w o r y	0.19277654886245726	tensor(0.3174)	-2	0.3173532783985138
+t a r g a n i e c a c h	t a r g a ń c a c h	0.19247727394104003	tensor(0.3172)	1	0.31715965270996094
+n i e m i k s e r s k i e m u	n i e m i k s e r s k i e m u	0.19524168968200684	tensor(0.3189)	-2	0.31893062591552734
+p o s z e w c e	p o s z e w c e	0.18996862173080445	tensor(0.3155)	-2	0.31551820039749146
+a p e r c y p o w a n o	a p e r c y p o w a n o	0.19527478218078614	tensor(0.3190)	-2	0.3189515769481659
+n i e p r z e r z n i ę c i a c h	n i e p r z e r z n i ę c i a c h	0.1926374077796936	tensor(0.3173)	-2	0.31726330518722534
+d y p l o m u j ą c e m u	d y p l o m u j ą c e m u	0.1968325138092041	tensor(0.3199)	-2	0.3199319839477539
+c h w a c ą c ą	c h w a c ą c ą	0.19610508680343627	tensor(0.3195)	-2	0.3194757103919983
+n a f t o c h e m i	n a f t o c h e m i j	0.19073970317840577	tensor(0.3160)	-1	0.3160262405872345
+b ę d ę   p ł y t o w a ł o	b ę d ę   p ł y t o w a ł o	0.19646108150482178	tensor(0.3197)	-2	0.31969934701919556
+b ę d z i e m y   n i e c i ł y	b ę d z i e m y   n i e c i ł y	0.19627933502197265	tensor(0.3196)	-2	0.31958523392677307
+w s a d z o n e g o	w s a d z o n e g o	0.19363352060317993	tensor(0.3179)	-2	0.3179051876068115
+b ę d z i e s z   n a s z p r y c o w y w a ł o   s i ę	b ę d z i e s z   n a s z p r y c o w y w a ł o   s i ę	0.19365545511245727	tensor(0.3179)	-2	0.3179192543029785
+n i e ś c i e r p n i ę t y c h	n i e ś c i e r p n i ę t y c h	0.19464559555053712	tensor(0.3186)	-2	0.31855207681655884
+o b r o t n i e j s z e g o	o b r o t n i e j s z e g o	0.1956615447998047	tensor(0.3192)	-2	0.3191961646080017
+c h a r y t a t y w n o ś c i a c h	c h a r y t a t y w n o ś c i a c h	0.19556771516799926	tensor(0.3191)	-2	0.3191368877887726
+n i e p o s i e c z o n y c h	n i e p o s i e c z o n y c h	0.18600339889526368	tensor(0.3129)	-2	0.31285592913627625
+n i e r z ą d z ą c y m	n i e r z ą d z ą c y m	0.19657257795333863	tensor(0.3198)	-2	0.3197692632675171
+c h r y p i e n i e	c h r y p i e n i e	0.19569072723388672	tensor(0.3192)	-2	0.3192145824432373
+n i e s k l e p i o n y m	n i e s k l e p i o n y m	0.19529646635055542	tensor(0.3190)	-2	0.3189653158187866
+g ł u c h n ę ł o m	g ł u c h ł o m	0.19398181438446044	tensor(0.3181)	0	0.31812840700149536
+n i e o k r w a w i a j ą c y	n i e o k r w a w i a j ą c y	0.196579647064209	tensor(0.3198)	-2	0.31977367401123047
+z a b r z m i e n i a	z a b r z m i e n i a	0.19540916681289672	tensor(0.3190)	-2	0.31903666257858276
+r o z p r ó s z a n o	r o z p r ó s z a n o	0.19531649351119995	tensor(0.3190)	-2	0.3189780116081238
+j e ź d z i ł a ś	j e ź d z i ł a ś	0.178702974319458	tensor(0.3077)	-2	0.3077319264411926
+p r z y r z ą d z a j ą c y c h	p r z y r z ą d z a j ą c y c h	0.1939318895339966	tensor(0.3181)	-2	0.31809645891189575
+ś c i e r n i a n k a c h	ś c i e r n i a n k a c h	0.19271262884140014	tensor(0.3173)	-2	0.31731200218200684
+n i e ś r ó d m o r s k o ś c i a c h	n i e ś r ó d m o r s k o ś c i a c h	0.19552855491638182	tensor(0.3191)	-2	0.3191121518611908
+n a j s k u t e c z n i e j s z y m i	n a j s k u t e c z n i e j s z y m i	0.19590840339660645	tensor(0.3194)	-2	0.3193518817424774
+g r y p s e r s k i	g r y p s e r s k i	0.1960681915283203	tensor(0.3195)	-2	0.3194524943828583
+r o z i g r a j m y   s i ę	r o z i g r a j m y   s i ę	0.19500877857208251	tensor(0.3188)	-2	0.3187829554080963
+p r z e ż y w i a j ą c y m   s i ę	p r z e ż y w i a j ą c y m   s i ę	0.19295822381973265	tensor(0.3175)	-2	0.31747061014175415
+n i e p o k p i w a j ą c a	n i e p o k p i w a j ą c a	0.1923362970352173	tensor(0.3171)	-2	0.31706830859184265
+n i e w y k o s z e n i a c h   s i ę	n i e w y k o s z e n i a c h   s i ę	0.19441369771957398	tensor(0.3184)	-2	0.31840431690216064
+b ę d z i e s z   p r z e p r z ę g a ł o   s i ę	b ę d z i e s z   p r z e p r z ę g a ł o   s i ę	0.19309858083724976	tensor(0.3176)	-2	0.3175611197948456
+a n t y p a ń s t w o w o ś ć	a n t y p a ń s t w o w o ś ć	0.19613431692123412	tensor(0.3195)	-2	0.3194940984249115
+n i e c h l a p a j ą c y	n i e c h l a p i ą c y	0.19652299880981444	tensor(0.3197)	0	0.31973814964294434
+b e z p ó ł t o n o w y	b e z p ó ł t o n o w y	0.19710246324539185	tensor(0.3201)	-2	0.3201006054878235
+p r z e s t r a s z a s z	p r z e s t r a s z a s z	0.18843631744384765	tensor(0.3145)	-2	0.31449928879737854
+s k r o m n i u t e ń k i m i	s k r o m n i u t e ń k i m i	0.1959065556526184	tensor(0.3194)	-2	0.3193506896495819
+n i e ś r ó d g ł o s o w o ś c i a c h	n i e ś r ó d g ł o s o w o ś c i a c h	0.19570698738098144	tensor(0.3192)	-2	0.31922486424446106
+o d w i e w a j ą c e j   s i ę	o d w i e w a j ą c e j   s i ę	0.19467556476593018	tensor(0.3186)	-2	0.31857115030288696
+r ż n i ę t y	r ż n i ę t y	0.1925675868988037	tensor(0.3172)	-2	0.317218154668808
+b ę d z i e m y   n a s z a ł y   s i ę	b ę d z i e m y   n a s z a ł y   s i ę	0.19637643098831176	tensor(0.3196)	-2	0.3196462094783783
+m e d a l i e r s c y	m e d a l i e r s c y	0.196013879776001	tensor(0.3194)	-2	0.3194183111190796
+p e l e r y n a m i	p e l e r y n a m i	0.19264798164367675	tensor(0.3173)	-2	0.3172701597213745
+n i e s k a r l e n i a	n i e s k a r l e n i a	0.19396997690200807	tensor(0.3181)	-2	0.3181208372116089
+d e k a g r a m o w o ś c i a c h	d e k a g r a m o w o ś c i a c h	0.19601840972900392	tensor(0.3194)	-2	0.3194211423397064
+l u m i n a c j a c h	l u m i n a c j a c h	0.19674913883209227	tensor(0.3199)	-2	0.31987980008125305
+n i e z a g r a c e n i u	n i e z a g r a c e n i u	0.19560517072677613	tensor(0.3192)	-2	0.3191605806350708
+r o z c i ą g ł e j	r o z c i ą g ł e j	0.19647706747055055	tensor(0.3197)	-2	0.3197093605995178
+b ę d z i e   n ę d z i ć	b ę d z i e   n ę d z i ć	0.19491173028945924	tensor(0.3187)	-2	0.31872132420539856
+n a j m a j ę t n i e j s z y m	n a j m a j ę t n i e j s z y m	0.19569383859634398	tensor(0.3192)	-2	0.3192165493965149
+r o z s i e r d z a j ą c e	r o z s i e r d z a j ą c e	0.19592876434326173	tensor(0.3194)	-2	0.3193646967411041
+w i ę z ó w k ą	w i ę z ó w k ą	0.19535369873046876	tensor(0.3190)	-2	0.31900155544281006
+p r z e w i e s i l i ś m y	p r z e w i e s i l i ś m y	0.1953135371208191	tensor(0.3190)	-2	0.31897613406181335
+b ę d z i e s z   a r t y s t o w a ł o	b ę d z i e s z   a r t y s t o w a ł o	0.19135770797729493	tensor(0.3164)	-2	0.3164311647415161
+z e z w i e r z ę c e n i a c h	z e z w i e r z ę c e n i a c h	0.1954569101333618	tensor(0.3191)	-2	0.3190668523311615
+a n d r u c i k u	a n d r u c i k u	0.188392972946167	tensor(0.3145)	-2	0.3144702911376953
+n i e o d b r z ę c z e n i a	n i e o d b r z ę c z e n i a	0.18296644687652588	tensor(0.3108)	-2	0.3107598125934601
+p o r u c z n i k a	p o r u c z n i k	0.18857392072677612	tensor(0.3146)	-1	0.31459128856658936
+k a r o t o w a n i e	k a r o t o w a n i e	0.19627015590667723	tensor(0.3196)	-2	0.31957948207855225
+n a t u r y s t a	n a t u r y s t a	0.19484343528747558	tensor(0.3187)	-2	0.3186779320240021
+n i e o b r ą b i e n i a   s i ę	n i e o b r ą b i e n i a   s i ę	0.1963098406791687	tensor(0.3196)	-2	0.31960439682006836
+z ż y d z o n e	z ż y d z o n e	0.19338129758834838	tensor(0.3177)	-2	0.3177431523799896
+k o n t r o f e n s y w ę	k o n t r o f e n s y w ę	0.1906323790550232	tensor(0.3160)	-2	0.3159556984901428
+n i e e l e k t r y c z n o ś ć	n i e e l e k t r y c z n o ś ć	0.19504590034484864	tensor(0.3188)	-2	0.3188064992427826
+d o k ł u w a m   s i ę	d o k ł u w a m   s i ę	0.19579297304153442	tensor(0.3193)	-2	0.31927910447120667
+u ł a s k a w i e n i a   s i ę	u ł a s k a w i e n i a   s i ę	0.19503276348114013	tensor(0.3188)	-2	0.31879815459251404
+b ę d z i e s z   z a w d z i e w a ł o	b ę d z i e s z   z a w d z i e w a ł o	0.18981804847717285	tensor(0.3154)	-2	0.31541863083839417
+u d ź w i ę c z n i a j ą c ą	u d ź w i ę c z n i a j ą c ą	0.19544349908828734	tensor(0.3191)	-2	0.319058358669281
+j u d a s z o w s c y	j u d a s z o w s c y	0.19577398300170898	tensor(0.3193)	-2	0.3192671239376068
+d o r ż n i ę c i a	d o r ż n i ę c i a	0.19542800188064574	tensor(0.3190)	-2	0.31904855370521545
+d o j a r k ą	d o j a r k ą	0.19581525325775145	tensor(0.3193)	-2	0.31929314136505127
+n i e p ł o t k a r s k o ś c i a c h	n i e p ł o t k a r s k o ś c i a c h	0.1961464524269104	tensor(0.3195)	-2	0.31950172781944275
+b ę d z i e s z   z e z w a l a ł o	b ę d z i e s z   z e z w a l a ł o	0.19177162647247314	tensor(0.3167)	-2	0.3167012631893158
+b ę d z i e c i e   s p u d r o w y w a l i	b ę d z i e c i e   s p u d r o w y w a l i	0.19699063301086425	tensor(0.3200)	-2	0.3200308084487915
+o d c h ł a d z a j ą c   s i ę	o d c h ł a d z a j ą c   s i ę	0.19379653930664062	tensor(0.3180)	-2	0.31800973415374756
+n i e o b m i a t a j ą c y c h   s i ę	n i e o b m i a t a j ą c y c h   s i ę	0.18307870626449585	tensor(0.3108)	-2	0.3108381927013397
+p o d e ż r e l i ś m y	p o d ż a r l i ś m y	0.16602803468704225	tensor(0.2981)	1	0.2981197237968445
+p o p r z y s i ę g n i ę t y c h	p o p r z y s i ę g n i ę t y c h	0.19530359506607056	tensor(0.3190)	-2	0.31896984577178955
+r o z m a r z n i j c i e	r o z m a r ź n i j c i e	0.19317251443862915	tensor(0.3176)	-1	0.3176087737083435
+c h y c e n i e m   s i ę	c h y c e n i e m   s i ę	0.19685671329498292	tensor(0.3199)	-2	0.31994712352752686
+n i e p r z e b r u d z a j ą c y m i	n i e p r z e b r u d z a j ą c y m i	0.19490742683410645	tensor(0.3187)	-2	0.3187185823917389
+n i e z b r z y d z a n i u   s i ę	n i e z b r z y d z a n i u   s i ę	0.1941523313522339	tensor(0.3182)	-2	0.31823745369911194
+n i e u p o r z ą d z a n e g o	n i e u p o r z ą d z a n e g o	0.19344072341918944	tensor(0.3178)	-2	0.31778132915496826
+n i e t a j l a n d z k i e	n i e t a j l a n d z k i e	0.19568228721618652	tensor(0.3192)	-2	0.3192092478275299
+t y t ł a	t y t ł a	0.19678472280502318	tensor(0.3199)	-2	0.31990209221839905
+p r o c k a c h	p r o c k a c h	0.19716572761535645	tensor(0.3201)	-2	0.3201400935649872
+b ę d z i e c i e   o d k u r z a ł y	b ę d z i e c i e   o d k u r z a ł y	0.197459876537323	tensor(0.3203)	-2	0.3203233480453491
+p o p r z y p o m i n a j ą	p o p r z y p o m i n a j ą	0.19549057483673096	tensor(0.3191)	-2	0.3190881311893463
+o b s z c z i n ą	o b s z c z i n ą	0.1954437255859375	tensor(0.3191)	-2	0.31905850768089294
+n i e p r z e m a r z n i ę c i a c h	n i e p r z e m a r ź n i ę c i a c h	0.19393051862716676	tensor(0.3181)	-1	0.3180955648422241
+n i e t r z ą c h a j ą c e g o	n i e t r z ą c h a j ą c e g o	0.1946721315383911	tensor(0.3186)	-2	0.31856897473335266
+n i e e l a s t y l o w o ś c i a c h	n i e e l a s t y l o w o ś c i a c h	0.19316837787628174	tensor(0.3176)	-2	0.3176060914993286
+b ę d z i e s z   w o r k o w a ł o	b ę d z i e s z   w o r k o w a ł o	0.19039580821990967	tensor(0.3158)	-2	0.3158000409603119
+n i e w ą s i s t o ś c i ą	n i e w ą s i s t o ś c i ą	0.1964866876602173	tensor(0.3197)	-2	0.3197154104709625
+m a m u n i n o ś c i a c h	m a m u n i n o ś c i a c h	0.19565330743789672	tensor(0.3192)	-2	0.31919097900390625
+n i e j e s i o n o l i s t n o ś c i a c h	n i e j e s i o n o l i s t n o ś c i a c h	0.19529461860656738	tensor(0.3190)	-2	0.3189641535282135
+c h a ł u p ę	c h a ł u p ę	0.1888129234313965	tensor(0.3148)	-2	0.31475088000297546
+m a c a n i n a m i	m a c a n i n a m i	0.18994266986846925	tensor(0.3155)	-2	0.31550103425979614
+p r z y p ł a d z a j ą c y	p r z y p ł a d z a j ą c y	0.19389353990554808	tensor(0.3181)	-2	0.3180719017982483
+n i e p o n i w e c z o n e	n i e p o n i w e c z o n e	0.19460854530334473	tensor(0.3185)	-2	0.31852850317955017
+n i e p o p i j a r s k i e m u	n i e p o p i j a r s k i e m u	0.19493697881698607	tensor(0.3187)	-2	0.31873735785484314
+a g a r o w o ś c i a c h	a g a r o w o ś c i a c h	0.19659132957458497	tensor(0.3198)	-2	0.31978100538253784
+n i e o k o ł o m a r s j a ń s k i e j	n i e o k o ł o m a r s j a ń s k i e j	0.19607701301574706	tensor(0.3195)	-2	0.3194580376148224
+s z a k a l i	s z a k a l i	0.19547957181930542	tensor(0.3191)	-2	0.31908118724823
+s u n ę ł e m   s i ę	s u n ą ł e m   s i ę	0.19389468431472778	tensor(0.3181)	-1	0.3180726170539856
+n o r m o w a n y m	n o r m o w a n y m	0.1971502423286438	tensor(0.3201)	-2	0.32013043761253357
+n i e o b n a s z a n e m u	n i e o b n a s z a n e m u	0.19616825580596925	tensor(0.3195)	-2	0.3195154368877411
+n i e o b n o s z o n y c h	n i e o b n o s z o n y c h	0.1936131715774536	tensor(0.3179)	-2	0.3178921341896057
+k r z e w u s z k i	k r z e w u s z k i	0.19113965034484864	tensor(0.3163)	-2	0.3162885308265686
+b a w i d e ł k o m	b a w i d e ł k o m	0.1955508589744568	tensor(0.3191)	-2	0.3191262483596802
+w ł a d n ą c e m u	w ł a d n ą c e m u	0.19649277925491332	tensor(0.3197)	-2	0.31971919536590576
+f e r y j n o ś c i a c h	f e r y j n o ś c i a c h	0.19648594856262208	tensor(0.3197)	-2	0.3197149336338043
+o f t a l m o m e t r o m	o f t a l m o m e t r o m	0.1968625545501709	tensor(0.3200)	-2	0.31995075941085815
+n i e w e w n ą t r z p o l i t y c z n y c h	n i e w e w n ą t r z p o l i t y c z n y c h	0.1951924204826355	tensor(0.3189)	-2	0.3188994228839874
+b ę d z i e s z   t a s o w a ł o	b ę d z i e s z   t a s o w a ł o	0.19073086977005005	tensor(0.3160)	-2	0.3160204291343689
+b ę d z i e s z   w n ę k o w a ł o   s i ę	b ę d z i e s z   w n ę k o w a ł o   s i ę	0.1927069306373596	tensor(0.3173)	-2	0.3173082768917084
+r a b u l i s t y c z n e m u	r a b u l i s t y c z n e m u	0.19595600366592408	tensor(0.3194)	-2	0.31938186287879944
+n i e r o z t o p i o n e m u	n i e r o z t o p i o n e m u	0.19552420377731322	tensor(0.3191)	-2	0.31910941004753113
+k o ł a t a w k a	k o ł a t a w k a	0.19193147420883178	tensor(0.3168)	-2	0.31680533289909363
+n i e ś n i o n y c h	n i e ś n i o n y c h	0.19600318670272826	tensor(0.3194)	-2	0.31941157579421997
+n i e n a d r z e c z y w i s t e m u	n i e n a d r z e c z y w i s t e m u	0.19692704677581788	tensor(0.3200)	-2	0.3199910819530487
+k a r e c i n i e	k a r e c i n i e	0.19219025373458862	tensor(0.3170)	-2	0.3169735372066498
+n a j p a r s z y w s z y m i	n a j p a r s z y w s z y m i	0.19624377489089967	tensor(0.3196)	-2	0.3195628821849823
+n i e p r z y c h ę c a j ą c e m u   s i ę	n i e p r z y c h ę c a j ą c e m u   s i ę	0.19644962549209594	tensor(0.3197)	-2	0.31969213485717773
+w o d o w a n i a c h	w o d o w a n i a c h	0.19569942951202393	tensor(0.3192)	-2	0.31922009587287903
+b ę d z i e s z   o w i e w a ł o   s i ę	b ę d z i e s z   o w i e w a ł o   s i ę	0.19313631057739258	tensor(0.3176)	-2	0.31758543848991394
+n i e p r z e p o d r ó ż o w a n i a c h   s i ę	n i e p r z e p o d r ó ż o w a n i a c h   s i ę	0.19285379648208617	tensor(0.3174)	-2	0.3174031972885132
+n i e d w u s y l a b o w o ś c i a m i	n i e d w u s y l a b o w o ś c i a m i	0.19582786560058593	tensor(0.3193)	-2	0.3193010985851288
+m o d z e l o w a t o ś c i a c h	m o d z e l o w a t o ś c i a c h	0.1959891438484192	tensor(0.3194)	-2	0.3194027245044708
+p ó ł g ą s i e n i c o w e	p ó ł g ą s i e n i c o w e	0.19557687044143676	tensor(0.3191)	-2	0.3191426694393158
+p r z e j r z e l i b y	p r z e j r z e l i b y	0.16458604335784913	tensor(0.2970)	-2	0.29696616530418396
+n a j d o b r o t l i w s z e	n a j d o b r o t l i w s z e	0.19080375432968139	tensor(0.3161)	-2	0.31606829166412354
+b ę d z i e c i e   k i c a ł y	b ę d z i e c i e   k i c a ł y	0.19645838737487792	tensor(0.3197)	-2	0.31969764828681946
+s o ł t y s ó w k a	s o ł t y s ó w k a	0.18878014087677003	tensor(0.3147)	-2	0.3147290050983429
+s ą d n e m u	s ą d n e m u	0.1963397741317749	tensor(0.3196)	-2	0.319623202085495
+p r z e d r z y ź n i a n i u   s i ę	p r z e d r z y ź n i a n i u   s i ę	0.18223696947097778	tensor(0.3102)	-2	0.31024885177612305
+k a p u ś c i n i e	k a p u ś c i n i e	0.19302835464477539	tensor(0.3175)	-2	0.31751585006713867
+n i e p i e n i o n e m u	n i e p i e n i o n e m u	0.1959489107131958	tensor(0.3194)	-2	0.3193773925304413
+n i e r y p a n i e	n i e r y p a n i e	0.195683491230011	tensor(0.3192)	-2	0.319210022687912
+d o l e p i a m   s i ę	d o l e p i a m   s i ę	0.19635319709777832	tensor(0.3196)	-2	0.3196316361427307
+n i e w y m o n o l o g o w a n i a   s i ę	n i e w y m o n o l o g o w a n i a   s i ę	0.18633227348327636	tensor(0.3131)	-2	0.31307992339134216
+z a k r z y k i w a n i e   s i ę	z a k r z y k i w a n i e   s i ę	0.19592273235321045	tensor(0.3194)	-2	0.3193608820438385
+p a n c e r k i	p a n c e r k i	0.19403063058853148	tensor(0.3182)	-2	0.31815963983535767
+p ł o w o w ł o s e m u	p ł o w o w ł o s e m u	0.19392540454864501	tensor(0.3181)	-2	0.3180922865867615
+n i e s z p u ł c e	n i e s z p u ł c e	0.1927918314933777	tensor(0.3174)	-2	0.3173631727695465
+l ż y w y	l ż y w y	0.19627642631530762	tensor(0.3196)	-2	0.3195834159851074
+g l i c e r y n y	g l i c e r y n y	0.193408203125	tensor(0.3178)	-2	0.3177604377269745
+w y ż y m a r k a m i	w y ż y m a r k a m i	0.19614459276199342	tensor(0.3195)	-2	0.31950053572654724
+w i e l o s z c z e t ó w	w i e l o s z c z e t ó w	0.1842056393623352	tensor(0.3116)	-2	0.31162115931510925
+p u l s ó w	p u l s ó w	0.19453253746032714	tensor(0.3185)	-2	0.31848007440567017
+s u p e r n o w a m i	s u p e r n o w y m i	0.19409067630767823	tensor(0.3182)	-1	0.3181980550289154
+n i e o d c z y s z c z a n i e	n i e o d c z y s z c z a n i e	0.1957772970199585	tensor(0.3193)	-2	0.31926921010017395
+u s k o r u p i e n i a c h	u s k o r u p i e n i a c h	0.19481849670410156	tensor(0.3187)	-2	0.3186620771884918
+n i e e d o m s k a	n i e e d o m s k a	0.19604500532150268	tensor(0.3194)	-2	0.3194378912448883
+o s y p y w a n i e	o s y p y w a n i e	0.1969974160194397	tensor(0.3200)	-2	0.32003504037857056
+z a g l ą d a n i e	z a g l ą d a n i e	0.1958153247833252	tensor(0.3193)	-2	0.31929320096969604
+b ę d z i e c i e   u s z k a d z a ł y	b ę d z i e c i e   u s z k a d z a ł y	0.19610990285873414	tensor(0.3195)	-2	0.31947875022888184
+b ę d z i e s z   p o ł u d n i o w a ł o	b ę d z i e s z   p o ł u d n i o w a ł o	0.18981035947799682	tensor(0.3154)	-2	0.31541353464126587
+p o c h l e b i a j	p o c h l e b i a j	0.19579406976699829	tensor(0.3193)	-2	0.3192797899246216
+p i e p r z n i e j s z e g o	p i e p r z n i e j s z e g o	0.19498414993286134	tensor(0.3188)	-2	0.3187673091888428
+p r z e l e w a n e	p r z e l e w a n e	0.19600238800048828	tensor(0.3194)	-2	0.3194110691547394
+c z t e r o s u w o w o ś c i a m i	c z t e r o s u w o w o ś c i a m i	0.1958547830581665	tensor(0.3193)	-2	0.31931808590888977
+h o ł d o w n i c z k a	h o ł d o w n i c z k a	0.18461862802505494	tensor(0.3119)	-2	0.3119063675403595
+n i e w y l ę g n i ę c i	n i e w y l ę g n i ę c i	0.1827570915222168	tensor(0.3106)	-2	0.3106134831905365
+f i k o ł k o w i	f i k o ł k o w i	0.188046658039093	tensor(0.3142)	-2	0.31423822045326233
+p u p e c z c e	p u p e c z c e	0.1878783345222473	tensor(0.3141)	-2	0.3141251802444458
+b ę d z i e c i e   p r z e w ł ó c z y l i	b ę d z i e c i e   p r z e w ł ó c z y l i	0.1923772692680359	tensor(0.3171)	-2	0.3170948326587677
+p o d a r z e n i a c h	p o d a r z e n i a c h	0.19142296314239501	tensor(0.3165)	-2	0.3164738118648529
+c i z a m i	c i z a m i	0.19383934736251832	tensor(0.3180)	-2	0.3180371820926666
+n i e o k r y w o w o ś c i a c h	n i e o k r y w o w o ś c i a c h	0.19634993076324464	tensor(0.3196)	-2	0.31962957978248596
+n i e u c y f r o w i e n i e m	n i e u c y f r o w i e n i e m	0.1952492594718933	tensor(0.3189)	-2	0.31893542408943176
+n i e b e z n a d z i e j n y	n i e b e z n a d z i e j n y	0.19675737619400024	tensor(0.3199)	-2	0.3198849856853485
+n i e n a k w a s z e n i a c h   s i ę	n i e n a k w a s z e n i a c h   s i ę	0.19400442838668824	tensor(0.3181)	-2	0.3181428611278534
+p r z e m ó w i e n i a c h	p r z e m ó w i e n i a c h	0.19682230949401855	tensor(0.3199)	-2	0.31992560625076294
+n i e n o n - i r o n o w o ś c i ą	n i e n o n - i r o n o w o ś c i ą	0.16030464172363282	tensor(0.2935)	-2	0.29346638917922974
+w y c h o d z o n ą	w y c h o d z o n ą	0.19354026317596434	tensor(0.3178)	-2	0.31784531474113464
+c h ł a p n ę ł y b y	c h ł a p n ę ł y b y	0.1823577880859375	tensor(0.3103)	-2	0.3103336691856384
+n i e w y a n g o b o w a n i a c h	n i e w y a n g o b o w a n i a c h	0.19521706104278563	tensor(0.3189)	-2	0.3189150393009186
+n i e z a s y m u l o w a n i a	n i e z a s y m u l o w a n i a	0.18896746635437012	tensor(0.3149)	-2	0.31485387682914734
+n i e r o z s a d o w i e n i e m   s i ę	n i e r o z s a d o w i e n i e m   s i ę	0.1966612696647644	tensor(0.3198)	-2	0.31982481479644775
+b i b l i o t e c z k i	b i b l i o t e c z k i	0.1765766978263855	tensor(0.3062)	-2	0.30618399381637573
+e k o p r z e s t ę p c a m	e k o p r z e s t ę p c ą	0.19650907516479493	tensor(0.3197)	0	0.31972944736480713
+b ę d z i e c i e   o m i a t a l i	b ę d z i e c i e   o m i a t a l i	0.1969413638114929	tensor(0.3200)	-2	0.320000022649765
+s ł o p i e w n i ę	s ł o p i e w n i ę	0.1899372696876526	tensor(0.3155)	-2	0.315497487783432
+p i j a n i u s i e ń k a	p i j a n i u s i e ń k a	0.19661542177200317	tensor(0.3198)	-2	0.319796085357666
+n i e b a t o ż e n i e	n i e b a t o ż e n i e	0.19582734107971192	tensor(0.3193)	-2	0.3193007707595825
+w y w r o t n i c a	w y w r o t n i c a	0.19200907945632933	tensor(0.3169)	-2	0.3168558180332184
+p ł a t k i	p ł a t k i	0.19508259296417235	tensor(0.3188)	-2	0.3188297748565674
+n a d w a ż y l i ś c i e	n a d w a ż y l i ś c i e	0.19072821140289306	tensor(0.3160)	-2	0.316018670797348
+b ę d z i e c i e   p l w a ł y	b ę d z i e c i e   p l w a ł y	0.19676125049591064	tensor(0.3199)	-2	0.3198873996734619
+p a r c e l k ą	p a r c e l k ą	0.1951760768890381	tensor(0.3189)	-2	0.3188890516757965
+z b a ł a m u c e n i a c h	z b a ł a m u c e n i a c h	0.19531205892562867	tensor(0.3190)	-2	0.31897521018981934
+r o z s a d o w i e n i a	r o z s a d o w i e n i a	0.19541887044906617	tensor(0.3190)	-2	0.31904277205467224
+b ę d z i e m y   u b r u d z a ł y	b ę d z i e m y   u b r u d z a ł y	0.1965775728225708	tensor(0.3198)	-2	0.3197723925113678
+r e k i s t a	r e k i ś c i e	0.14781197309494018	tensor(0.2826)	2	0.28258904814720154
+n i e z d e m i n e r a l i z o w a n i o m   s i ę	n i e z d e m i n e r a l i z o w a n i o m   s i ę	0.1957797408103943	tensor(0.3193)	-2	0.3192707300186157
+o p r o w a d z e n i a   s i ę	o p r o w a d z e n i a   s i ę	0.1895966649055481	tensor(0.3153)	-2	0.3152720332145691
+z a d o w c i p k u j e c i e	z a d o w c i p k u j e c i e	0.19338783025741577	tensor(0.3177)	-2	0.3177473545074463
+z ż ó ł k n i ę t e	z ż ó ł k n i ę t e	0.19595645666122435	tensor(0.3194)	-2	0.3193821310997009
+n i e w y b u r z e n i a	n i e w y b u r z e n i a	0.18744734525680543	tensor(0.3138)	-2	0.313835084438324
+r o z k a l i b r o w y w a ł y b y	r o z k a l i b r o w y w a ł y b y	0.19623457193374633	tensor(0.3196)	-2	0.3195571005344391
+p i e k ł u	p i e k l e	0.19264811277389526	tensor(0.3173)	0	0.3172702491283417
+n u r z a j c i e	n u r z a j c i e	0.18900663852691652	tensor(0.3149)	-2	0.31487998366355896
+n i e s p y t a ń	n i e s p y t a ń	0.19739257097244262	tensor(0.3203)	-2	0.320281445980072
+z d e c y d o w a n i a c h	z d e c y d o w a n i a c h	0.19606255292892455	tensor(0.3194)	-2	0.31944894790649414
+n i e p ó ł m i e s i ę c z n o ś c i a m i	n i e p ó ł m i e s i ę c z n o ś c i a m i	0.19597244262695312	tensor(0.3194)	-2	0.31939220428466797
+n i e z o l b r z y m i e n i a	n i e z o l b r z y m i e n i a	0.1955237627029419	tensor(0.3191)	-2	0.31910911202430725
+n i e r o z m a c h n i ę c i e m	n i e r o z m a c h n i ę c i e m	0.19403657913208008	tensor(0.3182)	-2	0.3181634545326233
+w y d r z e ź n i a n i e	w y d r z e ź n i a n i e	0.180272376537323	tensor(0.3089)	-2	0.308858186006546
+s p ó ł d z i a ł a b y m	s p ó ł d z i a ł a ł o b y m	0.19115724563598632	tensor(0.3163)	0	0.31630006432533264
+z w o ł y w a n i e   s i ę	z w o ł y w a n i e   s i ę	0.19546338319778442	tensor(0.3191)	-2	0.3190709352493286
+n i e d e k l i n a c y j n o ś c i a c h	n i e d e k l i n a c y j n o ś c i a c h	0.1961337447166443	tensor(0.3195)	-2	0.31949374079704285
+p r z y t r z a s k u j e   s i ę	p r z y t r z a s k u j e   s i ę	0.19563530683517455	tensor(0.3192)	-2	0.31917959451675415
+e d y n b u r s k i e m u	e d y n b u r s k i e m u	0.19367988109588624	tensor(0.3179)	-2	0.31793496012687683
+r e k t a s c e n c j ę	r e k t a s c e n c j ę	0.1887694001197815	tensor(0.3147)	-2	0.31472185254096985
+ś l i p i e n i e	ś l i p i e n i e	0.19587481021881104	tensor(0.3193)	-2	0.31933069229125977
+n i e d o p r z ę g n i ę c i a	n i e d o p r z ę g n i ę c i a	0.19416433572769165	tensor(0.3182)	-2	0.3182451128959656
+t r a n s w e r t o r	t r a n s w e r t o r	0.1487199306488037	tensor(0.2834)	-2	0.28341415524482727
+n i e b z d ę g o l e n i e	n i e b z d ę g o l e n i e	0.19584609270095826	tensor(0.3193)	-2	0.31931260228157043
+w k o p n i ę t y c h	w k o p n i ę t y c h	0.19613066911697388	tensor(0.3195)	-2	0.31949180364608765
+z a s k a n d u j ą   s i ę	z a s k a n d u j ą   s i ę	0.19720572233200073	tensor(0.3202)	-2	0.3201650381088257
+w e g n a ń	w e g n a ń	0.1930939793586731	tensor(0.3176)	-2	0.3175581693649292
+n i e p r z y w d z i ę c z a n i a m i	n i e p r z y w d z i ę c z a n i a m i	0.1942206382751465	tensor(0.3183)	-2	0.3182811141014099
+n i e r o z p y c h a j ą c y	n i e r o z p y c h a j ą c y	0.19655576944351197	tensor(0.3198)	-2	0.31975871324539185
+b ę d z i e m y   d w o i l i   s i ę	b ę d z i e m y   d w o i l i   s i ę	0.19320493936538696	tensor(0.3176)	-2	0.3176296651363373
+n i e m a ł o d z i e t n o ś c i a c h	n i e m a ł o d z i e t n o ś c i a c h	0.19583600759506226	tensor(0.3193)	-2	0.31930622458457947
+t o n i k a	t o n i k a	0.19516946077346803	tensor(0.3189)	-2	0.31888484954833984
+n i e p o d w i n i ę c i e m	n i e p o d w i n i ę c i e m	0.19472088813781738	tensor(0.3186)	-2	0.31859999895095825
+m u s z k a t y	m u s z k a t y	0.19494467973709106	tensor(0.3187)	-2	0.3187422454357147
+w y c h r z a n i a m   s i ę	w y c h r z a n i a m   s i ę	0.1901237726211548	tensor(0.3156)	-2	0.31562066078186035
+r e e s k o n t u j ą c e   s i ę	r e e s k o n t u j ą c e   s i ę	0.19509787559509278	tensor(0.3188)	-2	0.3188394606113434
+n i e o d s t ą p i o n e	n i e o d s t ą p i o n e	0.1952373743057251	tensor(0.3189)	-2	0.3189278841018677
+p i j a n i u t e ń k o ś c i a c h	p i j a n i u t e ń k o ś c i a c h	0.19604711532592772	tensor(0.3194)	-2	0.31943920254707336
+b ę d z i e c i e   p o r ó ż n i a ł y	b ę d z i e c i e   p o r ó ż n i a ł y	0.19598397016525268	tensor(0.3194)	-2	0.31939947605133057
+o g l i n i o n o ś c i a c h	o g l i n i o n o ś c i a c h	0.19590994119644164	tensor(0.3194)	-2	0.3193528652191162
+n i e d y k t u j ą c e g o	n i e d y k t u j ą c e g o	0.1962827205657959	tensor(0.3196)	-2	0.3195873498916626
+n i e a n t y f e m i n i s t y c z n o ś c i	n i e a n t y f e m i n i s t y c z n o ś c i	0.19546613693237305	tensor(0.3191)	-2	0.3190726935863495
+n i e w y o b r o c z e n i o m	n i e w y o b r o c z e n i o m	0.19401979446411133	tensor(0.3182)	-2	0.31815269589424133
+n i e ł o b u z o w a t e m u	n i e ł o b u z o w a t e m u	0.19730216264724731	tensor(0.3202)	-2	0.3202251195907593
+a s y n c h r o n i	a s y n c h r o n i i	0.18857582807540893	tensor(0.3146)	-1	0.3145925998687744
+n i e p r z e g r a d z a j ą c y   s i ę	n i e p r z e g r a d z a j ą c y   s i ę	0.19508531093597412	tensor(0.3188)	-2	0.31883150339126587
+c i o s a j ą c e m u	c i o s a j ą c e m u	0.19564939737319947	tensor(0.3192)	-2	0.31918850541114807
+s c h ł o n i ę c i a   s i ę	s c h ł o n i ę c i a   s i ę	0.19625731706619262	tensor(0.3196)	-2	0.3195714056491852
+w y s t o s o w y w a n y	w y s t o s o w y w a n y	0.19675354957580565	tensor(0.3199)	-2	0.3198825716972351
+w y i n a c z y l i ś c i e   s i ę	w y i n a c z y l i ś c i e   s i ę	0.19413541555404662	tensor(0.3182)	-2	0.3182266354560852
+n i e r o z g a ł ę z i e n i o w ą	n i e r o z g a ł ę z i e n i o w ą	0.1963087797164917	tensor(0.3196)	-2	0.31960374116897583
+n i e p r z y l e w a j ą c y c h	n i e p r z y l e w a j ą c y c h	0.1947686791419983	tensor(0.3186)	-2	0.3186303973197937
+n i e n a d s a d z o n ą	n i e n a d s a d z o n ą	0.16548192501068115	tensor(0.2977)	-2	0.29768434166908264
+n i e w y s t r y c h n i ę t e	n i e w y s t r y c h n i ę t e	0.19436864852905272	tensor(0.3184)	-2	0.3183755874633789
+n i e ś c i g n i ę c i o m	n i e ś c i g n i ę c i o m	0.19483721256256104	tensor(0.3187)	-2	0.3186739683151245
+l ę k n i ę c i u   s i ę	l ę k n i ę c i u   s i ę	0.18949533700942994	tensor(0.3152)	-2	0.31520482897758484
+w y p s n ę ł o b y m   s i ę	w y p s n ę ł o b y m   s i ę	0.19645606279373168	tensor(0.3197)	-2	0.31969618797302246
+d o d r z e w i e n i a c h   s i ę	d o d r z e w i e n i a c h   s i ę	0.19529870748519898	tensor(0.3190)	-2	0.31896674633026123
+n i e w d z i ę c z n i ą c y m i   s i ę	n i e w d z i ę c z n i ą c y m i   s i ę	0.19642552137374877	tensor(0.3197)	-2	0.3196770250797272
+z a p r ó s z a ł y	z a p r ó s z a ł y	0.19661927223205566	tensor(0.3198)	-2	0.3197984993457794
+n a p ę d z a j ą c ą	n a p ę d z a j ą c ą	0.1952834129333496	tensor(0.3190)	-2	0.31895706057548523
+n i e o d t e a t r a l i z o w u j ą c a   s i ę	n i e o d t e a t r a l i z o w u j ą c a   s i ę	0.1945621371269226	tensor(0.3185)	-2	0.3184989392757416
+w y r o d z o n e	w y r o d z o n e	0.1939784288406372	tensor(0.3181)	-2	0.31812623143196106
+n i e u ś w i a t o w i o n o ś c i	n i e u ś w i a t o w i o n o ś c i	0.19540109634399414	tensor(0.3190)	-2	0.31903156638145447
+e k w i w a l e n t o r z e	e k w i w a l e n t o r z e	0.12862131595611573	tensor(0.2638)	-2	0.26378723978996277
+m a j d n i ę t y	m a j d n i ę t y	0.19562015533447266	tensor(0.3192)	-2	0.3191700279712677
+ź w i e r c i a d l a n o ś c i a m i	ź w i e r c i a d l a n o ś c i a m i	0.18751319646835327	tensor(0.3139)	-2	0.31387948989868164
+n i e p o d r d z a w i e n i a	n i e p o d r d z a w i e n i a	0.18189131021499633	tensor(0.3100)	-2	0.31000572443008423
+o d z m y s ł a w i a j ą c e	o d z m y s ł a w i a j ą c e	0.19575413465499877	tensor(0.3193)	-2	0.319254606962204
+n a l e w a j ą c y   s i ę	n a l e w a j ą c y   s i ę	0.19572588205337524	tensor(0.3192)	-2	0.31923678517341614
+b ę d z i e s z   p r z y s z n u r o w y w a ł o	b ę d z i e s z   p r z y s z n u r o w y w a ł o	0.1882752776145935	tensor(0.3144)	-2	0.31439149379730225
+c k l i w o s t k i	c k l i w o s t k i	0.19070008993148804	tensor(0.3160)	-2	0.31600022315979004
+w i z y t a c j a m i	w i z y t a c j a m i	0.196385395526886	tensor(0.3197)	-2	0.31965184211730957
+o k r ę t o w i	o k r ę t o w i	0.18826022148132324	tensor(0.3144)	-2	0.3143814206123352
+w y m ł ó c i ł y ś m y	w y m ł ó c i ł y ś m y	0.196402108669281	tensor(0.3197)	-2	0.31966233253479004
+n i e d e k o l t o w a n o ś c i a c h	n i e d e k o l t o w a n o ś c i a c h	0.1939190149307251	tensor(0.3181)	-2	0.31808820366859436
+n i e u k a t o w y w a n i e	n i e u k a t o w y w a n i e	0.19460867643356322	tensor(0.3185)	-2	0.31852856278419495
+n i e w y t r z a s n i ę t e	n i e w y t r z a ś n i ę t e	0.19173505306243896	tensor(0.3167)	-1	0.316677451133728
+p o r ó ż o w a n i e m   s i ę	p o r ó ż o w a n i e m   s i ę	0.19501546621322632	tensor(0.3188)	-2	0.31878718733787537
+p o d c h l e b i e n i	p o d c h l e b i e n i	0.19525593519210815	tensor(0.3189)	-2	0.3189396560192108
+p r z e s a d a c h	p r z e s a d a c h	0.1933318018913269	tensor(0.3177)	-2	0.31771132349967957
+a k t y w a c j a c h	a k t y w a c j a c h	0.19718196392059326	tensor(0.3202)	-2	0.320150226354599
+t o ż s a m o ś c i o w o ś c i	t o ż s a m o ś c i o w o ś c i	0.19649996757507324	tensor(0.3197)	-2	0.3197237253189087
+n i e p o w z n i e c a n i a	n i e p o w z n i e c a n i a	0.19508692026138305	tensor(0.3188)	-2	0.31883251667022705
+m i z e r a k o w i	m i z e r a k o w i	0.19232332706451416	tensor(0.3171)	-2	0.31705987453460693
+j a z g o t l i w s z e	j a z g o t l i w s z e	0.1973613142967224	tensor(0.3203)	-2	0.32026198506355286
+n i e e s t e t y c z n o ś c i	n i e e s t e t y c z n o ś c i	0.19579256772994996	tensor(0.3193)	-2	0.3192788362503052
+n i e o b t r z ę s a n e	n i e o b t r z ę s a n e	0.1958692789077759	tensor(0.3193)	-2	0.3193272054195404
+t r ó j c z y n a c h	t r ó j c z y n a c h	0.19558508396148683	tensor(0.3191)	-2	0.31914788484573364
+p r y m i t y w n i e j ą c y	p r y m i t y w n i e j ą c y	0.14804446697235107	tensor(0.2828)	-2	0.2828008532524109
+b ę d z i e s z   b u f o n o w a ł o	b ę d z i e s z   b u f o n o w a ł o	0.19196314811706544	tensor(0.3168)	-2	0.3168259561061859
+z w a r c i c a m i	z w a r c i c a m i	0.1967691659927368	tensor(0.3199)	-2	0.31989234685897827
+n i e n a p r a w i e n i e m	n i e n a p r a w i e n i e m	0.1961582660675049	tensor(0.3195)	-2	0.3195091485977173
+n i e s a m o z a g r z e w a j ą c e   s i ę	n i e s a m o z a g r z e w a j ą c e   s i ę	0.18733036518096924	tensor(0.3138)	-2	0.31375616788864136
+o s y k i w a n o	o s y k i w a n o	0.19550710916519165	tensor(0.3191)	-2	0.3190985918045044
+n i e h y d r o l i t y c z n o ś c i a c h	n i e h y d r o l i t y c z n o ś c i a c h	0.1964769721031189	tensor(0.3197)	-2	0.31970930099487305
+j a s i o n ó w e c k i	j a s i o n ó w e c k i	0.19412070512771606	tensor(0.3182)	-2	0.3182172477245331
+i l u z j o n i s t k i	i l u z j o n i s t k i	0.19368551969528197	tensor(0.3179)	-2	0.31793856620788574
+n i e k l a p o w o ś c i a c h	n i e k l a p o w o ś c i a c h	0.1968458890914917	tensor(0.3199)	-2	0.31994035840034485
+w ą t o r n i k	w ą t o r n i k	0.1966679334640503	tensor(0.3198)	-2	0.31982898712158203
+n i e p o z a j m o w a n i a c h	n i e p o z a j m o w a n i a c h	0.19479029178619384	tensor(0.3186)	-2	0.31864413619041443
+n i e w y n ę d z o n e j	n i e w y n ę d z o n e j	0.18065520524978637	tensor(0.3091)	-2	0.30913087725639343
+t r ó j k o m o r o w o ś c i a c h	t r ó j k o m o r o w o ś c i a c h	0.1955344557762146	tensor(0.3191)	-2	0.31911587715148926
+r o z c i e p l a j ą c e   s i ę	r o z c i e p l a j ą c e   s i ę	0.19265347719192505	tensor(0.3173)	-2	0.31727370619773865
+n i e p r z y n u d z a n i e m	n i e p r z y n u d z a n i e m	0.19440397024154663	tensor(0.3184)	-2	0.318398118019104
+d a l e k i e m u	d a l e k i e m u	0.18731085062026978	tensor(0.3137)	-2	0.313742995262146
+k ą d z i a ł k a	k ą d z i a ł k a	0.19154250621795654	tensor(0.3166)	-2	0.3165518641471863
+b a j o r y	b a j o r y	0.18991198539733886	tensor(0.3155)	-2	0.3154807686805725
+o m a r l i c a c h	o m a r l i c a c h	0.19320093393325805	tensor(0.3176)	-2	0.31762707233428955
+r u c h n ę ł y b y   s i ę	r u c h n ę ł y b y   s i ę	0.1941082000732422	tensor(0.3182)	-2	0.3182092607021332
+o b u w i k o w i	o b u w i k o w i	0.19246435165405273	tensor(0.3172)	-2	0.31715127825737
+b ę d z i e c i e   n a r u s z a ł y   s i ę	b ę d z i e c i e   n a r u s z a ł y   s i ę	0.19722819328308105	tensor(0.3202)	-2	0.3201790452003479
+n i e w s p ó ł d z i e l ą c y m i	n i e w s p ó ł d z i e l ą c y m i	0.19525169134140014	tensor(0.3189)	-2	0.3189369738101959

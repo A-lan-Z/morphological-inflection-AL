@@ -1,0 +1,1001 @@
+prediction	target	loss	dist	nll	entropy
+n i e s p e ł n i e n i a m i	n i e s p e ł n i e n i a m i	0.053447525948286057	0	0.35726478695869446	NA
+n i e z a p r o d u k o w a n e	n i e z a p r o d u k o w a n e	0.06094720959663391	0	0.11957103759050369	NA
+r o z s ę p i a j ą c e j   s i ę	r o z s ę p i a j ą c e j   s i ę	0.054120879620313644	0	0.24988968670368195	NA
+i n s t r u m e n t a l i z o w a ł y	i n s t r u m e n t a l i z o w a ł y	0.05744636803865433	0	0.09326379746198654	NA
+r o z k o s z o w a ł o m   s i ę	r o z k o s z o w a ł o m   s i ę	0.063353531062603	0	0.13471341133117676	NA
+n i e k l a s y f i k a t o r s k i	n i e k l a s y f i k a t o r s k i e	0.36122655868530273	1	0.13096177577972412	NA
+p o d ł u ż a j ą c y m   s i ę	p o d ł u ż a j ą c y m   s i ę	0.05628153309226036	0	0.2147950530052185	NA
+o d r y p a n i u	o d r y p a n i u	0.05543062835931778	0	0.22861361503601074	NA
+n i e k o n c e p t y s t y c z n o ś ć	n i e k o n c e p t y s t y c z n o ś c i	0.25400540232658386	2	0.08809436857700348	NA
+d z i u b a s z a m i	d z i u b a s a m i	0.21846550703048706	1	0.8060610890388489	NA
+n i e o ł o w i o w a n i u	n i e o ł o w i o w a n i u	0.05820894241333008	0	0.13679534196853638	NA
+d o n g a ż o w a l i ś m y   s i ę	d o a n g a ż o w a l i ś m y   s i ę	0.21542856097221375	1	0.11750724166631699	NA
+b ę d z i e   z a d a t k o w a ć   s i ę	b ę d z i e   z a d a t k o w a ł a   s i ę	0.2095254361629486	2	0.14394837617874146	NA
+n a m i ę k n i ę t y	n a m i ę k n i ę t y	0.0626654252409935	0	0.16750271618366241	NA
+u p ę d z i l i b y ś c i e   s i ę	u p ę d z i l i b y ś c i e   s i ę	0.05504286289215088	0	0.1853688657283783	NA
+n i e r a u t u j ą c y c h	n i e r a u t u j ą c y c h	0.056043848395347595	0	0.8756715059280396	NA
+f o r t r a g o w a n e	f o r t r a g o w a n e	0.05750516429543495	0	0.1556328684091568	NA
+p r z y r a b i a ł o b y ś   s i ę	p r z y r a b i a ł o b y ś   s i ę	0.055531613528728485	0	0.13896790146827698	NA
+n i e u p o l e r o w y w a n e j	n i e u p o l e r o w y w a n e j	0.05795907974243164	0	0.11337366700172424	NA
+n i e s e m a n t y c z n o ś c i ą	n i e s e m a n t y c z n o ś c i ą	0.0566566102206707	0	0.41127368807792664	NA
+n i e m a g a n i a	n i e m a g a ń	0.37608203291893005	3	0.497059166431427	NA
+n i e r o z k i e ł z n u j ą c e g o	n i e r o z k i e ł z n u j ą c e g o	0.06355731934309006	0	0.11353590339422226	NA
+n i e d z i e w i ę c i o k t n a	n i e d z i e w i ę c i o k ą t n a	0.2734487056732178	1	0.15784911811351776	NA
+n i e o d g r o m i e n i u   s i ę	n i e o d g r o m i e n i u   s i ę	0.0570727214217186	0	0.14587897062301636	NA
+n i e e w a n g e l i z u j ą c y m i	n i e e w a n g e l i z u j ą c y m i	0.06127722188830376	0	0.3046753406524658	NA
+d o r a c h u j	d o r a c h u j	0.052432432770729065	0	0.20175355672836304	NA
+n u k l e o f i l o w e j	n u k l e o f i l o w e j	0.05594448372721672	0	0.16142992675304413	NA
+p r z e o r g a n i z o w a ł y b y ś c i e	p r z e o r g a n i z o w a ł y b y ś c i e	0.055740904062986374	0	0.14342057704925537	NA
+s p i e n i ę ż o n e g o	s p i e n i ę ż o n e g o	0.05233096331357956	0	0.1456165313720703	NA
+o ś c i	<UNK> <UNK> <UNK> <UNK>	3.871316909790039	4	1.2632352113723755	NA
+l o d o w a c i e n i u	l o d o w a c e n i u	0.5721233487129211	1	0.16552288830280304	NA
+o b t a ń c o w y w a n y m i	o b t a ń c o w y w a n y m i	0.05598481744527817	0	0.3627183735370636	NA
+o d w ł ó c z y l i b y ś m y   s i ę	o d w ł ó c z y l i b y ś m y   s i ę	0.06295787543058395	0	0.11373166739940643	NA
+b ę d z i e   z a w y ż a ć	b ę d ą   z a w y ż a ł y	0.8888718485832214	5	0.1647433489561081	NA
+m c h o w a	m c h o w a	0.054658833891153336	0	0.3138410747051239	NA
+p i t o l o n e	p i t o l o n e	0.05546759068965912	0	0.21928218007087708	NA
+p ó ł p i e n n y m i	p ó ł p i e n n y m i	0.055491868406534195	0	1.0564020872116089	NA
+s m a ż y ł a b y	s m a ż y ł a b y	0.0858047753572464	0	0.21203792095184326	NA
+n i e n a d r o ż n e	n i e n a d r o ż n e	0.061542052775621414	0	0.1849471926689148	NA
+n i e u r a l s k i e	n i e u r a l s k i e	0.06018810346722603	0	0.2177143692970276	NA
+s m o k n i ę c i a c h	s m o k n i ę c i a c h	0.049969177693128586	0	0.6567679047584534	NA
+p o d w i j a n y m	p o d w i j a n y m	0.05353805795311928	0	0.21361476182937622	NA
+e g z e k w o w a n y m	e g z e k w o w a n y m	0.05981412157416344	0	0.23917335271835327	NA
+o r b i t o l i n a	o r b i t o l i n	0.7004790902137756	1	0.17926105856895447	NA
+b ę d ę   p r z y d ł u ż a ł e m   s i ę	b ę d ę   p r z y d ł u ż a ł   s i ę	0.3486880958080292	2	0.12503738701343536	NA
+u d u m a ł y   s i ę	u d u m a ł y   s i ę	0.057056356221437454	0	0.4129229784011841	NA
+p r z e c i w g o r ą c z k o w y m	p r z e c i w g o r ą c z k o w y m	0.0597098171710968	0	0.11061575263738632	NA
+p i e r d y k n i ę ł y	p i e r d y k n ę ł y	0.3683115541934967	1	0.20807211101055145	NA
+o b s o b a c z y ł y b y ś m y   s i ę	o b s o b a c z y ł y b y ś m y   s i ę	0.053622037172317505	0	0.09184864163398743	NA
+n i e p r z e s t a j ą c y m i   s i ę	n i e p r z e s t a j ą c y m i   s i ę	0.061871517449617386	0	0.13421925902366638	NA
+n i e p r z e h u l t a j ą c e	n i e p r z e h u l t a j a j ą c e	0.38122767210006714	2	0.1125505119562149	NA
+z a w i s z c z o n e	z a w i s z c z o n e	0.14300750195980072	0	0.2616167366504669	NA
+o d m i s t y c z n i ł y ś m y   s i ę	o d m i s t y c z n i ł y ś m y   s i ę	0.05836253985762596	0	0.0959220826625824	NA
+s ł o j o w a t o ś c i	s ł o j o w a t o ś c i	0.05358687788248062	0	0.15107391774654388	NA
+p o d w e s e l i ł a b y ś   s i ę	p o d w e s e l i ł a b y ś   s i ę	0.06878530234098434	0	0.17505383491516113	NA
+p r o m i e ń s k i e m u	p r o m i e ń s k i m	0.5788076519966125	2	0.1435377150774002	NA
+n i e r o z t a ń c o w a n a	n i e r o z t a ń c o w a n a	0.05876770615577698	0	0.13246242702007294	NA
+w y s t r u g i w a n e g o	w y s t r u g i w a n e g o	0.054869599640369415	0	0.1375984400510788	NA
+m a g n e t o w i d o w y c h	m a g n e t o w i d o w y c h	0.05509273707866669	0	0.5953813195228577	NA
+n i e z a s t a n a w i a n a	n i e z a s t a n a w i a n a	0.05992402881383896	0	0.14340272545814514	NA
+z a c h r z ę ś c i e	z a c h r z ę ś c i a ł y b y	0.42780357599258423	5	0.22836194932460785	NA
+p o n a s i e w a ł o b y ś   s i ę	p o n a s i e w a ł o b y ś   s i ę	0.05639376863837242	0	0.1249241977930069	NA
+z a o n e g d a j s z o ś c i	z a o n e g d a j s z o ś c i	0.055277176201343536	0	0.12559358775615692	NA
+z a s m ę c i e   s i ę	z a s m ę c a j c i e   s i ę	0.23680898547172546	3	0.23469367623329163	NA
+c e d z i d ł o w y c h	c e d z i d ł o w y c h	0.05643899738788605	0	0.48610129952430725	NA
+n i e u p r z y t a m n i a j ą c y   s i ę	n i e u p r z y t a m n i a j ą c y   s i ę	0.056463997811079025	0	0.0892576053738594	NA
+n i e d r a p a c z u j ą c e   s i ę	n i e d r a p a c z u j ą c e   s i ę	0.05753403156995773	0	0.12281626462936401	NA
+d e k o m u n i z o w a n i e m	d e k o m u n i z o w a n i e m	0.05595919489860535	0	0.1127663180232048	NA
+p a k t u j ą c y c h	p a k t u j ą c y c h	0.05306825041770935	0	0.9874492287635803	NA
+z a t r a d u j e c i e	z a t r a d u j e m y	0.2593770921230316	3	0.4925444424152374	NA
+z ł a d z a ł a m	z ł a d z a ł a m	0.08310743421316147	0	0.2386668175458908	NA
+m i ę d z y p l a n e t a r n a	m i ę d z y p l a n e t a r n a	0.05455124378204346	0	0.11812397837638855	NA
+n i e z a c i e k a j ą c y m   s i ę	n i e z a c i e k a w i a j ą c y m   s i ę	0.18624347448349	3	0.14649207890033722	NA
+o p a t r o w a n i a	o p a t r o w a ń	0.40800753235816956	3	0.23487810790538788	NA
+n i e b u r ł a c k a	n i e b u r ł a c k a	0.05613401532173157	0	0.18991054594516754	NA
+n i e p o r o z s i e w a n i a   s i ę	n i e p o r o z s i e w a n i a   s i ę	0.05877065658569336	0	0.10077252984046936	NA
+p r z o d z i k	p r z o d z i k	0.06285437941551208	0	0.22045594453811646	NA
+w y s m o ł u j ą	w y s m o ł u j e	0.6956490874290466	1	0.21803078055381775	NA
+a l p e j s k i m	a l p e j s k i m	0.05187908932566643	0	0.3183760941028595	NA
+b ę d z i e c i e   n a k r y w a ł e   s i ę	b ę d z i e s z   n a k r y w a ł   s i ę	0.5691205263137817	4	0.10667214542627335	NA
+o ł g a ł o b y   s i ę	o ł g a ł o b y   s i ę	0.055849477648735046	0	0.4323626160621643	NA
+e k s t r a p o l o w a ł y b y ś m y	e k s t r a p o l o w a ł y b y ś m y	0.05312409996986389	0	0.29292911291122437	NA
+n i e d o w a l a n y m i	n i e d o w a l a n y m i	0.05961498245596886	0	0.8966537117958069	NA
+n i e k o p r z y w n i c k i e m u	n i e k o p r z y w n i c k i m	0.4855414032936096	2	0.09917256981134415	NA
+k ł ą c z e	k ł ą c z e	0.0930907279253006	0	0.3366568684577942	NA
+d e n u d u j ą c y c h	d e n u d u j ą c y c h	0.054098326712846756	0	1.0329056978225708	NA
+z a p e r f u m o w a n i a   s i ę	z a p e r f u m o w a n i a   s i ę	0.05641543120145798	0	0.1392752081155777	NA
+n i e k a l a n d r u j ą c y m i	n i e k a l a n d r u j ą c y m i	0.06214308738708496	0	0.3414860963821411	NA
+z a g i p s o w a ł a b y ś	z a g i p s o w a ł a b y ś	0.05267893895506859	0	0.12547479569911957	NA
+n i e w i n t o w e	n i e w i n t o w e	0.060534682124853134	0	0.19827955961227417	NA
+z d u ż a j ą c y m	z d u ż a j ą c y m	0.051612868905067444	0	0.2155432254076004	NA
+t r a j l o w a n i a	t r a j l o w a ń	0.2969781160354614	3	0.20907831192016602	NA
+n i e p o k r z y w d z e n i a c h	n i e p o k r z y w d z e n i a c h	0.07236604392528534	0	0.6008530855178833	NA
+d o m i e s z c o n a	d o m i e s z c z o n a	0.20846869051456451	1	0.20093582570552826	NA
+n i e w y ł u p a n i e   s i ę	n i e w y ł u p a n i e   s i ę	0.057944156229496	0	0.295976459980011	NA
+f a b r y k a n c k i e	f a b r y k a n c k i e	0.10950107127428055	0	0.22524069249629974	NA
+k a r t e c z k o w o ś c i a c h	k a r t e c z k o w o ś c i a c h	0.055201925337314606	0	0.6835221648216248	NA
+d o s c h n ę ł y	d o s c h ł y	0.7728251218795776	2	0.2516638934612274	NA
+n i e z a t r o s k a n e g o	n i e z a t r o s k a n e g o	0.05881064385175705	0	0.130980983376503	NA
+z a w i a s t o w a ć   s i ę	z a z w i a s t o w a ć   s i ę	0.39316239953041077	1	0.33273792266845703	NA
+b e z m i a n o m	b e z m i a n o m	0.05308214947581291	0	0.23066051304340363	NA
+w y t r z y m a ł o ś c i o w e j	w y t r z y m a ł o ś c i o w e j	0.05798133835196495	0	0.11869410425424576	NA
+n i e o b ł a m a n y c h	n i e o b ł a m a n y c h	0.05626211687922478	0	0.4895542562007904	NA
+w y o j c z y ź n i ł a b y m	w y o j c z y ź n i ł a b y m	0.055077385157346725	0	0.12039291113615036	NA
+z b u d z i ł y   s i ę	z b u d z i ł y   s i ę	0.05352121219038963	0	0.3783318102359772	NA
+p y k n ę j e c i e	p y k n i e c i e	1.4413111209869385	2	0.9872767925262451	NA
+p o t u r c z y ł a b y m	p o t u r c z y ł a b y m	0.054141439497470856	0	0.13844987750053406	NA
+s t a t y k a c h	s t a t y k a c h	0.05179612711071968	0	0.7477688789367676	NA
+a s t r a l n o ś c i	a s t r a l n o ś c i	0.06287571787834167	0	0.16994602978229523	NA
+n i e o d k a s z l a n i a	n i e o d k a s z l a n i a	0.060140062123537064	0	0.14673785865306854	NA
+s y n e k u r z y s t a	s y n e k u r z y ś c i e	0.8606723546981812	4	0.1543893963098526	NA
+z b u r n i e	b z d u r n i e	0.5015242099761963	2	0.29494649171829224	NA
+o w i a n s i ę ć   s i ę	o w i a ć   s i ę	0.1868443340063095	4	0.48436111211776733	NA
+b ą b e l i	b ą b e l	1.1644171476364136	1	0.36057302355766296	NA
+n i e b a d y l k o w a t o ś c i	n i e b a d y l k o w a t o ś c i	0.057920191437006	0	0.10971734672784805	NA
+d o p o m a g a ł y	d o p o m a g a ł y	0.05277072265744209	0	0.2008325606584549	NA
+n i e j a r z o n e	n i e j a r z o n e	0.060089945793151855	0	0.19004525244235992	NA
+p r z y k o w a ł y b y	p r z y k o w a ł y b y	0.05682312697172165	0	0.17329087853431702	NA
+n i e p r z y p a d ł o ś c i o w e j	n i e p r z y p a d ł o ś c i o w e j	0.06110141798853874	0	0.10256214439868927	NA
+p r ą ż k u j ą c y c h	p r ą ż k u j ą c y c h	0.052075617015361786	0	1.4040741920471191	NA
+a z a r d o w a n i a	a z a r d o w a n i a	0.0589725486934185	0	0.19281309843063354	NA
+n i e p o d k r y ś l a n e	n i e p o d k r y ś l a n e	0.06043839827179909	0	0.13305632770061493	NA
+n i e s z c z u d ł o w a t o ś c i	n i e s z c z u d ł o w a t o ś c i	0.0609874352812767	0	0.10617538541555405	NA
+p r z e s t ę k a ł e m	p r z e s t ę k a ł e m	0.055542267858982086	0	0.17117370665073395	NA
+n i e z a k ł ó c a j ą c y	n i e z a k ł ó c a j ą c y	0.0549357533454895	0	0.12405433505773544	NA
+n i e w r ó b l o w y	n i e w r ó b l o w e	0.6233083605766296	1	0.17742013931274414	NA
+s z a l e j k i	s z a l e j c e	1.557012677192688	2	0.3331472873687744	NA
+n i e a d i u s t u j ą c e m u   s i ę	n i e a d i u s t u j ą c e m u   s i ę	0.05660611018538475	0	0.10063868761062622	NA
+b ę d z i e m y   p r z e f a r b o w y w a l i   s i ę	b ę d z i e m y   p r z e f a r b o w y w a l i   s i ę	0.050422076135873795	0	0.05687785521149635	NA
+z a k o m p o n o w a ć	z a k o m p o n o w a ć	0.0597524456679821	0	0.1520683914422989	NA
+d a c r o n o w a	d a c r o n o w a	0.05941696837544441	0	0.22144386172294617	NA
+o d b i t k o w ą	o d b i t k o w ą	0.05205943435430527	0	0.4932371973991394	NA
+t r z e ź w i ą c e m u   s i ę	t r z e ź w i ą c e m u   s i ę	0.05900481715798378	0	0.25402823090553284	NA
+p r z y t ł u m i ł a ś m	p r z y t ł u m i ł a m	0.14094087481498718	1	0.20369872450828552	NA
+w y s z u m i e ł y b y ś m y   s i ę	w y s z u m i a ł y b y ś m y   s i ę	0.36663389205932617	1	0.10668232291936874	NA
+d ł u g o s t o p k	d ł u g o s t o p k i	0.28669822216033936	1	0.32672858238220215	NA
+n i e r y t w i a ń s k i e	n i e r y t w i a ń s k i e	0.056361328810453415	0	0.1423598676919937	NA
+n i e m a t o w o c z e r w n o ś ć	n i e m a t o w o c z e r w o n o ś ć	0.14600870013237	1	0.12346036732196808	NA
+n i e p r z e m ą d r z a j ą c y m	n i e p r z e m ą d r z a j ą c y m	0.056473080068826675	0	0.10342340171337128	NA
+r o z t r e n u j ą c e m u   s i ę	r o z t r e n o w u j ą c e m u   s i ę	0.19087955355644226	2	0.12392706423997879	NA
+b ę d z i e c i e   u t a j a ł o	b ę d z i e s z   u t a j a ł o	0.43877431750297546	3	0.11358746886253357	NA
+p r a w n o p o l i t y c z n y c h	p r a w n o p o l i t y c z n y c h	0.05728651210665703	0	0.20389461517333984	NA
+n i e ż y t o m i e r s k i e j	n i e ż y t o m i e r s k i e j	0.05462293699383736	0	0.12997424602508545	NA
+z a w i c h r z y ł y   s i ę	z a w i c h r z y ł y   s i ę	0.05668371170759201	0	0.345232754945755	NA
+ś r ó d t u ł o w i e	ś r ó d t u ł o w i u	0.38853931427001953	1	0.15930254757404327	NA
+f l o r a n s o w y	f l o r a n s o w e	0.4497290849685669	1	0.20022989809513092	NA
+w y m i z e r n i e j e m y	w y m i z e r n i e j e m y	0.16576483845710754	0	0.6769563555717468	NA
+n i e o l i w k o w a t y c h	n i e o l i w k o w a t y c h	0.059231579303741455	0	0.24293336272239685	NA
+g a d o l i n o w y m	g a d o l i n o w y m	0.055058930069208145	0	0.22815252840518951	NA
+n i e w y s z e p t y w a n e m u	n i e w y s z e p t y w a n e m u	0.05803157389163971	0	0.11032173782587051	NA
+p l e n n y c h	p l e n n y c h	0.07954186946153641	0	0.963878333568573	NA
+z a k n u t o w a ł y ś c i e	z a k n u t o w a ł y ś c i e	0.055967651307582855	0	0.49150705337524414	NA
+p o p i e l i c o w y m	p o p i e l i c o w y m	0.05574493110179901	0	0.37640732526779175	NA
+u l a z u r o w a ł y b y	u l a z u r o w a ł y b y	0.05614151433110237	0	0.1510612964630127	NA
+b ę d ę   a c h a ć	b ę d ę   a c h a ć	0.051066718995571136	0	0.1940222829580307	NA
+n i e p o g a n i s t y c z n o ś c i	n i e p o g a n i s t y c z n o ś c i	0.05938432365655899	0	0.09917733818292618	NA
+p r z e d u k u j ą c ą   s i ę	p r z e d u k u j ą c ą   s i ę	0.05608941614627838	0	0.29880937933921814	NA
+n i e e l a s t i l o w i	n i e e l a s t i l o w i	0.057599373161792755	0	0.16090384125709534	NA
+p r z e s z u f l o w y w a ł y b y   s i ę	p r z e s z u f l o w y w a ł y b y   s i ę	0.057681042701005936	0	0.0915074571967125	NA
+p r z e w ł a s z c z a n i e   s i ę	p r z e w ł a s z c z a n i e   s i ę	0.05845760181546211	0	0.12139477580785751	NA
+p o u c z y ł y b y ś c i e   s i ę	p o u c z y ł y b y ś c i e   s i ę	0.05462399870157242	0	0.12811775505542755	NA
+p r z y w o d z i ł a m	p r z y w o d z i ł a m	0.07514667510986328	0	0.18744932115077972	NA
+n i e f a s a d o w y	n i e f a s a d o w y	0.05769478157162666	0	0.17114757001399994	NA
+n i e ł o t r u j ą c e   s i ę	n i e ł o t r u j ą c e   s i ę	0.05780414864420891	0	0.31697750091552734	NA
+n i e n o ż o w n i c z y m i	n i e n o ż o w n i c z y m i	0.05911242589354515	0	0.4977983236312866	NA
+n i e s p r o l o n g o w a n i e m	n i e s p r o l o n g o w a n i e m	0.05891185626387596	0	0.09608104825019836	NA
+w y p y t u j ą c e j	w y p y t u j ą c e j	0.05149373412132263	0	0.1645757406949997	NA
+o s ł u c h a ł a b y m	o s ł u c h a ł a b y m	0.05179730802774429	0	0.15009889006614685	NA
+z a g ł ę b i a l i b y ś c i e   s i ę	z a g ł ę b i a l i b y ś c i e   s i ę	0.053869109600782394	0	0.11031085252761841	NA
+n i e s u b s a h a r y j s k i m i	n i e s u b s a h a r y j s k i m i	0.056297119706869125	0	0.1935518980026245	NA
+m ł o d z i e ż o w e	m ł o d z i e ż o w e	0.05572526529431343	0	0.186528280377388	NA
+p o d p i e r d o l i ł o b y m	p o d p i e r d o l i ł o b y m	0.06321825832128525	0	0.12068648636341095	NA
+n i e z d r o w i ą c e m u   s i ę	n i e z d r o w i ą c e m u   s i ę	0.06492237001657486	0	0.15261180698871613	NA
+n i e n o t y f i k a c y j n e	n i e n o t y f i k a c y j n e	0.05629968270659447	0	0.12310461699962616	NA
+w s p ó ł p r z e ż o n e	w s p ó ł p r z e ż y t e	0.6564287543296814	2	0.169677272439003	NA
+b ę d z i e   r y s o w a ć   s i ę	b ę d ą   r y s o w a ł y   s i ę	0.6975063681602478	5	0.18897706270217896	NA
+r o g a t e k a c h	r o g a t k a c h	0.5987239480018616	1	0.9769951105117798	NA
+k o s t r z e w i o n ą	k o s t r z e w i o n ą	0.054067712277173996	0	0.3575170338153839	NA
+n i e d y s t y l u j ą c y m	n i e d y s t y l u j ą c y m	0.05503445118665695	0	0.10688263922929764	NA
+n i e p o j r z e n i a	n i e p o j r z e n i a	0.056656379252672195	0	0.16424661874771118	NA
+w y w i a d u j ą c y c h   s i ę	w y w i a d u j ą c y c h   s i ę	0.05526163801550865	0	0.1920991688966751	NA
+n i e t w a r d o p o d n i e b n o ś c i	n i e t w a r d o p o d n i e b i e n n o ś c i	0.9920933246612549	3	0.10276564955711365	NA
+t w a r z ą	t w a r z ą	0.058721862733364105	0	0.6113347411155701	NA
+o d k a p s l o w y w a ł y ś m y	o d k a p s l o w y w a ł y ś m y	0.05464539676904678	0	0.4046206474304199	NA
+w y k o n a ł y b y ś c i e	w y k o n a ł y b y ś c i e	0.05353514850139618	0	0.42602574825286865	NA
+n i e n a g a r b o w a n i a c h	n i e n a g a r b o w a n i a c h	0.057579174637794495	0	0.6008928418159485	NA
+n i e d e m e n t u j ą c y c h	n i e d e m e n t u j ą c y c h	0.05542561411857605	0	0.5442997217178345	NA
+z a c h y l i ł y ś c i e	z a c h y l i ł y ś c i e	0.07815056294202805	0	0.5445701479911804	NA
+n i e w y s t r z y g a j ą c y m i	n i e w y s t r z y g a j ą c y m i	0.057847682386636734	0	0.3493853211402893	NA
+n a r o ż o w a l i ś m y	n a r ó ż o w a l i ś m y	0.17291249334812164	1	0.6599510908126831	NA
+o d s z n u r o w a n y m	o d s z n u r o w a n y m	0.06113063544034958	0	0.23266169428825378	NA
+a p a t y c z n i e j ą c e j	a p a t y c z n i e j ą c e j	0.056727126240730286	0	0.1275518238544464	NA
+p o w y w a b i a j m y	p o w y w a b i a m y	0.4955081641674042	1	0.5564870834350586	NA
+m a k a r o n o w y	m a k a r o n o w e	0.49203240871429443	1	0.20808838307857513	NA
+n i e s t w a r z a j ą c e	n i e s t w a r z a j ą c e	0.058077555149793625	0	0.13595949113368988	NA
+b ę d z i e   p o k r o p y w a ć   s i ę	b ę d ą   p o k r o p y w a ł y   s i ę	0.5252521634101868	5	0.19031915068626404	NA
+p i s n ę t e j	p i ś n i ę t e j	0.6452509164810181	2	0.31003978848457336	NA
+f a ł s z o w a n e	f a ł s z o w a n e	0.05749604478478432	0	0.18767371773719788	NA
+z m a m l a n i e m   s i ę	z m a m l a n i e m   s i ę	0.05546445772051811	0	0.2870437502861023	NA
+n a d k ł a d a j ą c e	n a d k ł a d a j ą c e	0.05689139664173126	0	0.16652025282382965	NA
+n i e r o z m u l e n i e m   s i ę	n i e r o z m u l e n i e m   s i ę	0.05805650353431702	0	0.20291295647621155	NA
+r e p u b l i k a n k a	r e p u b l i k a n c e	0.2475074678659439	2	0.2035873830318451	NA
+n i e w a r o w o ś ć	n i e w a r o w o ś c i	0.7381147146224976	2	0.185303196310997	NA
+g a n i a j ą c e   s i ę	g a n i a j ą c e   s i ę	0.05518646165728569	0	0.2392495721578598	NA
+n i e p o g a r b i e n i a m i	n i e p o g a r b i e n i a m i	0.05402261018753052	0	0.30538254976272583	NA
+p o z d r a w i a ł b y ś   s i ę	p o z d r a w i a ł b y ś   s i ę	0.05491706356406212	0	0.16098752617835999	NA
+w y k o m e n t o w y w a n i a   s i ę	w y k o m e n t o w y w a n i a   s i ę	0.05681103840470314	0	0.09917445480823517	NA
+t r e j b h a u s o w i	t r e j b h a u s o w i	0.13983474671840668	0	0.23738941550254822	NA
+z a k l e p y w a j ą c e	n i e z a k l e p u j ą c e	0.4119735062122345	6	0.20825068652629852	NA
+n a ł a p a ł a b y m	n a ł a p a ł a b y m	0.0551547072827816	0	0.17375493049621582	NA
+p o z a w o z i ł y ś c i e	p o z a w o z i ł y ś c i e	0.05582070350646973	0	0.4626218378543854	NA
+n a h a ł a s o w a ł o	n a h a ł a s o w a ł o	0.05619179829955101	0	0.14346946775913239	NA
+n i t k o w a n y m	n i t k o w a n y m	0.06219985708594322	0	0.31451594829559326	NA
+n i e f a s o n u j ą c y m	n i e f a s o n u j ą c y m	0.053519368171691895	0	0.11344262957572937	NA
+n i e z a w ę ź l a j ą c e m u   s i ę	n i e z a w ę ź l a j ą c e m u   s i ę	0.05511601269245148	0	0.10671137273311615	NA
+d y p l o m a t y z o w u j ą c e	d y p l o m a t y z u j ą c e	0.23968267440795898	2	0.11886744946241379	NA
+n i e u d e r z e n i o w o ś c i a m i	n i e u d e r z e n i o w o ś c i a m i	0.05675361305475235	0	0.34349197149276733	NA
+n a d k ą s y w a ł y b y ś m y   s i ę	n a d k ą s y w a ł y b y ś m y   s i ę	0.05723736435174942	0	0.09696424752473831	NA
+r o g o ż o w e m u	r o g o ż o w y m	0.7105503678321838	2	0.19267520308494568	NA
+w y ś w i e c a ł y	w y ś w i e c a ł y	0.05211494117975235	0	0.19864444434642792	NA
+m o d l i g r o s z e k y	m o d l i g r o s z k i	0.8440431356430054	2	0.17212818562984467	NA
+n i e t a ń c o w y w a n y m i	n i e t a ń c o w y w a n y m i	0.05755003169178963	0	0.33447912335395813	NA
+r o z k u j ą c e m u	r o z k u w a j ą c e m u	0.4750730097293854	2	0.1712450236082077	NA
+n i e t a r c z o w a t o ś c i a c h	n i e t a r c z o w a t o ś c i a c h	0.05869869142770767	0	0.5098695158958435	NA
+p ł c i o p ę d	p ł c i o p ę d	0.05663885548710823	0	0.21650558710098267	NA
+n i e o r k i e s t r o w u j ą c y	n i e o r k i e s t r u j ą c y	0.13796471059322357	2	0.1636815220117569	NA
+e w a n g e l i z o w a n y m i	e w a n g e l i z o w a n y m i	0.05867923051118851	0	0.345607727766037	NA
+b ę d z i e m y   w y k a l i g r a f o w y w a l i   s i ę	b ę d z i e m y   w y k a l i g r a f o w y w a l i   s i ę	0.08208951354026794	0	0.08208798617124557	NA
+z a ś n i a d ł o ś c i	z a ś n i a d ł o ś c i	0.05413990840315819	0	0.15216538310050964	NA
+u s y s t e m i z o w a ł a b y m	u s y s t e m i z o w a ł a b y m	0.05267190933227539	0	0.10035720467567444	NA
+n i e w y c z o ł g u j ą c e   s i ę	n i e w y c z o ł g u j ą c e   s i ę	0.056605756282806396	0	0.1085910052061081	NA
+p r z e s ł u ż y ł y b y ś c i e	p r z e s ł u ż y ł y b y ś c i e	0.05231096222996712	0	0.30868300795555115	NA
+n i e n a w y g r y z a n i a	n i e n a w y g r y z a n i a	0.05974459648132324	0	0.12208549678325653	NA
+w y p e r u k o w a l i ś c i e   s i ę	w y p e r u k o w a l i ś c i e   s i ę	0.0544167198240757	0	0.09307774901390076	NA
+n i e p r z e g r z e b y w a n i u	n i e p r z e g r z e b y w a n i u	0.05587618052959442	0	0.09215167909860611	NA
+n i e m o t y c z ą c y m i	n i e m o t y c z ą c y m i	0.05880584940314293	0	0.4587366282939911	NA
+w y s z u k i w a n i e   s i ę	w y s z u k i w a n i e   s i ę	0.05795314162969589	0	0.3044935166835785	NA
+z a c h y b o t a ł y b y ś c i e   s i ę	z a c h y b o t a ł y b y ś c i e   s i ę	0.055327728390693665	0	0.09854116290807724	NA
+n i e d o p r e c y z o w y w a n a	n i e d o p r e c y z o w y w a n a	0.05716246739029884	0	0.10574289411306381	NA
+p o k u t n i c z ą	p o k u t n i c z ą	0.053773101419210434	0	0.22418765723705292	NA
+w p l u s n ą ł a b y	w p l u s n ę ł a b y	0.5229111313819885	1	0.14922915399074554	NA
+p o d m u c h o w e	p o d m u c h o w e	0.05957292392849922	0	0.20158767700195312	NA
+b ę d z i e c i e   k l u ć   s i ę	b ę d z i e c i e   k l u ł y   s i ę	0.23244133591651917	2	0.15858842432498932	NA
+a n a p e s t y c z n y m i	a n a p e s t y c z n y m i	0.05723976343870163	0	0.5713477730751038	NA
+b u l w e r s o w a n i e	b u l w e r s o w a n i e	0.057515647262334824	0	0.1409265697002411	NA
+n i e t a j l a n d z k i m	n i e t a j l a n d z k i m	0.05775143578648567	0	0.41351214051246643	NA
+c z u ł o ś c i o w y m	c z u ł o ś c i o w y m	0.053566064685583115	0	0.19098098576068878	NA
+o g r y w a n y m	o g r y w a n y m	0.05768972635269165	0	0.2956531345844269	NA
+d r z y z d a l i	d r z y z d a l i	0.054994236677885056	0	0.2370053082704544	NA
+e t y n y	e t y n y	0.05493074283003807	0	0.41551971435546875	NA
+o d i z o l o w a n i o m   s i ę	o d i z o l o w a n i o m   s i ę	0.05835746228694916	0	0.17733556032180786	NA
+r o z m o d l o n e	r o z m o d l o n e	0.05621322616934776	0	0.1855887770652771	NA
+n i e s m a k o w y	n i e s m a k o w y	0.05788957700133324	0	0.18081353604793549	NA
+n e g l i ż o w a ł b y   s i ę	n e g l i ż o w a ł b y   s i ę	0.05748971179127693	0	0.2332838922739029	NA
+n i e u p i ł o w a n i a   s i ę	n i e u p i ł o w a ń   s i ę	0.15586629509925842	3	0.16843488812446594	NA
+n i e r z e k n i ę t y c h	n i e r z e k n i ę t y c h	0.06268350780010223	0	0.5742083787918091	NA
+z b a z g r a ł y b y	z b a z g r a ł y b y	0.05333607271313667	0	0.17999626696109772	NA
+r o z m a r n i o n y m	r o z m a r n i o n y m	0.055873770266771317	0	0.14368250966072083	NA
+n i e n a d s t a w i a j ą c y   s i ę	n i e n a d s t a w i a j ą c y   s i ę	0.09258811175823212	0	0.15409551560878754	NA
+p o ż o ł k n ą ł a	p o ż ó ł k ł a	1.0773684978485107	3	0.21596001088619232	NA
+o c z y t u j ą c y c h   s i ę	o c z y t u j ą c y c h   s i ę	0.05443614348769188	0	0.35856279730796814	NA
+n i e p o s z u k i w a c z y c z e	n i e p o s z u k i w a w c z e	0.4213560223579407	3	0.11200378835201263	NA
+k o s t r o m s k i m	k o s t r o m s k i m	0.05679643154144287	0	0.7644428610801697	NA
+n i e u n i f o r m o w i	n i e u n i f o r m o w i	0.05766666680574417	0	0.1551007777452469	NA
+w y s o k o l o t n y c h	w y s o k o l o t n y c h	0.05605434253811836	0	0.6907255053520203	NA
+o b w l e k a j ą c e   s i ę	o b w l e k a j ą c e   s i ę	0.05715961009263992	0	0.2289726436138153	NA
+o d b i u r o k r a t y z o w a ł a b y m   s i ę	o d b i u r o k r a t y z o w y w a ł a b y m   s i ę	0.22686181962490082	2	0.07821904867887497	NA
+n i e p r z e g r u p o w a n y m	n i e p r z e g r u p o w a n y m	0.058196060359478	0	0.10183818638324738	NA
+o r i e n t a l i z u j ą c e   s i ę	o r i e n t a l i z u j ą c e   s i ę	0.057646870613098145	0	0.11605088412761688	NA
+ł o m o t a l i b y ś c i e	ł o m o t a l i b y ś c i e	0.05146811157464981	0	0.4542068541049957	NA
+z a b a g l i o n e	z a b a g l i o n e	0.057699188590049744	0	0.18488524854183197	NA
+n i e h y d r o s t a t y c z n e	n i e h y d r o s t a t y c z n e	0.05685179680585861	0	0.11133769899606705	NA
+g u w e r n e r o w a ł b y ś	g u w e r n e r o w a ł b y ś	0.052907075732946396	0	0.11855792999267578	NA
+w y b a j d u r z a j ą c ą	w y b a j d u r z a j ą c ą	0.05457304045557976	0	0.2040998786687851	NA
+n i e p r z e s y ł a j ą c e j	n i e p r z e s y ł a j ą c e j	0.06320201605558395	0	0.1264445036649704	NA
+p o d c h o d z o n o	p o d c h o d z o n o	0.05957417190074921	0	0.17237292230129242	NA
+l a b o u r z y s t o w s k i c h	l a b o u r z y s t o w s k i c h	0.05535496026277542	0	0.6513553857803345	NA
+t r e ś c i w y s z y m i	t r e ś c i w s z y m i	0.2553252875804901	1	0.5918850898742676	NA
+z a m y ś l a ł o b y m   s i ę	z a m y ś l a ł o b y m   s i ę	0.05273446813225746	0	0.2574428915977478	NA
+d o s m a ż a j ą c e m u	d o s m a ż a j ą c e m u	0.05252521485090256	0	0.1438046544790268	NA
+c h r z ą s t n o ś c i	c h r z ą s t n o ś c i	0.05950196832418442	0	0.1590604931116104	NA
+p o p r z e s ł a n i a n i e	p o p r z e s ł a n i a n i e	0.05907881632447243	0	0.12028060853481293	NA
+u w z g l ę d n i e n i e   s i ę	u w z g l ę d n i e n i e   s i ę	0.0543966107070446	0	0.26173511147499084	NA
+u g a r s z a ł y   s i ę	u g a r s z a ł y   s i ę	0.056917574256658554	0	0.3143821060657501	NA
+n i e o k l ą c e   s i ę	n i e o k l ę c i e   s i ę	0.20708130300045013	2	0.3335892856121063	NA
+b ę d z i e c i e   o d w i e t r z a l i	b ę d z i e c i e   o d w i e t r z a l i	0.05054078251123428	0	0.08180498331785202	NA
+w y p e r u k o w a l i b y   s i ę	w y p e r u k o w a l i b y   s i ę	0.05601846054196358	0	0.13846826553344727	NA
+n i e a z a r d u j ą c y m   s i ę	n i e a z a r d u j ą c y m   s i ę	0.05692722275853157	0	0.18738046288490295	NA
+g a c h o s t w a	g a c h o s t w i e	0.45684269070625305	2	0.22209100425243378	NA
+n i e r e k w i r u j ą c y   s i ę	n i e r e k w i r u j ą c y   s i ę	0.05784869194030762	0	0.13205093145370483	NA
+n i e ż a ł u j ą c y   s i ę	n i e ż a ł u j ą c y   s i ę	0.05516378581523895	0	0.35756999254226685	NA
+b ę d ę   o w r z e s z c z a ł a	b ę d ę   o w r z e s z c z a ć	0.3040471076965332	2	0.09454274922609329	NA
+n i e p o b i e l e n i e	n i e p o b i e l e n i e	0.059365350753068924	0	0.14090898633003235	NA
+p o p r z y s i a d a n i a c h	p o p r z y s i a d a n i a c h	0.0643283873796463	0	0.668734073638916	NA
+n i e p r z e c z e p i a j ą c y m	n i e p r z e c z e p i a j ą c y m	0.0570264607667923	0	0.11162444204092026	NA
+b ę d z i e   o d p i e r z y ć   s i ę	o d p i e r z y   s i ę	0.561575174331665	8	0.15270709991455078	NA
+n i e s ł o j o w a t ą	n i e s ł o j o w a t ą	0.05708901584148407	0	0.19790960848331451	NA
+w e s o l u c h n i	w e s o l u c h n i	0.05566596984863281	0	0.19296026229858398	NA
+r o z s e g r e g o w a n i e   s i ę	r o z s e g r e g o w a n i e   s i ę	0.05641019344329834	0	0.11284825950860977	NA
+s z p u l o w a ł y ś m y	s z p u l o w a ł y ś m y	0.054859671741724014	0	0.6885508894920349	NA
+d o m a w i a ł a b y   s i ę	d o m a w i a ł a b y   s i ę	0.060299307107925415	0	0.3121194541454315	NA
+o s p a	o s p y	1.2623695135116577	1	0.41522103548049927	NA
+n i e p o z d e j m o w a n i e m   s i ę	n i e p o z d e j m o w a n i e m   s i ę	0.05675728619098663	0	0.10533846169710159	NA
+z a d ł u ż a n i a c h   s i ę	z a d ł u ż a n i a c h   s i ę	0.0546455942094326	0	0.24953699111938477	NA
+d z i e d z i c z e n i u	d z i e d z i c z e n i u	0.06272424757480621	0	0.14098307490348816	NA
+n i e p r z e c i s k a j ą c y m   s i ę	n i e p r z e c i s k a j ą c y m   s i ę	0.060052428394556046	0	0.10876888781785965	NA
+o p a s k u d z a m y   s i ę	o p a s k u d z a c i e   s i ę	0.2203492969274521	3	0.24926526844501495	NA
+h a ł a c h u j ą c ą	h a ł ł a c h u j ą c ą	0.5248004794120789	1	0.4982585608959198	NA
+b ę d ę   p o s y k i w a ł e m	b ę d ę   p o s y k i w a ł	0.4932362735271454	2	0.15983885526657104	NA
+b ę d z i e   p o d t a c z a ć   s i ę	b ę d z i e   p o d t a c z a ć   s i ę	0.05991141498088837	0	0.143362358212471	NA
+n i e t a b l o i d y z u j ą c y	n i e t a b l o i d y z u j ą c y	0.06281709671020508	0	0.10876596719026566	NA
+n i e p o r o s n i ę t e	n i e p o r o ś n i ę t e	0.4352076053619385	1	0.14677366614341736	NA
+n i e u s a m o d z i e l n i o n e g o	n i e u s a m o d z i e l n i o n e g o	0.055757567286491394	0	0.09006735682487488	NA
+n i e i n t u i c y j n o ś ć	n i e i n t u i c y j n o ś c i	0.5355185866355896	2	0.1307014375925064	NA
+z a ś l i n i o n e	z a ś l i n i o n e	0.054158102720975876	0	0.18486987054347992	NA
+b e z n o ż n y c h	b e z n o ż n y c h	0.05506299436092377	0	0.6232423186302185	NA
+f a l a n g o w o ś c i	f a l a n g o w o ś c i	0.056492313742637634	0	0.14843246340751648	NA
+p a r a m a n t e l k ę	p a r a m a n t e l k ę	0.10210104286670685	0	0.21263115108013153	NA
+k a d z i d l a ń s k o ś c i ą	k a d z i d l a ń s k o ś c i ą	0.05398048833012581	0	0.2930326461791992	NA
+p r z e c i w d e s z c z o w a	p r z e c i w d e s z c z o w a	0.05612744390964508	0	0.1199919581413269	NA
+n i e t l e j ą c e g o   s i ę	n i e t l e j ą c e g o   s i ę	0.09068914502859116	0	0.3347069323062897	NA
+n i e b e n e f a k t o r s k o ś c i ą	n i e b e n e f a k t o r s k o ś c i ą	0.05546165257692337	0	0.3245749771595001	NA
+z a s o b n e	z a s o b n e	0.06000188738107681	0	0.30613017082214355	NA
+n i e z a d z i o r n o ś c i a m i	n i e z a d z i o r n o ś c i a m i	0.058058012276887894	0	0.4000512957572937	NA
+n i e p o w i j a j ą c y c h   s i ę	n i e p o w i j a j ą c y c h   s i ę	0.057173799723386765	0	0.13382288813591003	NA
+o b t r o p i a l i ś m y	o b t r o p i a l i ś m y	0.05149001255631447	0	0.6220000982284546	NA
+n i e d y f a m o w a n i e m	n i e d y f a m o w a n i e m	0.05564616620540619	0	0.11311006546020508	NA
+n i e c h l a p a j ą c y m	n i e c h l a p i ą c y m	0.8417195081710815	2	0.16106060147285461	NA
+r e w i z j o n i s t y c z n o ś c i	r e w i z j o n i s t y c z n o ś c i	0.055821776390075684	0	0.09488165378570557	NA
+b ę d ę   w y w o z i ł e m	b ę d ę   w y w o z i ł	0.5553585290908813	2	0.23222357034683228	NA
+j e m e ń s k a	j e m e ń s k a	0.0592561699450016	0	0.25181689858436584	NA
+z a o b l a ł o b y   s i ę	z a o b l a ł o b y   s i ę	0.056872062385082245	0	0.3096174895763397	NA
+n i e z a d e b e t o w a n i u   s i ę	n i e z a d e b e t o w a n i u   s i ę	0.05882999300956726	0	0.1010657250881195	NA
+n i e z a p o d a j ą c ą	n i e z a p o d a j ą c ą	0.06098555773496628	0	0.32526540756225586	NA
+b ę d z i e c i e   r a s t r o w a ł o   s i ę	b ę d z i e s z   r a s t r o w a ł o   s i ę	0.4039367735385895	3	0.12258876115083694	NA
+s ł o w i a n o z n a w c z o ś c i ą	s ł o w i a n o z n a w c z o ś c i ą	0.05796098709106445	0	0.3407508134841919	NA
+t w i s t a m i	t w i s t a m i	0.14798331260681152	0	1.274287223815918	NA
+n i e u m o ż l i w i a n e	n i e u m o ż l i w i a n e	0.058053433895111084	0	0.13316263258457184	NA
+k o r c ą c e m u	k o r c ą c e m u	0.05312114953994751	0	0.19448542594909668	NA
+w y s o k o g a t u n k o w o ś c i	w y s o k o g a t u n k o w o ś c i	0.05475530028343201	0	0.09918435662984848	NA
+u t r u d n i a ł y ś c i e   s i ę	u t r u d n i a ł y ś c i e   s i ę	0.05657824128866196	0	0.1230461597442627	NA
+r ę c z n e j	r ę c z n e j	0.0580398365855217	0	0.2765372693538666	NA
+w i z y t e r k i e	w i z y t e r k i	0.19682243466377258	1	0.31896913051605225	NA
+e f e k t o w a ł y b y ś c i e	e f e k t o w a ł y b y ś c i e	0.05170018970966339	0	0.37937262654304504	NA
+ś l u z o w a c i e j ą c y c h	ś l u z o w a c i e j ą c y c h	0.08072422444820404	0	0.6395955085754395	NA
+n i e w y r o b i o n e g o	n i e w y r o b i o n e g o	0.05439738556742668	0	0.1330445259809494	NA
+b ę d z i e c i e   p r z e g n i a t a ł y	b ę d z i e c i e   p r z e g n i a t a ł y	0.05101844668388367	0	0.09615800529718399	NA
+n i e z d y c h a n i e	n i e z d y c h a n i e	0.057868842035532	0	0.1476505994796753	NA
+p o p o d b i j a ł a m	p o p o d b i j a ł a m	0.09610024094581604	0	0.20892983675003052	NA
+n i e k o ś c i e r s k i e m u	n i e k o ś c i e r s k i e m u	0.055027976632118225	0	0.11736249923706055	NA
+o t a k s u j ą c e	o t a k s o w u j ą c e	0.4446217715740204	2	0.18862557411193848	NA
+d o c z e k i w a ł a	d o c z e k i w a ł a	0.05403842404484749	0	0.15100820362567902	NA
+m a z u r o w o ś c i	m a z u r o w o ś c i	0.053789760917425156	0	0.16475310921669006	NA
+t y s i ą c k i l o m e t r o w o ś c i	t y s i ą c k i l o m e t r o w o ś c i	0.0564294159412384	0	0.09010890126228333	NA
+p o z b y ł y ś c i e   s i ę	p o z b y ł y ś c i e   s i ę	0.05679057911038399	0	0.3220187723636627	NA
+n i e w y k i e ł k o w a n i	n i e w y k i e ł k o w a n i	0.057786181569099426	0	0.12474179267883301	NA
+p ł a s t u g o k s z t a ł t n y	p ł a s t u g o k s z t a ł t n e	0.3831287622451782	1	0.10920463502407074	NA
+o d ż y ł o w a ł y b y	o d ż y ł o w a ł y b y	0.056884147226810455	0	0.17302073538303375	NA
+r e m a n i f e s t y m	r e m a n i f e s t e m	0.4887741506099701	1	0.2884954512119293	NA
+g a r b i e g o w i e	g a r b y	1.2665210962295532	7	0.2511928975582123	NA
+n a t r z ą s a n e	n a t r z ą s a n e	0.07279077172279358	0	0.21556447446346283	NA
+n a k i w a n y c h	n a k i w a n y c h	0.057130929082632065	0	0.4859260618686676	NA
+ś w i e r k l a ń s k i c h	ś w i e r k l a ń s k i c h	0.05395901948213577	0	0.6614935994148254	NA
+u t y l i t a r n y m	u t y l i t a r n y m	0.06669054180383682	0	0.21720777451992035	NA
+n i e w i e l o s e t l e t n i	n i e w i e l o s e t l e t n i e	0.13560740649700165	1	0.1538696438074112	NA
+d z i a d z ą c y	d z i a d z i e j ą c y	0.42855390906333923	3	0.19717749953269958	NA
+n i e p r z e m e b l o w a n y m	n i e p r z e m e b l o w a n y m	0.05822315439581871	0	0.10004009306430817	NA
+n i e r o z l i c z o n y m i	n i e r o z l i c z o n y m i	0.05878712981939316	0	0.5643061995506287	NA
+n i e n a t r a f i a j ą c e	n i e n a t r a f i a j ą c e	0.057266976684331894	0	0.1259503811597824	NA
+z a ł a t a n y	z a ł a t a n y	0.05645132064819336	0	0.22079803049564362	NA
+n i e b o ż o n a r o d z e n i o w o ś c i	n i e b o ż o n a r o d z e n i o w o ś c i	0.061219532042741776	0	0.0897822305560112	NA
+p r z y p r z ą c i o m   s i ę	p r z y p r z ę ż e n i o m   s i ę	0.7671954035758972	4	0.31597834825515747	NA
+s c h l a p a n e	s c h l a p a n e	0.05769215151667595	0	0.2060536891222	NA
+k a p e r o w a ł y b y ś m y	k a p e r o w a ł y b y ś m y	0.05384650081396103	0	0.6392711997032166	NA
+s k ó r o s k r z y d ł e j	s k ó r o s k r z y d ł e j	0.05438916012644768	0	0.14523500204086304	NA
+l e ż a n k ą	l e ż a n k ą	0.05421194061636925	0	0.5544580817222595	NA
+u p i o r o w e	u p i o r o w e	0.05829966068267822	0	0.2525007724761963	NA
+n i e p r z e s t a w c z y m	n i e p r z e s t a w c z y m	0.07365284860134125	0	0.13471312820911407	NA
+n i e s y r e n i e	n i e s y r e n i e	0.05990659072995186	0	0.22073470056056976	NA
+n i e w y j a w i a n e	n i e w y j a w i a n e	0.05765530839562416	0	0.15323546528816223	NA
+w y d r a p y w a ł b y m	w y d r a p y w a ł b y m	0.05433830991387367	0	0.13923200964927673	NA
+n i e w y ś w i e ż a j ą c ą   s i ę	n i e w y ś w i e ż a j ą c ą   s i ę	0.054117847234010696	0	0.15648171305656433	NA
+z a f r u w a ł y ś c i e	z a f r u w a ł y ś c i e	0.05707579851150513	0	0.8385321497917175	NA
+d y s e k u j ą c a   s i ę	d y s e k u j ą c a   s i ę	0.053909726440906525	0	0.27689164876937866	NA
+p r a p r a b a b k a m	p r a p r a b a b k o m	0.19521567225456238	1	0.20977698266506195	NA
+w y s z c z e k a ł o m	w y s z c z e k a ł o m	0.0676533654332161	0	0.19038981199264526	NA
+n i e d o p l ą t y w a n y m i	n i e d o p l ą t y w a n y m i	0.056235600262880325	0	0.33870264887809753	NA
+w c h a d z a j ą c y c h	w c h a d z a j ą c y c h	0.0538918636739254	0	0.519554078578949	NA
+z a c z y t a ł y b y ś m y   s i ę	z a c z y t a ł y b y ś m y   s i ę	0.05456041544675827	0	0.1169305220246315	NA
+u p o s t a c o n y m i	u p o s t a c o n y m i	0.05867500603199005	0	0.9307876825332642	NA
+u g w a r z a j ą c y	u g w a r z a j ą c y	0.05599653720855713	0	0.17515063285827637	NA
+n a s z y t y m	n a s z y t y m	0.11675187945365906	0	0.3013305962085724	NA
+n i e k o c z o w e	n i e k o c z o w e	0.05989561229944229	0	0.1978466510772705	NA
+d o k o p t o w a ł y b y ś c i e   s i ę	d o k o o p t o w a ł y b y ś c i e   s i ę	0.3214719891548157	1	0.09539330750703812	NA
+a r c y t r e f n o ś ć	a r c y t r e f n o ś c i	0.6519783735275269	2	0.1688375174999237	NA
+n i e c u k r u j ą c e   s i ę	n i e c u k r u j ą c e   s i ę	0.05651170760393143	0	0.3246766924858093	NA
+c e n z o r o w a n e	c e n z o r o w a n e	0.060681331902742386	0	0.16944469511508942	NA
+b ę d ę   o ś w i a d c z y ć	o ś w i a d c z ę	1.325392484664917	7	0.1288692206144333	NA
+z w i ę k s z a n o   s i ę	z w i ę k s z a n o   s i ę	0.06093701347708702	0	0.3364957869052887	NA
+u z w i ę ź l e n i o m   s i ę	u z w i ę ź l e n i o m   s i ę	0.07296763360500336	0	0.2676631808280945	NA
+p r z e t e l e p o r t o w a n ą	p r z e t e l e p o r t o w a n ą	0.060763902962207794	0	0.11078738421201706	NA
+n i e a r a b i z o w a n a	n i e a r a b i z o w a n a	0.060016270726919174	0	0.12888601422309875	NA
+w y c i u j ą   s i ę	w y c i e s z e   s i ę	1.5428640842437744	4	0.3559310734272003	NA
+p ó ł p i ś m i e n e	p ó ł p i ś m i e n n e	0.46501868963241577	1	0.14873342216014862	NA
+b ę d z i e   n a w i e w a ł a   s i ę	b ę d z i e s z   n a w i e w a ł a   s i ę	0.4110470712184906	2	0.1274619996547699	NA
+p o l i t p o p r a w n y c h	p o l i t p o p r a w n y c h	0.05590362101793289	0	0.2639291286468506	NA
+o s t r ó ż e c z k ą	o s t r ó ż e c z k ą	0.050259754061698914	0	0.46243783831596375	NA
+c y t u j ą c ą	c y t u j ą c ą	0.05021068826317787	0	0.49262121319770813	NA
+z a s t ę b n o w y w a ł y ś m y   s i ę	z a s t ę b n o w y w a ł y ś m y   s i ę	0.05451784282922745	0	0.06798534840345383	NA
+s p r u s a c z y l i b y ś c i e   s i ę	s p r u s a c z y l i b y ś c i e   s i ę	0.07155174762010574	0	0.08805501461029053	NA
+n i e w y k a f e l k o w a n y m i	n i e w y k a f e l k o w a n y m i	0.05655892193317413	0	0.21145768463611603	NA
+w y ż y m a n e	w y ż y m a n e	0.052560728043317795	0	0.18864382803440094	NA
+n i e d e l a b i a l i z o w a n y c h	n i e d e l a b i a l i z o w a n y c h	0.05731193348765373	0	0.12261620908975601	NA
+n i e ł y ż e c z k u j ą c a   s i ę	n i e ł y ż e c z k u j ą c a   s i ę	0.05559533089399338	0	0.0850168913602829	NA
+z a d u c h i e	z a d u c h u	0.3976457417011261	2	0.25880977511405945	NA
+n i e b e z w i t a m i n o w o ś c i	n i e b e z w i t a m i n o w o ś c i	0.059163905680179596	0	0.08052249252796173	NA
+d w u s t o p o w o ś c i	d w u s t o p o w o ś c i	0.05609683319926262	0	0.11378597468137741	NA
+b ę d z i e c i e   c h r u m k a ł e	b ę d z i e s z   c h r u m k a ł	0.7521613240242004	4	0.0946991890668869	NA
+p r z y f i l u j ą c y m	p r z y f i l o w u j ą c y m	0.12260609865188599	2	0.1590808480978012	NA
+c h m i e l e ń s k o ś c i a c h	c h m i e l e ń s k o ś c i a c h	0.051826734095811844	0	0.42129242420196533	NA
+r o z i e w a n y c h	r o z z i e w a n y c h	0.5316776037216187	1	0.23623250424861908	NA
+p r z e b y t e j	p r z e b y t e j	0.1107538715004921	0	0.2193688601255417	NA
+n i e p o p u s z c z a n i e m   s i ę	n i e p o p u s z c z a n i e m   s i ę	0.0569579042494297	0	0.08633778989315033	NA
+d o k r a s i ł y ś c i e   s i ę	d o k r a s i ł y ś c i e   s i ę	0.07880211621522903	0	0.12583766877651215	NA
+n i e d o n i e s i e n i	n i e d o n i e s i e n i	0.1136227622628212	0	0.178777813911438	NA
+n i e o b r a n i a j ą c e   s i ę	n i e o b r a n i a j ą c e   s i ę	0.05803484842181206	0	0.11169642210006714	NA
+k o p e r t o w a n i	k o p e r t o w a n i	0.05786455050110817	0	0.1438748687505722	NA
+e d y p a l n o ś ć	e d y p a l n o ś ć	0.05439083278179169	0	0.15666715800762177	NA
+o t r z e w i c z k o w a n o   s i ę	o t r z e w i c z k o w a n o   s i ę	0.06037727743387222	0	0.08997562527656555	NA
+n i e k r ą g ł o u s t y c h	n i e k r ą g ł o u s t y c h	0.056213121861219406	0	0.2293466478586197	NA
+p a k l a k o m	p a k l a k o m	0.0532899871468544	0	0.20682293176651	NA
+b i e r u ń s k i c h	b i e r u ń s k i c h	0.05555953457951546	0	0.470567911863327	NA
+p r z y s k r z y b a n y c h	p r z y s k r z y b a n y c h	0.057166628539562225	0	0.3210762143135071	NA
+o k u r z a ł a m   s i ę	o k u r z a ł a m   s i ę	0.11382663995027542	0	0.323052316904068	NA
+n i e s o l a r s k i m	n i e s o l a r s k i m	0.059085771441459656	0	0.4832768440246582	NA
+n i e p o s i a r c z y n o w o ś c i o ś c i	n i e p o s i a r c z y n o w o ś c i o m	0.2242210954427719	3	0.11115947365760803	NA
+o k r z e p i o n e	o k r z e p i o n e	0.05587667599320412	0	0.15464290976524353	NA
+p o d k a b l o w y w a l i b y ś m y   s i ę	p o d k a b l o w y w a l i b y ś m y   s i ę	0.0544886477291584	0	0.06134490296244621	NA
+n i e o d h a r t o w y w a n e	n i e o d h a r t o w y w a n e	0.05880805477499962	0	0.09738502651453018	NA
+n i e p ę c h e r z y k o w e g o	n i e p ę c h e r z y k o w e g o	0.05775664374232292	0	0.09489484131336212	NA
+w y k a z a l n a	w y k a z a l n a	0.054757166653871536	0	0.1760508418083191	NA
+p o w y m i e r z a ł y ś c i e	p o w y m i e r z a ł y ś c i e	0.055491164326667786	0	0.3798561692237854	NA
+o d k i b l o w y w a n y m	o d k i b l o w y w a n y m	0.057353630661964417	0	0.12629370391368866	NA
+n i e f a b r y k a n c k i e m u	n i e f a b r y k a n c k i e m u	0.05578970909118652	0	0.0908721461892128	NA
+n i e s k o n t a m i n o w a n y c h	n i e s k o n t a m i n o w a n y c h	0.05950193852186203	0	0.16576437652111053	NA
+z a b e z p i e c z y ł b y m   s i ę	z a b e z p i e c z y ł b y m   s i ę	0.055538617074489594	0	0.07870146632194519	NA
+d a w a j ą c e	d a j ą c e	0.9428595900535583	2	0.19534891843795776	NA
+n i e l a s e r u n k o w o ś c i	n i e l a s e r u n k o w o ś c i	0.059118907898664474	0	0.08920615166425705	NA
+b ę d z i e c i e   p r z e w a l c o w y w a ł y	b ę d z i e c i e   p r z e w a l c o w y w a ł y	0.05873270332813263	0	0.058730896562337875	NA
+n i e p r z y s t o s o w u j ą c y m	n i e p r z y s t o s o w u j ą c y m	0.08902370929718018	0	0.10647009313106537	NA
+b ę d z i e   k a r b i k o w a ł y	b ę d ą   k a r b i k o w a ł y	0.49089890718460083	3	0.10524776577949524	NA
+p u c k i c h	p u c k i c h	0.05515800416469574	0	0.6013147830963135	NA
+o s t r u g u j ą c y c h   s i ę	o s t r u g u j ą c y c h   s i ę	0.05569489300251007	0	0.16476744413375854	NA
+a b s t r a k c j o n i s t y c z n y	a b s t r a k c j o n i s t y c z n y	0.05533792823553085	0	0.07577820122241974	NA
+n i e m a z u r z e n i	n i e m a z u r z e n i	0.05732154846191406	0	0.13169386982917786	NA
+a u t o r a m e n t y	a u t o r a m e n t y	0.05547954514622688	0	0.1558384746313095	NA
+n i e ś r ó d s k a l n y m	n i e ś r ó d s k a l n y m	0.054820459336042404	0	0.1020185574889183	NA
+n i e s z p a l e r o w o ś c i	n i e s z p a l e r o w o ś c i	0.0593671090900898	0	0.098839670419693	NA
+n i e s ą d o w o ś c i o m	n i e s ą d o w o ś c i o m	0.05828750133514404	0	0.111885666847229	NA
+o b o j ę t n i e j ą c y c h	o b o j ę t n i e j ą c y c h	0.055378131568431854	0	0.2420227825641632	NA
+n i e w c h o d n y	n i e w c h o d n e	0.5623329877853394	1	0.16391049325466156	NA
+o d p y t u j ą c ą	o d p y t u j ą c ą	0.05147948116064072	0	0.19292740523815155	NA
+b ę d ę   o d o s a b n i a ł o   s i ę	b ę d z i e s z   o d o s a b n i a ł o   s i ę	0.4367043972015381	5	0.1023944690823555	NA
+k u f i c k i	k u f i c c y	1.7023561000823975	2	0.260734498500824	NA
+u n i e d o s t o p n a l i ś m y   s i ę	u n i e d o s t ę p n i a l i ś m y   s i ę	0.36134475469589233	2	0.1406189650297165	NA
+z a i n t e r e s o w a n i	z a i n t e r e s o w a n y	0.4925728142261505	1	0.10979675501585007	NA
+z a ł a m y w a l i ś c i e	z a ł a m y w a l i ś c i e	0.05304717272520065	0	0.324014812707901	NA
+n i e o w i e ń c z a j ą c e	o w i e ń c z a j ą c e	0.4120418131351471	3	0.11245457828044891	NA
+o d g r a d z a j ą c e   s i ę	o d g r a d z a j ą c e   s i ę	0.05865507200360298	0	0.2598705291748047	NA
+n i e z a g a b a n e	n i e z a g a b a n e	0.05945172533392906	0	0.14669524133205414	NA
+n i e j e l o n k o w e j	n i e j e l o n k o w e j	0.05784272029995918	0	0.12732166051864624	NA
+n i e o d k a s y w a n e	n i e o d k a s y w a n e	0.06024251505732536	0	0.12222924083471298	NA
+w y s z k a l a n i a   s i ę	w y s z k a l a n i a   s i ę	0.06517556309700012	0	0.1941777914762497	NA
+n i e k a t e s z o w y	n i e k a t e s z o w e	0.5349879860877991	1	0.1446349024772644	NA
+n i e p o l i p o w e	n i e p o l i p o w e	0.058926746249198914	0	0.15388406813144684	NA
+n i e w y s z y k u j ą c e j	n i e w y s z y k o w u j ą c e j	0.2276763617992401	2	0.09975029528141022	NA
+n i e r o z m ó c o n y m	n i e r o z m o ż o n y m	0.8404930233955383	2	0.13188791275024414	NA
+n i e k a n o n i c z n i	n i e k a n o n i c z n i	0.06126942113041878	0	0.13924647867679596	NA
+k o ł u j ą c y c h	k o ł u j ą c y c h	0.05130062252283096	0	0.7620128393173218	NA
+b ę d z i e   u c z y ć	b ę d ą   u c z y ł y	0.9983168244361877	5	0.1499897986650467	NA
+d e r y w o w a n e	d e r y w o w a n e	0.0587635263800621	0	0.15407584607601166	NA
+n i e u p o w s k i m i	n i e u p o w s k i m i	0.05805270001292229	0	0.3528999984264374	NA
+n i e p o s o b n y m	n i e p o o s o b n y m	0.320222407579422	1	0.2692345082759857	NA
+d e z a t o m i z o w a n e	d e z a t o m i z o w a n e	0.05825340747833252	0	0.11038010567426682	NA
+b o l s z e w i c k o ś c i	b o l s z e w i c k o ś c i	0.05663458630442619	0	0.11482403427362442	NA
+z b i e ż e n i a m i   s i ę	z b i e ż e n i a m i   s i ę	0.05385519936680794	0	0.17463165521621704	NA
+p i ę c i o z ł o t o w y c h	p i ę c i o z ł o t o w y c h	0.057051241397857666	0	0.5963051319122314	NA
+n i e p r o e f e k t y w n o ś c i a c h	n i e p r o e f e k t y w n o ś c i o w y c h	0.12176177650690079	3	0.24494890868663788	NA
+n i e r ó ż o w i e j ą c y c h	n i e r ó ż o w i e j ą c y c h	0.05991829186677933	0	0.23980824649333954	NA
+s a t e l i t a	s a t e l i c i	0.8631298542022705	2	0.32864081859588623	NA
+n i e e k l e k t y c z n y c h	n i e e k l e k t y c z n y c h	0.06405270844697952	0	0.13780665397644043	NA
+n a c z e p i a ł o m   s i ę	n a c z e p i a ł o m   s i ę	0.05943303182721138	0	0.14733447134494781	NA
+n i e o p o r o w o ś ć	n i e o p o r o w o ś ć	0.05858832597732544	0	0.1404571235179901	NA
+r o z p a s k u d z a n i a	r o z p a s k u d z a n i a	0.0837055966258049	0	0.13779312372207642	NA
+d y g n ę ł a b y	d y g n ę ł a b y	0.098615363240242	0	0.19520503282546997	NA
+w y g o t o w a ł a b y m   s i ę	w y g o t o w a ł a b y m   s i ę	0.05489066615700722	0	0.11173077672719955	NA
+z e s t r a c h a l i ś c i e	z e s t r a c h a l i ś c i e	0.053461164236068726	0	0.3450554609298706	NA
+o c u k r z e n i a	o c u k r z e n i a	0.05170727148652077	0	0.14555709064006805	NA
+o d s y l a b i z o w a ł y b y ś c i e   s i ę	o d s y l a b i z o w a ł y b y ś c i e   s i ę	0.05547758564352989	0	0.05965326353907585	NA
+d o p i e r d o l i ś m y   s i ę	d o p i e r d o l i ł y ś m y   s i ę	0.32202184200286865	2	0.09441380947828293	NA
+n i e k o n t y n g e n t o w a n i e	n i e k o n t y n g e n t o w a n i e	0.06649954617023468	0	0.08530616760253906	NA
+n a j s y s t e m a t y c z n e m u	n a j s y s t e m a t y c z n i e j s z e m u	1.1081998348236084	5	0.09491969645023346	NA
+w y w i e s z c z o n y c h	w y w i e s z c z o n y c h	0.07401275634765625	0	0.17742817103862762	NA
+p i e n i k	p i e n i k i	0.6770060062408447	1	0.3540937900543213	NA
+n a j c z e r w o n i e m u	n a j c z e r w i e ń s z e m u	0.7294617891311646	5	0.12477455288171768	NA
+r o z k l ą t y c h	r o z k l ę t y c h	0.3097151219844818	1	0.3615275025367737	NA
+n i e z n i e r u c h o m i a n y	n i e z n i e r u c h o m i a n y	0.05990920960903168	0	0.08880893886089325	NA
+n i e u d o s k o n a l a n y	n i e u d o s k o n a l a n y	0.05999129265546799	0	0.10094188898801804	NA
+o p r a w i a n e j	o p r a w i a n e j	0.05548686161637306	0	0.14845414459705353	NA
+n i e p o s z y k o w a n y	n i e p o s z y k o w a n y	0.060593388974666595	0	0.11085482686758041	NA
+e k s m i t o w a n y c h	e k s m i t o w a n y c h	0.05606045573949814	0	0.16704997420310974	NA
+z i a r n o	z i a r n a	0.8695470094680786	1	0.28421834111213684	NA
+n i e n a p i s a n y c h	n i e n a p i s a n y c h	0.05865352600812912	0	0.4978655278682709	NA
+p o ś c i s k a j ą   s i ę	p o ś c i s k a j ą   s i ę	0.06634669750928879	0	0.24012726545333862	NA
+r a z o w a n y c h	r a z o w a n y c h	0.057226572185754776	0	0.8662304282188416	NA
+n i e u j a w n i a n e g o	n i e u j a w n i a n e g o	0.054201140999794006	0	0.10579295456409454	NA
+l a s e r o w a ł y b y ś c i e	l a s e r o w a ł y b y ś c i e	0.0546974278986454	0	0.2501314878463745	NA
+p r z e k l o n e	p r z e k l ę t e	0.2309325486421585	2	0.25295010209083557	NA
+z a h a z a r d u j ą	z a h a z a r d u j ą	0.055339645594358444	0	0.14839620888233185	NA
+n i e n a d p r u w a n y c h	n i e n a d p r u w a n y c h	0.0614897646009922	0	0.3127172887325287	NA
+w y k l u c z a n e	w y k l u c z a n e	0.05725286900997162	0	0.1577935665845871	NA
+u p i e r d l i w s z y c h	u p i e r d l i w s z y c h	0.05590658634901047	0	0.15823626518249512	NA
+n a p s t r y k i w a n e	n a p s t r y k i w a n e	0.05814192071557045	0	0.12503083050251007	NA
+w z d a w a n y	w z d a w a n y	0.061285242438316345	0	0.18621955811977386	NA
+p r z e m ę c z a n y	p r z e m ę c z a n y	0.05951060727238655	0	0.13668683171272278	NA
+n i e p r z y m i ę s z a n y	n i e p r z y m i ę s z a n y	0.05595647916197777	0	0.09756013005971909	NA
+e m e	e m	0.9057864546775818	1	0.8395384550094604	NA
+d o m r a ż a n e j	d o m r a ż a n e j	0.05408673360943794	0	0.1473129242658615	NA
+n i e f i l t r o w a n y	n i e f i l t r o w a n y	0.05924415588378906	0	0.12076371163129807	NA
+n i e u r ó w n a n e	n i e u r ó w n a n e	0.0668807327747345	0	0.14613957703113556	NA
+k s i ą ż n i c t w a	k s i ą ż n i c t w a	0.05860893800854683	0	0.14511443674564362	NA
+o d e m k n i ą	o d e m k n ą	0.4745346009731293	1	0.32323431968688965	NA
+n i e p o w y s z c z e g ó l n i	n i e p o w y s z c z e g ó l n i a n y	0.28244149684906006	3	0.15897713601589203	NA
+n i e p e s z e n i o m   s i ę	n i e p e s z e n i o m   s i ę	0.058210548013448715	0	0.3283386826515198	NA
+n i e ś w i d r o w a n i o m	n i e ś w i d r o w a n i o m	0.058091793209314346	0	0.10605428367853165	NA
+n i e p r z e m a c z a n y m	n i e p r z e m a c z a n y m	0.05909993499517441	0	0.11102785170078278	NA
+z w i e w a n y	z w i e w a n y	0.05794043093919754	0	0.19415229558944702	NA
+d e b e t o w a n i	d e b e t o w a n i	0.05932297557592392	0	0.17003604769706726	NA
+n i e p r z e k r a w a n i e   s i ę	n i e p r z e k r a w a n i e   s i ę	0.05903763696551323	0	0.08874215185642242	NA
+w a r i a t u ń c i o w i	w a r i a t u ń c i o w i	0.05871281772851944	0	0.11688206344842911	NA
+p o m y l o n e	p o m y l o n e	0.05236218869686127	0	0.19588200747966766	NA
+j a z y d a	j a z y d ę	0.9133592844009399	1	0.2265552133321762	NA
+n i e p ł a w i o n y m	n i e p ł a w i o n y m	0.05522478371858597	0	0.12521585822105408	NA
+z r e m i l i t a r y z o w a n e	z r e m i l i t a r y z o w a n e	0.05781545862555504	0	0.0883725956082344	NA
+p o z a k ł u w a n e	p o z a k ł u w a n e	0.06912080198526382	0	0.15517060458660126	NA
+n i e s z p r o s o w a n y c h	n i e s z p r o s o w a n y c h	0.06027284264564514	0	0.12836062908172607	NA
+n i e p o d z n a c z a n i e	n i e p o d z n a c z a n i e	0.060251109302043915	0	0.10051821172237396	NA
+b ę d ę   p o ż y t k o w a ł a   s i ę	b ę d ę   p o ż y t k o w a ł a   s i ę	0.05683235824108124	0	0.08001839369535446	NA
+n i e z r a s t r o w a n ą	n i e z r a s t r o w a n ą	0.06006062403321266	0	0.3147718012332916	NA
+z a ż y n a n y c h	z a ż y n a n y c h	0.054768845438957214	0	1.1124545335769653	NA
+z r e m o n t u j ą   s i ę	z r e m o n t u j ą   s i ę	0.05852246284484863	0	0.2169579565525055	NA
+n i e i n g r e s o w a n ą	n i e i n g r e s o w a n ą	0.059019364416599274	0	0.12884840369224548	NA
+j e d y n i	j e d y n e g o	1.78919517993927	3	0.22154290974140167	NA
+d z i w a d ł o	d z i w a d ł a	0.6351298689842224	1	0.203426331281662	NA
+w m i ę s z a n y c h	w m i ę s z a n y c h	0.053674787282943726	0	0.21689145267009735	NA
+n i e n a m a z a n y	n i e n a m a z a n y	0.059310365468263626	0	0.13903886079788208	NA
+s k l e p o w i	s k l e p o w e g o	1.598280668258667	3	0.1745363175868988	NA
+p r z y c z o ł o	p r z y c z o ł a	0.6097801327705383	1	0.19326838850975037	NA
+n i e n a k a r m i a n e	n i e n a k a r m i a n e	0.0595039427280426	0	0.12161481380462646	NA
+d ż i g i t a j a c h	d ż i g i t a j a c h	0.0518052764236927	0	0.5555650591850281	NA
+n i e t y p o w a n e	n i e t y p o w a n e	0.0605023093521595	0	0.14525474607944489	NA
+n i e o d w z a j e m n i o n y	n i e o d w z a j e m n i o n y	0.05743102356791496	0	0.09287507086992264	NA
+w z d ł u ż o n y c h	w z d ł u ż o n y c h	0.05246676504611969	0	0.1970786601305008	NA
+g ę s t e	g ę s t s z e	0.9175436496734619	2	0.4318802058696747	NA
+u s t o ł e c z n i a n e	u s t o ł e c z n i a n e	0.05498671531677246	0	0.12102293968200684	NA
+n a j k r w a w e j s z e	n a j k r w a w s z e	0.29524096846580505	2	0.13661542534828186	NA
+n i e w y s z u l e r o w y w a n i e   s i ę	n i e w y s z u l e r o w y w a n i e   s i ę	0.05690094828605652	0	0.06624453514814377	NA
+n i e w y m i a r o w a n y	n i e w y m i a r o w a n y	0.059445954859256744	0	0.10786314308643341	NA
+n a w p y c h a n e	n a w p y c h a n e	0.05802929773926735	0	0.15890294313430786	NA
+n i e o b r a m o w a n i o m   s i ę	n i e o b r a m o w a n i o m   s i ę	0.057976193726062775	0	0.0878320261836052	NA
+g o ź d z i k o w i e c o w i	g o ź d z i k o w c u	1.1286194324493408	5	0.18225863575935364	NA
+n a j d e k o r a c y j n e g o	n a j d e k o r a c y j n i e j s z e g o	0.6629431247711182	5	0.10799695551395416	NA
+n i e ł o m o t a n i a   s i ę	n i e ł o m o t a n i a   s i ę	0.05807239189743996	0	0.21988338232040405	NA
+n i e p o m s t o w a n i o m	n i e p o m s t o w a n i o m	0.05790703371167183	0	0.10925526916980743	NA
+m ą d r y	m ę d r s z e	1.606719732284546	4	0.4498343765735626	NA
+z g r a n i e	z g r a n i a	0.7626062035560608	1	0.20643122494220734	NA
+n i e e g z a m i n o w a n e j	n i e e g z a m i n o w a n e j	0.06201478838920593	0	0.09920638799667358	NA
+c i u p c i a n e	c i u p c i a n e	0.07515574246644974	0	0.1865290254354477	NA
+p r z y k a r c z o n e	p r z y k a r c o n e	0.14422084391117096	1	0.1694599986076355	NA
+l u s t r z e ń	l u s t r z e n i	1.1976828575134277	2	0.20872458815574646	NA
+n i e r o z o c h o c o n y c h	n i e r o z o c h o c o n y c h	0.06260468810796738	0	0.227725550532341	NA
+n i e f l a n c o w a n ą	n i e f l a n c o w a n ą	0.058905575424432755	0	0.13846567273139954	NA
+n i e r o z p i ż d ż a n i e   s i ę	n i e r o z p i ż d ż a n i e   s i ę	0.056740742176771164	0	0.09034760296344757	NA
+n i e u z i e m i a n y	n i e u z i e m i a n y	0.05794227495789528	0	0.13257090747356415	NA
+n i e d o ś w i e t l a n e	n i e d o ś w i e t l a n e	0.057366449385881424	0	0.11200854182243347	NA
+p o b r y z g a n e	p o b r y z g a n e	0.057889267802238464	0	0.16301876306533813	NA
+n a j c i s ł y m	n a j ś c i ś l e j s z y m	1.0988919734954834	6	0.47449713945388794	NA
+n i e w a p n i o n y m	n i e w a p n i o n y m	0.05847974866628647	0	0.13153548538684845	NA
+r o z w y t e j	r o z w y t e j	0.12542665004730225	0	0.2652410566806793	NA
+n a j r u m i a n i e j s z y m i	n a j r u m i e ń s z y m i	0.7561171650886536	4	0.2118256688117981	NA
+p o l e p s z y c i e l i	p o l e p s z y c i e l o w i	0.4221189618110657	2	0.11701986938714981	NA
+w z o r a n y c h	w z o r a n y c h	0.0595230869948864	0	0.8304651379585266	NA
+u c z c i w i e m	u c z c i w y m	0.8286079168319702	2	0.2528197169303894	NA
+n a z a l i z o w a n y	n a z a l i z o w a n y	0.06108987331390381	0	0.1306290626525879	NA
+z a k w i t o w a n e	z a k w i t o w a n e	0.05937369167804718	0	0.14546211063861847	NA
+o b s a d z a n e	o b s a d z a n e	0.05875275656580925	0	0.17426782846450806	NA
+z a d z i e r g a n e	z a d z i e r g a n e	0.059478819370269775	0	0.14406944811344147	NA
+s p o s t r z e c z o n e	s p o s t r z e ż o n e	0.6622880697250366	2	0.13731995224952698	NA
+d o p l ą t a j ą   s i ę	d o p l ą t a j ą   s i ę	0.06199515983462334	0	0.24790160357952118	NA
+n i e p r z e s ą d z o n y c h	n i e p r z e s ą d z o n y c h	0.06075315549969673	0	0.21173633635044098	NA
+z a d a w a l a n e j	z a d a w a l a n e j	0.06465796381235123	0	0.14480140805244446	NA
+k r ę g l a r z e	k r ę g l a r z a	0.6741560697555542	1	0.1715644896030426	NA
+n i e m a i l o w a n y c h	n i e m a i l o w a n y c h	0.05900942534208298	0	0.17172247171401978	NA
+o ł o w i o w a n e	o ł o w i o w a n e	0.0593155175447464	0	0.15296730399131775	NA
+p o d w l e k a n y	p o d w l e k a n y	0.05734908580780029	0	0.15359646081924438	NA
+n i e w y p u n k t o w y w a n e	n i e w y p u n k t o w y w a n e	0.05952772870659828	0	0.09105697274208069	NA
+o d ł a d o w y w a n y c h	o d ł a d o w y w a n y c h	0.05776502192020416	0	0.2367004007101059	NA
+n i e z a b l o k o w a n i o m   s i ę	n i e z a b l o k o w a n i o m   s i ę	0.05876315385103226	0	0.08496886491775513	NA
+n a j h o j n i e j s z y m i	n a j h o j n i e j s z y m i	0.0475647859275341	0	0.2925006151199341	NA
+z a k o ń c z o n e	z a k o ń c z o n e	0.052633728832006454	0	0.1573748141527176	NA
+n i e p o r a d z o n e j	n i e p o r a d z o n e j	0.05882013216614723	0	0.11818908154964447	NA
+d o p i s y w a n e	d o p i s y w a n e	0.057389985769987106	0	0.1564123034477234	NA
+n i e n a w i l ż o n y	n i e n a w i l ż o n y	0.05755941569805145	0	0.13000503182411194	NA
+w y s z a n t a ż o w a n e j	w y s z a n t a ż o w a n e j	0.057308122515678406	0	0.10535763204097748	NA
+n i e o b o z o w a n i e	n i e o b o z o w a n i e	0.05989841744303703	0	0.11564545333385468	NA
+p r z e n i k l i w s z y c h	p r z e n i k l i w s z y c h	0.05656401813030243	0	0.4332231879234314	NA
+l i f t o w a n y	l i f t o w a n y	0.05412573739886284	0	0.16923484206199646	NA
+b ę d ę   p r z y p r a ż a ł a   s i ę	b ę d ę   p r z y p r a ż a ł a   s i ę	0.0517922081053257	0	0.07376398146152496	NA
+t ę ż o n y	t ę ż o n y	0.08366870135068893	0	0.26358890533447266	NA
+z m y ś l a n i	z m y ś l a n i	0.05211244150996208	0	0.2528257966041565	NA
+n i e p o r z u c o n y c h	n i e p o r z u c o n y c h	0.08818583935499191	0	0.3895399272441864	NA
+p e l e n g o w a n e m u	p e l e n g o w a n e m u	0.06268682330846786	0	0.13132275640964508	NA
+n i e d o w i e r c a j ą c y m   s i ę	n i e d o w i e r c a j ą c y m   s i ę	0.0583764873445034	0	0.09294294565916061	NA
+n a j u g o d n i e j s z y m i	n a j u g o d n i e j s z y m i	0.04865865036845207	0	0.2321220338344574	NA
+z y s k a j ą   s i ę	z y s k a j ą   s i ę	0.05867588520050049	0	0.29801592230796814	NA
+p r a w y c h	p r a w s z y c h	0.5135981440544128	2	0.47699064016342163	NA
+n i e p o p o d g i n a n y c h	n i e p o p o d g i n a n y c h	0.060320544987916946	0	0.151652991771698	NA
+p r z e t a p i a n i	p r z e t a p i a n i	0.05865059792995453	0	0.15383677184581757	NA
+b i o g r a f i e m	b i o g r a f e m	0.557141125202179	1	0.28849849104881287	NA
+n i e p r z e h u l t a j a n i a	n i e p r z e h u l t a j a n i a	0.0937306135892868	0	0.13080233335494995	NA
+n i e w y j ę k i w a n e	n i e w y j ę k i w a n e	0.056783974170684814	0	0.12021555751562119	NA
+n a r z ą d z i ą	n a r z ą d z ą	0.7617715001106262	1	0.2326938360929489	NA
+g i e ł d z i a r s t w o	g i e ł d z i a r s t w o	0.06900370866060257	0	0.1373085081577301	NA
+n i e h a c z o n e	n i e h a c z o n e	0.05606547370553017	0	0.15990914404392242	NA
+s t ę s k n i ą   s t ę	s t ę s k n i ą   s i ę	0.41101473569869995	1	0.37713587284088135	NA
+m e t r o s e k s u a l i s t a	m e t r o s e k s u a l i s t ę	0.4473021626472473	1	0.09818095713853836	NA
+r o z s i e r d z a n y	r o z s i e r d z a n y	0.057191964238882065	0	0.12740159034729004	NA
+n i e z a k w a l i f i k u j ą c y m   s i ę	n i e z a k w a l i f i k o w u j ą c y m   s i ę	0.10864151269197464	2	0.08272118121385574	NA
+n i e p r z y w i e s i o n y	n i e p r z y w i e d z i o n y	1.0745967626571655	2	0.11077447235584259	NA
+z r a ż a ł y b y ś c i e	z r a ż a ł y b y ś c i e	0.05180301144719124	0	0.39942121505737305	NA
+n i e u s t a t k o w y w a n y m	n i e u s t a t k o w y w a n y m	0.05856436491012573	0	0.08992181718349457	NA
+n i e r o z k o c h i w a n i a	n i e r o z k o c h i w a n i a	0.05776359885931015	0	0.09906364232301712	NA
+n a j m o d e r o w n i e j s z y c h	n a j m o d e r o w n i e j s z y c h	0.0888405591249466	0	0.1805438995361328	NA
+n i e p r z y p y t y w a n i a	n i e p r z y p y t y w a n i a	0.05721435695886612	0	0.09816397726535797	NA
+n i e o d w i e ź n y c h	n i e o d w i e z i o n y c h	0.8236953020095825	3	0.4440919756889343	NA
+o d k a z a n e g o	o d k a z a n e g o	0.05401689186692238	0	0.1518731266260147	NA
+n i e t ę ż o n e g o	n i e t ę ż o n e g o	0.05070548132061958	0	0.13478611409664154	NA
+n i e s ł a n y m	n i e s ł a n y m	0.057005614042282104	0	0.23418815433979034	NA
+z h a ń b i a n e j	z h a ń b i a n e j	0.05052795261144638	0	0.14580973982810974	NA
+n a j m o w a ł y b y ś c i e   s i ę	n a j m o w a ł y b y ś c i e   s i ę	0.05535920709371567	0	0.08206142485141754	NA
+s k ł ę b i o n e g o	s k ł ę b i o n e g o	0.0493415892124176	0	0.13733737170696259	NA
+n i e p o u p y c h a n ą	n i e p o u p y c h a n ą	0.05770866200327873	0	0.30945178866386414	NA
+n i e z d e p t a n y c h	n i e z d e p t a n y c h	0.058098699897527695	0	0.3796650469303131	NA
+n i e z a w a r z a n i e	n i e z a w a r z a n i e	0.06049276143312454	0	0.1164138913154602	NA
+o s t a w i a n y	o s t a w i a n y	0.05683109164237976	0	0.1752615123987198	NA
+p r z e z n a c z o n e	p r z e z n a c z o n e	0.06073113903403282	0	0.138300821185112	NA
+z a w i ł e	z a w i l s z e	1.3562477827072144	3	0.28947681188583374	NA
+z a o l e n y c h	z a o l e j o n y c h	0.5194104313850403	2	0.3348439931869507	NA
+n i e m a c z a n i a	n i e m a c z a n i a	0.057376403361558914	0	0.15847823023796082	NA
+r o z b r a t a n e	r o z b r a t a n e	0.059006575495004654	0	0.1616828590631485	NA
+m a s t o d o n t o w i ą	m a s t o d o n t e m	0.5943043231964111	4	0.18246889114379883	NA
+z a c h l i p n i ę ć   s i ę	z a c h l i p n ą   s i ę	0.136259064078331	3	0.29387348890304565	NA
+n i e z w ą c h i w a n e	n i e z w ą c h i w a n e	0.059634529054164886	0	0.12047000229358673	NA
+l i p n ę ł y b y ś c i e	l i p n ę ł y b y ś c i e	0.06405400484800339	0	0.3275333344936371	NA
+r e n t g e n i z o w a n e	r e n t g e n i z o w a n e	0.059457167983055115	0	0.11292380839586258	NA
+n i e p o z a d z i e r a n i o m	n i e p o z a d z i e r a n i o m	0.05853382125496864	0	0.0922825038433075	NA
+n i e o d m a l o w a n y	n i e o d m a l o w a n y	0.060440387576818466	0	0.12003274261951447	NA
+n i e p a s y w o w a n i e   s i ę	n i e p a s y w o w a n i e   s i ę	0.05838422477245331	0	0.1005546897649765	NA
+u p a n c e r z o n e g o	u p a n c e r z o n e g o	0.06198472902178764	0	0.12491115182638168	NA
+s k o n s t a t u j ą   s i ę	s k o n s t a t u j ą   s i ę	0.059580184519290924	0	0.1869274377822876	NA
+b ę d ę   o k r w a w i a ł a	b ę d ę   o k r w a w i a ł a	0.10005628317594528	0	0.13732682168483734	NA
+p o d a t n ą	p o d a t n i e j s z ą	0.9146378040313721	5	0.7017010450363159	NA
+n i e z e d r z e n i o m   s i ę	n i e z d a r c i o m   s i ę	2.378749370574951	5	0.1469496488571167	NA
+z n i e s i o n e	z n i e s i o n e	0.06747094541788101	0	0.19497022032737732	NA
+d o r o ś l e j s z e j s z e	n a j d o r o ś l e j	2.5424535274505615	10	0.2343929409980774	NA
+n i e z e s t ę p u j ą c y m	n i e z e s t ę p u j ą c y m	0.055155813694000244	0	0.10269070416688919	NA
+n i e o d ł u b a n e	n i e o d d ł u b a n e	0.3434295654296875	1	0.1446881890296936	NA
+n i e m o l e s t o w a n e	n i e m o l e s t o w a n e	0.059826143085956573	0	0.11447317898273468	NA
+n i e z a ś w i t a n i o m	n i e z a ś w i t a n i o m	0.05661194026470184	0	0.11632505804300308	NA
+n i e p r z e s k a k i w a n y	n i e p r z e s k a k i w a n y	0.06027108058333397	0	0.0943913534283638	NA
+u ż y c z a n e j	u ż y c z a n e j	0.05185987427830696	0	0.16253769397735596	NA
+w a l c o w a c z a	w a l c o w a c z a	0.11570248752832413	0	0.20133395493030548	NA
+ł a c h m a n i	ł a c h m a n a	0.8234516382217407	1	0.17430436611175537	NA
+t ł u s t e m u	t ł u s t s z e m u	0.7005147933959961	2	0.21399222314357758	NA
+s ł o w o t w ó r s t w o	s ł o w o t w ó r s t w o	0.06603170931339264	0	0.1336716115474701	NA
+p r z y w i o n i ę t e	p r z y w i o n i ę t e	0.05599536374211311	0	0.12821809947490692	NA
+n i e p o d ś c i e ł a n y	n i e p o d ś c i e ł a n y	0.05958535522222519	0	0.11012394726276398	NA
+p o s z c z e g ó l n i a n e	p o s z c z e g ó l n i a n e	0.07728006690740585	0	0.11926236003637314	NA
+n a j ż a ł o ś l i w s z e g o	n a j ż a ł o ś l i w s z e g o	0.055331241339445114	0	0.10143540799617767	NA
+n i e w y g i n i ę t y c h	n i e w y g i n i ę t y c h	0.06240591034293175	0	0.5115786790847778	NA
+w y k a r c z a k ó w	w y k a r c z a k ó w	0.06201058626174927	0	0.15396280586719513	NA
+n i e p o r o z p y c h a n y c h	n i e p o r o z p y c h a n y c h	0.05844126641750336	0	0.12291346490383148	NA
+n i e z w ą t l a n e	n i e z w ą t l a n e	0.05855235457420349	0	0.14413829147815704	NA
+n i e ś c i ó ł k o w a n e	n i e ś c i ó ł k o w a n e	0.06097935140132904	0	0.11417300254106522	NA
+n i e w y s n o b o w a n e	n i e w y s n o b o w a n e	0.05994231626391411	0	0.11044315993785858	NA
+n i e o c z y n i a n i e	n i e o c z y n i a n i e	0.05922311544418335	0	0.11474194377660751	NA
+n i e p r z e c h ę d o ż o n y c h	n i e p r z e c h ę d o ż o n y c h	0.057249829173088074	0	0.13666291534900665	NA
+d e m u l g o w a n y c h	d e e m u l g o w a n y c h	0.17575886845588684	1	0.3581499457359314	NA
+n i e o d r a m a t y z o w a n y	n i e o d d r a m a t y z o w a n y	0.24180741608142853	1	0.09270032495260239	NA
+o s z a r p y w a n e	o s z a r p y w a n e	0.05909159779548645	0	0.15146610140800476	NA
+d a w n e	d a w n i e j s z e	0.9334356784820557	5	0.42323243618011475	NA
+k u ź n i k	k u ź n i k a	0.9785780310630798	1	0.30999383330345154	NA
+n i e p r z e c e d z o n y c h	n i e p r z e c e d z o n y c h	0.0599115788936615	0	0.1706429123878479	NA
+n a j p r z y w i ą z a n y c h	n a j p r z y w i ą z a ń s z y c h	0.3584202229976654	3	0.45341411232948303	NA
+n i e w y p r a c o w y w a n y c h	n i e w y p r a c o w y w a n y c h	0.058496665209531784	0	0.1494978368282318	NA
+p o ś m i e w a ł y b y ś c i e	p o ś m i e w a ł y b y ś c i e	0.05619509890675545	0	0.2580394446849823	NA
+n i e p o d p i w n i c z a n i o m   s i ę	n i e p o d p i w n i c z a n i o m   s i ę	0.058240827172994614	0	0.07278816401958466	NA
+n a j u l o t n i e j s z e j	n a j u l o t n i e j s z ą	0.1884184032678604	2	0.1220666840672493	NA
+n i e z a d m u c h a n e j	n i e z a d m u c h a n e j	0.057447995990514755	0	0.11174842715263367	NA
+w y s ł a n i c t w o c h	w y s ł a n n i c t w a c h	0.4688856899738312	2	0.4082936644554138	NA
+s e r w a l i	s e r w a l i	0.10906659811735153	0	0.3020106554031372	NA
+o p a r k a n i o n e	o p a r k a n i o n e	0.05575473979115486	0	0.14174675941467285	NA
+n a j w e s o ł y ś	n a j w e s e l s z y	1.1792327165603638	5	0.27785158157348633	NA
+p o c z y t n y s z y m	p o c z y t n i e j s z y m	0.5600878596305847	3	0.15149427950382233	NA
+n i e u p o w a ż n i a n e	n i e u p o w a ż n i a n e	0.06037723273038864	0	0.11090545356273651	NA
+n i e b r z e g o w a n i e	n i e b r z e g o w a n i e	0.05704515799880028	0	0.10551407933235168	NA
+p r z y p l ą t a n y c h	p r z y p l ą t a n y c h	0.055100735276937485	0	0.18544338643550873	NA
+n i e w y m ó ż d ż a n i o m	n i e w y m ó ż d ż a n i o m	0.05267094448208809	0	0.10205695778131485	NA
+n i e p o d c z e r n i a n y m	n i e p o d c z e r n i a n y m	0.05987466871738434	0	0.09869416058063507	NA
+n i e z a b a l o t o w a n y	n i e z a b a l o t o w a n y	0.06064397096633911	0	0.10289837419986725	NA
+n i e w y l e s i a n e	n i e w y l e s i a n e	0.060250166803598404	0	0.13998985290527344	NA
+w y m a c h l o w a n e	w y m a c h l o w a n e	0.05745447054505348	0	0.13048185408115387	NA
+n i e o d c h r z ą k i w a n i a	n i e o d c h r z ą k i w a n i a	0.05778547748923302	0	0.09161097556352615	NA
+n i e o s i k i w a n ą	n i e o s i k i w a n ą	0.05774743854999542	0	0.1442200094461441	NA
+n i e o d u r z e n i o m   s i ę	n i e o d u r z e n i o m   s i ę	0.05697162449359894	0	0.1363326907157898	NA
+f r a z o w a n y	f r a z o w a n y	0.05667790025472641	0	0.1639273464679718	NA
+n i e m a l w e r s o w a n i e	n i e m a l w e r s o w a n i e	0.05818996950984001	0	0.09271222352981567	NA
+n i e p r z e s k ł a d y w a n e	n i e p r z e s k ł a d y w a n e	0.059272442013025284	0	0.09108083695173264	NA
+s n a d n ą	s n a d n i e j s z ą	0.7049296498298645	5	0.8063227534294128	NA
+h u ś t a n e	h u ś t a n e	0.061552807688713074	0	0.22277945280075073	NA
+n i e w y p s i k i w a n e	n i e w y p s i k i w a n e	0.06425891816616058	0	0.11801324039697647	NA
+n i e o d r y p a n i o m	n i e o d r y p a n i o m	0.056460656225681305	0	0.15066573023796082	NA
+c h o d l i w y s z y c h	c h o d l i w s z y c h	0.20825627446174622	1	0.48664596676826477	NA
+d o n i o s ł y s z y m i	d o n i o ś l e j s z y m i	1.3019909858703613	4	0.48105430603027344	NA
+n i e r o z ć w i e r k i w a n y c h	n i e r o z ć w i e r k i w a n y c h	0.08078010380268097	0	0.15109041333198547	NA
+z r e k o m p e n s o w a j ą   s i ę	z r e k o m p e n s u j ą   s i ę	0.22223083674907684	3	0.11693581193685532	NA
+n i e p r z e i n s t a l o w y w a n e	n i e p r z e i n s t a l o w y w a n e	0.05886252596974373	0	0.07541906833648682	NA
+u n i e p o d o b n i o n e j	u n i e p o d o b n i o n e j	0.057808294892311096	0	0.1019432470202446	NA
+z r y z y k o w a n y c h	z r y z y k o w a n y c h	0.05668402835726738	0	0.4565245509147644	NA
+n i e n a s t r z y k i w a n y m	n i e n a s t r z y k i w a n y m	0.05901932716369629	0	0.09067825973033905	NA
+r a d o ś n i k o w i	r a d o ś n i k o w i	0.06757313758134842	0	0.14974062144756317	NA
+n i e w i ó r o w a n e j	n i e w i ó r o w a n e j	0.07801831513643265	0	0.1349203884601593	NA
+n i e g n o i o n y	n i e g n o j o n y	0.2578824758529663	1	0.20525704324245453	NA
+n i e u r o n i o n y	n i e u r o n i o n y	0.05781092122197151	0	0.14237366616725922	NA
+j o k e r	j o k e r a	0.9470334649085999	1	0.30869272351264954	NA
+o d k r a p i a n e	o d k r a p i a n e	0.05754481256008148	0	0.1590116173028946	NA
+r e e k s p o r t o w a n e	r e e k s p o r t o w a n e	0.057395126670598984	0	0.11084001511335373	NA
+g u p i k	g u p i k a	0.8327803015708923	1	0.4036141335964203	NA
+n i e r o z p i n a n i e	n i e r o z p i n a n i e	0.05891912430524826	0	0.11455286294221878	NA
+m o t o r y z o w a n e	m o t o r y z o w a n e	0.05850495770573616	0	0.1350143998861313	NA
+b i e g ł y m	b i e g l e j s z y m	1.4168342351913452	5	0.994845986366272	NA
+n i e w y p i s y w a n i o m   s i ę	n i e w y p i s y w a n i o m   s i ę	0.05704102665185928	0	0.08877624571323395	NA
+n i e s k o n s p i r o w a n e	n i e s k o n s p i r o w a n e	0.05959447845816612	0	0.09470083564519882	NA
+j a s k i e r c h	j a s k r a c h	1.448880910873413	3	0.8919818997383118	NA
+n i e u k a r m i a n y c h	n i e u k a r m i a n y c h	0.05688578635454178	0	0.16871550679206848	NA
+z b i e r y w a n e	z b i e r y w a n e	0.059644557535648346	0	0.15807706117630005	NA
+n i e o d b ł y s n i ę t y c h	n i e o d b ł y ś n i ę t y c h	0.37513113021850586	1	0.2509288489818573	NA
+n i e o ś w i a d c z a n i a	n i e o ś w i a d c z a n i a	0.058946993201971054	0	0.10935790091753006	NA
+n i e c h r y s t i a n i z o w a n e	n i e c h r y s t i a n i z o w a n e	0.05880967527627945	0	0.07812978327274323	NA
+c z e k o l a d o w a ł y b y ś c i e   s i ę	c z e k o l a d o w a ł y b y ś c i e   s i ę	0.05562802031636238	0	0.062326859682798386	NA
+n i e p r z e d e f i n i o w y w a n e	n i e p r z e d e f i n i o w y w a n e	0.06177728995680809	0	0.07723651826381683	NA
+o g ł u p i e j ą	o g ł u p i e j ą	0.07413052022457123	0	0.19398179650306702	NA
+n i e p o d s t r y c h n i ę t y c h	n i e p o d s t r y c h n i ę t y c h	0.054995715618133545	0	0.10483241081237793	NA
+n i e p r z e j u s t o w a n ą	n i e p r z e j u s t o w a n ą	0.057960398495197296	0	0.260529488325119	NA
+b ę d ę   p o ł a p y w a ć   s i ę	b ę d ę   p o ł a p y w a ł a   s i ę	0.18167273700237274	2	0.10118050128221512	NA
+n i e p o r o z w i e r a n y	n i e p o r o z w i e r a n y	0.06041707471013069	0	0.10318449884653091	NA
+z u c h w a l e ł y b y ś c i e	z u c h w a l a ł y b y ś c i e	0.4229349195957184	1	0.2527620196342468	NA
+j o k e r a c h	j o k e r a c h	0.06723067164421082	0	0.842864990234375	NA
+n i e z m a l o w y w a n y m	n i e z m a l o w y w a n y m	0.059452421963214874	0	0.10908643901348114	NA
+n i e p o z d m u c h i w a n y	n i e p o z d m u c h i w a n y	0.0578354112803936	0	0.09314445406198502	NA
+w i n i l e	w i n i l e a	0.5232073068618774	1	0.36369800567626953	NA
+p a p r y k o w a n e	p a p r y k o w a n e	0.05957591533660889	0	0.14207369089126587	NA
+z a g n o n e	z a g n o j o n e	0.4093829095363617	2	0.2539689540863037	NA
+n a j s t a r o d a w n e j	n a j s t a r o d a w n i e j s z e j	0.3474430739879608	5	0.21775607764720917	NA
+w o l t e r i a n i s t a c h	w o l t e r i a n i s t ó w	0.5347321629524231	3	0.19108794629573822	NA
+w o d e w i l i s t a m	w o d e w i l i s t ą	0.5852010846138	2	0.19547337293624878	NA
+n i e o k r z e s a n i e c	n i e o k r z e s a ń c a	1.6452500820159912	4	0.14054761826992035	NA
+e m a i l o w a n y c h	e <UNK> m a i l o w a n y c h	0.43391355872154236	1	0.4896550476551056	NA
+z a f o l i o w a n e	z a f o l i o w a n e	0.05674155429005623	0	0.14180798828601837	NA
+z a w i a d u j ą   s i ę	z a w i a d o m i ą   s i ę	0.4082541763782501	3	0.28426963090896606	NA
+n a t a s k a n e	n a t a s k a n e	0.06045128032565117	0	0.1794337034225464	NA
+p o n a c i n a n e	p o n a c i n a n e	0.05969252809882164	0	0.1584763377904892	NA
+r o z t ł a c z a n e j	r o z t ł a c z a n e j	0.05683046206831932	0	0.1268206089735031	NA
+n i e r e a n i m u j ą c y m   s i ę	n i e r e a n i m u j ą c y m   s i ę	0.05780291557312012	0	0.09515631943941116	NA
+n i e s c h r u s t a n ą	n i e s c h r u s t a n ą	0.05670386552810669	0	0.3320457935333252	NA
+n i e p o r a ż a j ą c y m   s i ę	n i e p o r a ż a j ą c y m   s i ę	0.05701163038611412	0	0.1309097856283188	NA
+p o k o ł y s a j ą	p o k o ł y s z ą	1.270275354385376	2	0.19297699630260468	NA
+n i e z r e a s e k u r o w a n y c h	n i e z r e a s e k u r o w a n y c h	0.058897893875837326	0	0.13037320971488953	NA
+n i e a r t y k u ł o w a n e j	n i e a r t y k u ł o w a n e j	0.05867747962474823	0	0.09677333384752274	NA
+k a ł a u z o w a n y	k a ł a u z o w a n y	0.058270737528800964	0	0.13841712474822998	NA
+p o o b r y w a n y c h	p o o b r y w a n y c h	0.05931299924850464	0	0.4594072699546814	NA
+n i e p o d e j m o w a n i a   s i ę	n i e p o d e j m o w a n i a   s i ę	0.057663220912218094	0	0.08592162281274796	NA
+n i e g z e m p l i f i k o w a n i o m	n i e e g z e m p l i f i k o w a n i o m	0.21805447340011597	1	0.07323058694601059	NA
+n i e d o m o n t o w y w a n e	n i e d o m o n t o w y w a n e	0.0599406398832798	0	0.0978277400135994	NA
+k e n d o	k e n d o	0.12583188712596893	0	0.5065015554428101	NA
+n i e p o f o r m o w a n ą	n i e p o f o r m o w a n ą	0.05771689862012863	0	0.30706432461738586	NA
+d z i e k a n i	d z i e k a n a	0.8393930196762085	1	0.17984429001808167	NA
+n a j g ł u c h y j s z y c h	n a j g ł u c h s z y c h	0.4668729305267334	2	0.4545544385910034	NA
+d o ś w i e t l o n y c h	d o ś w i e t l o n y c h	0.05354916676878929	0	0.15464968979358673	NA
+n i e p o p r z e z i ę b i a m   s i ę	n i e p o p r z e z i ę b i a n i o m   s i ę	0.17662489414215088	3	0.12996268272399902	NA
+n i e w y f r y m a r c z a n i a	n i e w y f r y m a r c z a n i a	0.05603739246726036	0	0.090707927942276	NA
+s z a t a n o m	s z a t a n o m	0.05618809163570404	0	0.23498068749904633	NA
+t e n t o w a n y	t e n t o w a n y	0.058549415320158005	0	0.1660401076078415	NA
+n i e o b r ó w n y w a n i a   s i ę	n i e o b r ó w n y w a n i a   s i ę	0.056777287274599075	0	0.08348782360553741	NA
+k o t e k ó w	k o t k i	2.1495754718780518	3	0.2561924457550049	NA
+n i e z a s z y d e ł k o w a n y c h	n i e z a s z y d e ł k o w a n y c h	0.05711916834115982	0	0.11916371434926987	NA
+n i e p r o p o r c j o n o w a n i a   s i ę	n i e p r o p o r c j o n o w a n i a   s i ę	0.06342050433158875	0	0.07022403925657272	NA
+t u r l i k a ł y b y ś c i e	t u r l i k a ł y b y ś c i e	0.05353330820798874	0	0.263449102640152	NA
+n a j p r z y s t ę p n i e j s z y m i	n a j p r z y s t ę p n i e j s z y m i	0.05257802456617355	0	0.13918787240982056	NA
+n i e h i p e r b o l i z o w a n i e	n i e h i p e r b o l i z o w a n i e	0.056095290929079056	0	0.07500874996185303	NA
+n i e n a d s a l a n y c h	n i e n a d s a l a n y c h	0.060445114970207214	0	0.1697378009557724	NA
+u t e r e n o w i o n y c h	u t e r e n o w i o n y c h	0.05509662628173828	0	0.27019065618515015	NA
+p o p a l a n e	p o p a l a n e	0.05906566604971886	0	0.1914534568786621	NA
+n i e d y f t o n g i z o w a n i e	n i e d y f t o n g i z o w a n i e	0.05846019834280014	0	0.08187483251094818	NA
+n a j s r e b r z y s t y c h	n a j s r e b r z y s t s z y c h	0.40242287516593933	2	0.2608324885368347	NA
+s k r z e l o n ó g o m	s k r z e l o n o g o m	0.522420346736908	1	0.15898534655570984	NA
+c e g i e l n i c t w o	c e g i e l n i c t w a	0.4156443774700165	1	0.12997671961784363	NA
+w y p o m a d o w a n y c h	w y p o m a d o w a n y c h	0.05765306204557419	0	0.14939959347248077	NA
+n i e z a p i e c z ę t o w y w a n y c h	n i e z a p i e c z ę t o w y w a n y c h	0.06096909940242767	0	0.10768315196037292	NA
+w y b e ł t a j ą   s i ę	w y b e ł t a j ą   s i ę	0.10125661641359329	0	0.3140046000480652	NA
+d r o b n y s z y	d r o b n i e j s z y	0.9419217109680176	3	0.1899552196264267	NA
+n i e m u s t r o w a n y m	n i e m u s t r o w a n y m	0.060261741280555725	0	0.10949937999248505	NA
+n i e u k a p i t a l i s t y c z n y c h	n i e u k a p i t a l i s t y c z n i a n y c h	0.445185124874115	3	0.1168697327375412	NA
+z a w a r z o n e j	z a w a r z o n e j	0.0554148331284523	0	0.15583620965480804	NA
+n i e o d c z ł o w i e c z a n y m	n i e o d c z ł o w i e c z a n y m	0.057488515973091125	0	0.08200214803218842	NA
+m a r t e n s	m a r t e n s e m	0.40988340973854065	2	0.4994291067123413	NA
+l a s z o w a ł y b y ś c i e	l a s z o w a ł y b y ś c i e	0.054098017513751984	0	0.26708507537841797	NA
+n i e u t ł u c o n y c h	n i e u t ł u c z o n y c h	0.35973823070526123	1	0.4053777754306793	NA
+n i e s p r o f i l o w a n e j	n i e s p r o f i l o w a n e j	0.0568724125623703	0	0.09788982570171356	NA
+r o z s z o n e	r o z s z y t e	0.8105640411376953	2	0.19818440079689026	NA
+p r z e s i ą c y c h	p r z e s i ą k n i ę t y c h	1.1696901321411133	5	0.48290303349494934	NA
+n i e d ź w i g a n ą	n i e d ź w i g a n ą	0.06449512392282486	0	0.16243968904018402	NA
+n i e s t r o f o w a n y	n i e s t r o f o w a n y	0.05887952074408531	0	0.12028826028108597	NA
+w y g o d n y s z e	w y g o d n i e j s z e	0.8052539229393005	3	0.19515126943588257	NA
+n i e s r e b r z o n e	n i e s r e b r z o n e	0.05939501151442528	0	0.1327611356973648	NA
+n i e s t ę b n o w a n ą	n i e s t ę b n o w a n ą	0.05663229152560234	0	0.1393195390701294	NA
+n a j s t a r o d a w n i e m i	n a j s t a r o d a w n i e j s z y m i	0.2729777693748474	4	0.3221592307090759	NA
+n i e w y t ł o m a c z e n i o m	n i e w y t ł o m a c z e n i o m	0.056937627494335175	0	0.09260337054729462	NA
+p o j a ś n i o n e g o	p o j a ś n i o n e g o	0.08139520138502121	0	0.1522136926651001	NA
+n i e u s t r o n y	n i e u s t r o j o n y	0.31303131580352783	2	0.18650446832180023	NA
+n i e r o z s a d a j ą c y m   s i ę	n i e r o z s a d a w i a j ą c y m   s i ę	0.3287464678287506	3	0.09095590561628342	NA
+m a s y w n y w s z y c h	m a s y w n i e j s z y c h	0.570895254611969	3	0.41061410307884216	NA
+w e z w y c z a j a n y c h	w e z w y c z a j a n y c h	0.055898167192935944	0	0.5728731155395508	NA
+p r z e g a r b o w a n y c h	p r z e g a r b o w a n y c h	0.05738004297018051	0	0.262599915266037	NA
+n i e s p a s a n e j	n i e s p a s a n e j	0.057401418685913086	0	0.1310219019651413	NA
+n i e d u p l i k o w a n ą	n i e d u p l i k o w a n ą	0.05963267385959625	0	0.1367090791463852	NA
+n i e u m a c z a j ą c y m	n i e u m a c z a j ą c y m	0.0567803792655468	0	0.11612549424171448	NA
+n i e d o k o p y w a n i o m	n i e d o k o p y w a n i o m	0.05629914999008179	0	0.10528296232223511	NA
+n i e r o z c z e p i a n i o m   s i ę	n i e r o z c z e p i a n i o m   s i ę	0.057348206639289856	0	0.08761612325906754	NA
+p u s z k o w a n i	p u s z k o w a n i	0.05757662281394005	0	0.16509917378425598	NA
+p o k u s z a n e	p o k u s z a n e	0.05637256056070328	0	0.18510259687900543	NA
+a g u t i e m	a g u t i	1.0857772827148438	2	0.28082478046417236	NA
+n i e z a k i s z a n y c h	n i e z a k i s z a n y c h	0.059253793209791183	0	0.19692105054855347	NA
+n i e u w a ł o w a n e j	n i e u w a ł o w a n e j	0.05814182758331299	0	0.11908598989248276	NA
+n i e o w i ą z y w a n i e	n i e o w i ą z y w a n i e	0.05727098509669304	0	0.10503740608692169	NA
+r e w i z y t u j ą	r e w i z y t u j ą	0.05180005729198456	0	0.15495526790618896	NA
+n i e n a s z k l o n y c h	n i e n a s z k l o n y c h	0.05805166810750961	0	0.30822423100471497	NA
+s z c z y r y s z e	s z c z y r s z e	0.6772727370262146	1	0.2575454115867615	NA
+o b s z c z e k i w a n e	o b s z c z e k i w a n e	0.05771534889936447	0	0.12187305837869644	NA
+z a i n i c j o w a n y c h	z a i n i c j o w a n y c h	0.05713148042559624	0	0.1639050990343094	NA
+r o z d o l i n i e n i e	r o z d o l i n i e n i e	0.05949292704463005	0	0.12473428249359131	NA
+m a l e ń t a s z e m	m a l e ń t a s e m	0.5020567774772644	1	0.24070416390895844	NA
+n i e o d ż u ż l o w a n y c h	n i e o d ż u ż l o w a n y c h	0.05923296511173248	0	0.23154518008232117	NA
+n i e o d r ę b y w a n ą	n i e o d r ę b y w a n ą	0.05700400099158287	0	0.14184150099754333	NA
+n i e p o r y k i w a n i o m	n i e p o r y k i w a n i o m	0.05744219943881035	0	0.10746767371892929	NA
+n i e n a r k o t y z o w a n i a	n i e n a r k o t y z o w a n i a	0.05933926999568939	0	0.09329714626073837	NA
+n i e p r z y c h y l a n y	n i e p r z y c h y l a n y	0.058506324887275696	0	0.11177896708250046	NA
+p o d z i e r ż a n e	p o d d z i e r ż a w i o n e	0.6131626963615417	4	0.1713951975107193	NA
+d o s t a t e c z n a	d o s t a t e c z n i e j s z a	1.6192764043807983	5	0.17544056475162506	NA
+n i e p r z y p r a s o w a n i o m   s i ę	n i e p r z y p r a s o w a n i o m   s i ę	0.058186355978250504	0	0.07152009755373001	NA
+n i e p r z e d u k i w a n e	n i e p r z e d u k i w a n e	0.05877498909831047	0	0.10434319823980331	NA
+m o d n y c h	m o d n i e j s z y c h	0.8042182922363281	5	0.3513062298297882	NA
+k r ą ż k o w a n y	k r ą ż k o w a n y	0.05387602746486664	0	0.1506159007549286	NA
+n i e ś l i n i o n y m	n i e ś l i n i o n y m	0.053907472640275955	0	0.15727639198303223	NA
+o k o p c z y k o w a n e	o k o p c z y k o w a n e	0.057200390845537186	0	0.11938441544771194	NA
+b ę d ę   p r z e w i l ż a ł a   s i ę	b ę d ę   p r z e w i l ż a ł a   s i ę	0.06856320053339005	0	0.09106528759002686	NA
+p o d s i w i o n y c h	p o d s i w i o n y c h	0.05426034703850746	0	0.18361788988113403	NA
+z a l a m i n o w a n e	z a l a m i n o w a n e	0.060181938111782074	0	0.132760152220726	NA
+n i e p r z e d r a m a t y z o w a n i e   s i ę	n i e p r z e d r a m a t y z o w y w a n i e   s i ę	0.2770678400993347	2	0.0575525127351284	NA
+n i e r o z c h l a p y w a n y c h	n i e r o z c h l a p y w a n y c h	0.05885649845004082	0	0.17639057338237762	NA
+n a d y b a n e	n a d y b a n e	0.058257605880498886	0	0.20046478509902954	NA
+n i e e g a l i t a r y z o w a n y m	n i e e g a l i t a r y z o w a n y m	0.05905655771493912	0	0.07727877795696259	NA
+n i e z a p u s z c z a n y	n i e z a p u s z c z a n y	0.059515487402677536	0	0.11055979877710342	NA
+n i e r o z w a ż n s z y c h	n i e r o z w a ż n i e j s z y c h	0.4381772577762604	3	0.43377166986465454	NA
+n a j n i e z ł o m n i e j	n a j n i e z ł o m n i e j s z e j	0.1541820764541626	4	0.11685554683208466	NA
+z n i e l u b i ą   s i ę	z n i e l u b i ą   s i ę	0.06869672983884811	0	0.21051688492298126	NA
+p r a g m a t y z o w a n e	p r a g m a t y z o w a n e	0.05716320499777794	0	0.11325118690729141	NA
+p o k o ś c i o n e	p o k o s z c z o n e	0.5978214740753174	3	0.16607236862182617	NA
+n i e p o c i u p c i a n ą	n i e p o c i u p c i a n ą	0.06279368698596954	0	0.2876322567462921	NA
+n i e a f r y k a n i z o w a n y c h	n i e a f r y k a n i z o w a n y c h	0.05770616978406906	0	0.16024668514728546	NA
+t a l k o w a n y	t a l k o w a n y	0.05674029141664505	0	0.16635540127754211	NA
+n i e p r z y l i z a n y	n i e p r z y l i z a n y	0.059880077838897705	0	0.12018764764070511	NA
+n a j r y t m i c z n i e j	n a j r y t m i c z n i e j s z e j	0.1757720708847046	4	0.18278785049915314	NA
+z w i e r z ą	z w i e r z ą	0.19630149006843567	0	0.38609036803245544	NA
+n a s t o p e r c z o n e g o	n a s t o p e r c z o n e g o	0.055548496544361115	0	0.1017502024769783	NA
+s ł o n e ń k o	s ł o n e ń k a	0.6152670383453369	1	0.29371359944343567	NA
+u t o ż s a m i o n e j	u t o ż s a m i o n e j	0.052825864404439926	0	0.12669827044010162	NA
+n a j c i e k a w s z e j	n a j c i e k a w s z e j	0.09344854205846786	0	0.21042506396770477	NA
+c y p r y s	c y p r y s a	0.8002178072929382	1	0.39928513765335083	NA
+w y r e p e r o w y w a ł y b y ś c i e   s i ę	w y r e p e r o w y w a ł y b y ś c i e   s i ę	0.056302137672901154	0	0.060072146356105804	NA
+n i e h a c k o w a n y	n i e h a c k o w a n y	0.05915984883904457	0	0.1299770474433899	NA
+n i e u z m y s ł o w i o n y	n i e u z m y s ł o w i o n y	0.05547862499952316	0	0.0992741659283638	NA
+p r z e k r w a n e	p r z e k r w a w i o n e	0.4371548295021057	3	0.16038547456264496	NA
+p i e c z ą t k a r z u	p i e c z ą t k a r z e m	0.16079925000667572	2	0.267657071352005	NA
+o s k a l i s k o w i	<UNK> o s k a l i s k i e m	1.7455216646194458	4	0.2568672299385071	NA
+n i e p o d o c z e p i a n y	n i e p o d o c z e p i a n y	0.058908067643642426	0	0.10107576847076416	NA
+n i e o b s k u b y w a n i e   s i ę	n i e o b s k u b y w a n i e   s i ę	0.0569697730243206	0	0.0882241278886795	NA
+s p a t r z o n e	s p a t r z o n e	0.0575743094086647	0	0.17998352646827698	NA
+t a s k a n y	t a s k a n y	0.05444641783833504	0	0.21834547817707062	NA
+n i e w z j e ż a n ą	n i e w z j e ż a n ą	0.056001875549554825	0	0.1528719812631607	NA
+n i e z r u m i e n i a n e	n i e z r u m i e n i a n e	0.06032157316803932	0	0.11098719388246536	NA
+j e ż y n i a k u	j e ż y n i a k o w i	0.15756769478321075	3	0.242400124669075	NA
+n i e s k r a c a n e	n i e s k r a c a n e	0.05875665321946144	0	0.14773400127887726	NA
+n a j z ł o m n i e ń s z e	n a j z ł o m n i e j s z e	0.24266164004802704	1	0.11956453323364258	NA
+n a m i e n i a n y	n a m i e n i a n y	0.05853477865457535	0	0.16173478960990906	NA
+n i e p r z e s p a w a n i o m   s i ę	n i e p r z e s p a w a n i o m   s i ę	0.05844949930906296	0	0.08309942483901978	NA
+n i e r o z r y t ą	n i e r o z r y t ą	0.0663236677646637	0	0.3965221345424652	NA
+n i e p r z e f o r m o w y w a n y c h	n i e p r z e f o r m o w y w a n y c h	0.05671539157629013	0	0.10354143381118774	NA
+n i e w y p s i k i w a n i o m	n i e w y p s i k i w a n i o m	0.05715888738632202	0	0.09845034778118134	NA
+n i e z e g n a n y	n i e z e g n a n y	0.058216776698827744	0	0.1538902372121811	NA
+n i e o b ł y s k i w a n y m	n i e o b ł y s k i w a n y m	0.05743178352713585	0	0.09799859672784805	NA
+n i e o c u c a n i o m	n i e o c u c a n i o m	0.05555669218301773	0	0.15196512639522552	NA
+z b i e r a c t w a	z b i e r a c t w a	0.062203530222177505	0	0.17416837811470032	NA
+p s i n a m	p s i n o m	0.886687159538269	1	0.33422425389289856	NA
+o d k r a d a n y c h	o d k r a d a n y c h	0.05713080242276192	0	0.44718122482299805	NA
+n i e s p i r a t o w a n ą	n i e s p i r a t o w a n ą	0.05846500024199486	0	0.2716078460216522	NA
+n a j m i ł o s i e r n i e j s z y c h	n a j m i ł o s i e r n i e j s z y c h	0.12172079086303711	0	0.19854046404361725	NA
+w y ż a r z o n e	w y ż a r z o n e	0.05413379147648811	0	0.17436924576759338	NA
+n i e p r z e b u m b l o w y w a n i a	n i e p r z e b u m b l o w y w a n i a	0.05527176707983017	0	0.07225107401609421	NA
+o d z i e r a ł y b y ś c i e	o d d z i e r a ł y b y ś c i e	0.2538186311721802	1	0.2855057716369629	NA
+z a k u p i o n y c h	z a k u p i o n y c h	0.05175097659230232	0	0.563016414642334	NA
+n a j d o r o s ł e j s z e j	n a j d o r o ś l e j s z e j	0.6854740977287292	2	0.11008968204259872	NA
+t ł u s t y c h	t ł u ś c i e j s z y c h	0.9416643977165222	6	0.3638559877872467	NA
+p r z e d s t a w i a n y	p r z e d s t a w i a n y	0.05899704620242119	0	0.11987122148275375	NA
+n i e n a r u s z a n ą	n i e n a r u s z a n ą	0.060125675052404404	0	0.1545073688030243	NA
+k u n s z t o w n i e	k u n s z t o w n i e j s z e	0.505559504032135	4	0.19615863263607025	NA
+n i e s i e r o c o n e j	n i e s i e r o c o n e j	0.0675976499915123	0	0.12333489954471588	NA
+b o g o b o j n e s z e	b o g o b o j n i e j s z e	0.744874119758606	2	0.14193125069141388	NA
+n i e n a p i ę t n o w a n y c h	n i e n a p i ę t n o w a n y c h	0.05869758874177933	0	0.16865402460098267	NA
+p r o p a g a n d z i s t a	p r o p a g a n d z i ś c i e	0.8994916081428528	4	0.12175624072551727	NA
+b u f o r o w a n e m u	b u f o r o w a n e m u	0.06014673411846161	0	0.13760806620121002	NA
+n a j z i m n i e ń s z e	n a j z i m n i e j s z e	0.16119973361492157	1	0.15975061058998108	NA
+u p a m i ę t a n e j	u p a m i ę t a n e j	0.05156736075878143	0	0.13732977211475372	NA
+o ś w i e t l a n e	o ś w i e t l a n e	0.05673274025321007	0	0.1555556356906891	NA
+n i e w t a c h i w a n i o m   s i ę	n i e w t a c h i w a n i o m   s i ę	0.05741841718554497	0	0.09252239018678665	NA
+e s t e t y c z n e	e s t e t y c z n i e j s z e	0.8968228101730347	5	0.18256022036075592	NA
+n i e s z u w a k s o w a n e j	n i e s z u w a k s o w a n e j	0.058021847158670425	0	0.09719614684581757	NA
+n i e o d r a m a t y z o w a n ą	n i e o d d r a m a t y z o w a n ą	0.2193327397108078	1	0.25852110981941223	NA
+o m n i s z a n i	o m n i s z a n i	0.05847741290926933	0	0.19455495476722717	NA
+l e n t y s z e k o m	l e n t y s z k o m	0.5454819202423096	1	0.17207235097885132	NA
+n i e d o m i e s z c z a n y c h	n i e d o m i e s z c z a n y c h	0.05703122168779373	0	0.11027537286281586	NA
+n i e d z i e c k o w a n y	n i e d z i e c k o w a n y	0.06021248176693916	0	0.11095704883337021	NA
+u g r a b i o n y c h	u g r a b i o n y c h	0.05203469470143318	0	0.18375705182552338	NA
+n i e w y c h l i p n i ę t y	n i e w y c h l i p n i ę t y	0.05398528650403023	0	0.09730953723192215	NA
+n a j d u m n i e j s z e j	n a j d u m n i e j s z e j	0.04959367215633392	0	0.1876210719347	NA
+n i e m o t y w o w a n y	n i e m o t y w o w a n y	0.060215551406145096	0	0.12243040651082993	NA
+u p e r f u m o w a n e g o	u p e r f u m o w a n e g o	0.05304702743887901	0	0.10833510756492615	NA
+n i e p o g ł ę b i a n y c h	n i e p o g ł ę b i a n y c h	0.05507601797580719	0	0.2955617606639862	NA
+n i e w y j a s k r a w i o n y	n i e w y j a s k r a w i o n y	0.05643696337938309	0	0.09304418414831161	NA
+w e s a j ą   s i ę	w e s s ą   s i ę	1.2071740627288818	2	0.4014795422554016	NA
+p o p r z e c h o d z o n i o n e	p o p r z e c h o d z o n e	0.42065638303756714	3	0.14953026175498962	NA
+p a h l a w i	p a h l a w i	0.0638018473982811	0	0.213151216506958	NA
+w t r z ą c h a n y	w t r z ą c h a n y	0.06265156716108322	0	0.15721756219863892	NA
+n i e w t r a n ż o l o n e	n i e w t r a n ż o l o n e	0.05797366052865982	0	0.10726836323738098	NA
+n i e p o b j a d a n y c h	n i e p o o b j a d a n y c h	0.2538870573043823	1	0.3809110224246979	NA
+n i e k a n e l o w a n i o m   s i ę	n i e k a n e l o w a n i o m   s i ę	0.05910271406173706	0	0.0899803563952446	NA
+n i e s z a t k o w a n y m	n i e s z a t k o w a n y m	0.06103409081697464	0	0.12849213182926178	NA
+n i e z a d z i e r z g i w a n y c h	n i e z a d z i e r z g i w a n y c h	0.059578798711299896	0	0.09180065244436264	NA
+u z a w o d o w i o n e	u z a w o d o w i o n e	0.05669816955924034	0	0.13031837344169617	NA
+z r e l a c j o n u j ą	z r e l a c j o n u j ą	0.0811719074845314	0	0.16134999692440033	NA
+d o p y t y w a n e	d o p y t y w a n e	0.05639921501278877	0	0.15789200365543365	NA
+o k i e n k ó	o k i e n k a	0.5073795914649963	1	0.3754268288612366	NA
+n i e w y w o d z o n y c h	n i e w y w o d z o n y c h	0.06400789320468903	0	0.5079981088638306	NA
+n i e n a s t r ę c z a n i e	n i e n a s t r ę c z a n i e	0.05780543386936188	0	0.09879523515701294	NA
+g r u z y	g r u z y	0.1332114338874817	0	0.4141028821468353	NA
+p r z y k ł o n i o n e g o	p r z y k ł o n i o n e g o	0.05483528599143028	0	0.11091168224811554	NA
+n i e w y s z u l e r o w u j ą c y m	n i e w y s z u l e r o w u j ą c y m	0.05597473308444023	0	0.07513325661420822	NA
+p o d s z a r p y w a n e	p o d s z a r p y w a n e	0.060006823390722275	0	0.12143145501613617	NA
+n i e p r z e d a w k o w y w a n i e	n i e p r z e d a w k o w y w a n i e	0.058248549699783325	0	0.07740096002817154	NA
+z a h a n g a r o w a n e g o	z a h a n g a r o w a n e g o	0.057573121041059494	0	0.10384538769721985	NA
+r o z c z ł a p y w a n e	r o z c z ł a p y w a n e	0.057853274047374725	0	0.11919854581356049	NA
+ś l a m a z a r s t w o	ś l a m a z a r s t w a	0.5032309889793396	1	0.13168102502822876	NA
+n i e s z c z e p a n i a	n i e s z c z e p a n i a	0.05832550302147865	0	0.12602002918720245	NA
+w y m i ę t o s z o n e g o	w y m i ę t o s z o n e g o	0.07714538276195526	0	0.1363360583782196	NA
+n a j s t a t e c z n i e g o	n a j s t a t e c z n i e j s z y c h	0.17833292484283447	6	0.29320091009140015	NA
+n i e z a k a s y w a n y m	n i e z a k a s y w a n y m	0.058707818388938904	0	0.11014021933078766	NA
+n i e w y p o r z ą d k o w a n y	n i e w y p o r z ą d k o w a n y	0.05839335918426514	0	0.08773742616176605	NA
+k r z y ż o w i a c z e k ó w	k r z y ż o w i a c z k i	0.6959822773933411	3	0.10705865174531937	NA
+n a t r y s k i w a n e m u	n a t r y s k i w a n e m u	0.0615779310464859	0	0.11666186898946762	NA
+n i e p r z e c h w a l a n i e   s i ę	n i e p r z e c h w a l a n i e   s i ę	0.05800480395555496	0	0.0807788074016571	NA
+z a k l a j s t r o w a n y c h	z a k l a j s t r o w a n y c h	0.05683356150984764	0	0.12225089222192764	NA
+n i e k o n s o l i d o w a n y m	n i e k o n s o l i d o w a n y m	0.05852903425693512	0	0.08480537682771683	NA
+t r a n s f o r m e r c o w i	t r a n s f o r m e r o w i	0.20085954666137695	1	0.24390994012355804	NA
+z a d r u t o w a n y c h	z a d r u t o w a n y c h	0.05777367576956749	0	0.3527553081512451	NA
+k o k i e t o w a n e	k o k i e t o w a n e	0.059582650661468506	0	0.15006116032600403	NA
+g y r o s o m	g y r o s o m	0.17368857562541962	0	0.3731828033924103	NA
+n i e u ś m i e r z a n y c h	n i e u ś m i e r z a n y c h	0.05640367791056633	0	0.1399472951889038	NA
+n i e t r a k t o w a n y c h	n i e t r a k t o w a n y c h	0.05992509424686432	0	0.3919770121574402	NA
+m e n e d ż e r o m	m e n e d ż e r o m	0.07461680471897125	0	0.23289412260055542	NA
+p u n i	ć p u n o w i	1.664755940437317	3	0.46908456087112427	NA
